@@ -1,0 +1,75 @@
+body{
+  margin:0;
+  font-family: sans-serif
+}
+.block{
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+    overflow: hidden;
+    position: fixed;
+    background:
+    linear-gradient(
+    rgba(0, 184, 255, 0.45),
+    rgba(0, 184, 255, 0.45)
+    ),
+    url("images/astro.jpeg");
+  background-size: 100%;
+  text-align: center;
+
+}
+h1{
+  line-height: 350px;
+  color: #ffffff;
+  font-size: 45px;
+  margin: auto;
+}
+.wrapper {
+    text-align: center;
+
+}
+
+.button1 {
+    position: absolute;
+    top: 50%;
+    right: 40.5%;
+    margin-left: 2px;
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+.wrapper2 {
+    text-align: top;
+    border: 1px;
+}
+
+.button2 {
+    position: absolute;
+    top: 50%;
+    left: 40.5%;
+    margin-right: 2px;
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+}
+.userinput{
+    position: absolute;
+    top: 57%;
+    left: 40.5%;
+    background-color: #4CAF50; /* Green */
+}

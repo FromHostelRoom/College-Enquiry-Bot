@@ -1,33 +1,71 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+
   <head>
-    <title> Ivy Bot </title>
-    <link rel="stylesheet" type="text/css"
-     href="{{ url_for('static',filename='styles/styles.css') }}">
-    </head>
-    <body>
-      <div class="block">
-        <div class="wrapper">
-           <button class="button1">Voice Input</button>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Ivy - College Enquiry Chatbot</title>
+
+    <link rel="stylesheet" type="text/css" href="/static/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="/static/css/styles.css">
+    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+   
+  </head>
+
+  <body>
+    <div class="container">
+      <div class="row">
+
+        <div class="box-with-text">
+            IVY
         </div>
-		<div class="wrapper2" id="button-div" onclick="showip()">
-			<button class="button2">Text Input</button>
-		</div>
-        <h1>
-         Hey there i am Ivy !
+
+        <h1 class="subtext">
+          A Gateway to your College Hunt!
         </h1>
+
+        <div class="action-buttons">
+
+          <div class='wrap'>
+            <div class='content'>
+                <div class="row-close-btn">
+                  <i class="fa fa-times close-button"></i>
+                </div>
+
+                <form name="search-form" id="search-form" method="post" action="/result" >
+                <textarea name="type-input" class="type-input" placeholder="Type a college name or a query"></textarea>
+
+                <div class="mic-search-box">
+                  <img src="/static/css/images/microphone.gif">
+                  <textarea name="mic-input" class="mic-input" placeholder="Listening!....."></textarea>
+                </div>
+
+
+                <button type="button" class="btn btn-warning btn-cons">Submit</button>
+
+              </form>
+                
+            </div>
+          </div> 
+
+
+          <button type="button" id="search-popup-btn" class="btn btn-default btn-circle" style="margin-right: 15%"><i class="fa fa-search fa-2x"></i></button>
+          
+          <button type="button" id="mic-popup-btn" class="btn btn-default btn-circle"><i class="fa fa-microphone fa-2x"></i></button>
+        </div>
+
+        <div class="half-circle"></div>
+
+       
+
       </div>
-		<div class="userinput" id="input-field" style="display: none;">
-			<input type="text" name="ip" />
-		</div>
+    </div>
   </body>
-</html>
-
-<script type="text/javascript">
-
-	function showip()
-	{
-		document.getElementById('input-field').style.display = "block";
-
-	}
-</script>
+</hmtl>
+<script src="//cdnjs.cloudflare.com/ajax/libs/annyang/2.6.0/annyang.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/SpeechKITT/0.3.0/speechkitt.min.js"></script>
+<script src="/static/js/jquery.min.js"></script>
+<script src="/static/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/static/js/custom.js"></script>

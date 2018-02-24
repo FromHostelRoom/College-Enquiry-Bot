@@ -1,3 +1,5 @@
+from logic import return_label
+
 def query_validation(message):
 	array = ['colleges', 'college', 'university', 'universities', 'campus', 'campuses', 'schools', 'school', 'IIT', 'IIM', 'IIIT', 'NIT']
 	
@@ -9,6 +11,8 @@ def query_validation(message):
 			flag = 0
 
 	if flag == 1:
-		return "Showing "+message
+		label = return_label(message)
+		return label
 	else:
 		return "Sorry, no data available."
+	

@@ -1,16 +1,11 @@
-from chatterbot import ChatBot
-
-from flask import Flask, render_template
-from chatterbot import ChatBot
-from chatterbot.trainers import ChatterBotCorpusTrainer
-from flask import request
+from flask import Flask
 from flask import render_template
 from flask import flash
 from flask import jsonify
+from flask import request
 from validate_query import query_validation
 
 app = Flask(__name__)
-
 
 @app.route("/",methods=['GET'])
 def home():
@@ -18,7 +13,10 @@ def home():
 
 @app.route("/", methods=['POST'])
 def fetch_result():
-	message = (request.form['mic-input'])
+	if(request.form['mic-input']):
+		message = request.form['mic-input']
+	if(request.form['type-input']):
+		message = request.form['type-input']
 	x = query_validation(message)
 	return x
 	

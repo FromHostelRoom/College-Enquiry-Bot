@@ -1,18 +1,14 @@
 $(document).ready(function() {
 
+  $("textarea").text("");
   $('#search-popup-btn').on('click', function(){
     $('.wrap').toggleClass('active');
-    $('.type-input').css('visibility','visible');
-    
+    $('.type-input').css('visibility','visible'); 
   });
 
   $('#mic-popup-btn').on('click', function(){
    
-    var su = new SpeechSynthesisUtterance();
-    su.lang = "en";
-    su.text = "Hello! How may I help you?";
-    speechSynthesis.speak(su);
-
+    speak("Hello! How may I help you?");
     $('.wrap').toggleClass('active');
     $('.mic-search-box').css('visibility','visible');
 
@@ -25,10 +21,9 @@ $(document).ready(function() {
           annyang.addCallback('result', function(userSaid) {
           annyang.abort();
           $('.mic-input').text(userSaid[0]);
-          su.text = "Please wait while we process your query.";
-          speechSynthesis.speak(su);
+          speak("Please wait while we process your query");
 
-          fetch_result(userSaid, su);
+          fetch_result(userSaid[0]);
 
           });
         }
@@ -45,18 +40,28 @@ $(document).ready(function() {
      $('textarea').text("");
   });
 
+  $('#submit-query').click(function()
+  {
+    fetch_result($('#type-input').text());
+  });
+
 });
 
+function speak(dialogue) {
+    var su = new SpeechSynthesisUtterance();
+    su.lang = "en";
+    su.text = dialogue;
+    speechSynthesis.speak(su);
+}
 
-function fetch_result(input,su)
+function fetch_result(input)
 {
   $.ajax({
     type:"POST",
     url:"/",
     data: $('form').serialize(),
     success: function(data) {
-      su.text = data;
-      speechSynthesis.speak(su);
+      console.log(data);
     },
     
   });

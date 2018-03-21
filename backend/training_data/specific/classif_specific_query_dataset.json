@@ -1,0 +1,77 @@
+{
+    "entity_examples": [
+      {
+        "text": "FACILITY",
+        "intent": "facilities",
+        "rts":  "facilities in COLLEGE are ",
+        "query": " WHERE `college_name` = COLLEGE"
+      },
+      {
+        "text": "REVIEW",
+        "intent": "reviews",
+        "rts": "Here are the reviews ",
+        "query": " WHERE `college_name` = COLLEGE"
+      },
+      {
+        "text": "RANK",
+        "intent": "mhrd",
+        "rts": "Rank of COLLEGE is ",
+        "query": " WHERE `college_name` = COLLEGE"
+      },
+      {
+        "text": "AFFILIATION",
+        "intent": "affiliation",
+        "rts": "COLLEGE is affiliated to ",
+        "query": " WHERE `college_name` = COLLEGE"
+      },
+      {
+        "text": "ESTABLISHED",
+        "intent": "established",
+        "rts": "COLLEGE was established in ",
+        "query": " WHERE `college_name` = COLLEGE"
+      },
+      {
+        "text": "LOCATION",
+        "intent": "city_name, state_name",
+        "rts": "COLLEGE is located in ",
+        "query": " WHERE `college_name` = COLLEGE"
+      },
+      {
+        "text": "TYPE",
+        "intent": "type",
+        "rts": "COLLEGES is ",
+        "query": " WHERE `college_name` = COLLEGE"
+      },
+      {
+        "text": "ALL",
+        "intent": "*",
+        "rts": "Here are all the details of this college",
+        "query": " WHERE `college_name` = COLLEGE"
+      },
+      {
+        "text": "SUBSTR FEE",
+        "intent": "total",
+        "rts": "SUBSTR annual fees in COLLEGE is ",
+        "query": " WHERE `substream_name`=SUBSTR and `college_name` = COLLEGE"
+      },
+      {
+        "text": "STREAM FEE",
+        "intent": "total",
+        "rts":  "STREAM annual fees in COLLEGE is ",
+        "query": " WHERE `stream_name`=STREAM and `college_name` = COLLEGE"
+      },
+      {
+        "text": "SUBSTR SEATS",
+        "intent": "seats",
+        "rts":  "SUBSTR seats in COLLEGE is ",
+        "query": " WHERE `substream_name`=SUBSTR and `college_name` = COLLEGE"
+      },
+      {
+        "text": "STREAM SEATS",
+        "intent": "seats",
+        "rts":  "STREAM seats in COLLEGE is ",
+        "query": " WHERE `stream_name`=STREAM and `college_name` = COLLEGE"
+      }
+     
+    ]
+}

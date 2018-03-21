@@ -1,0 +1,200 @@
+{
+    "entity_examples": [
+      {
+        "text": "ORDER STREAM LOC-CITY",
+        "intent": "order_str_city",
+        "query": " where `stream_name`= STREAM, `city_name` = LOC-CITY ORDER BY `mhrd`*1"
+      },
+      {
+        "text": "ORDER STREAM LOC-COUNTRY",
+        "intent": "order_str_india",
+        "query": " where `stream_name`= STREAM, `country_name` = 'India' ORDER BY `mhrd`*1"
+      },
+      {
+        "text": "ORDER STREAM LOC-STATE",
+        "intent": "order_str_state",
+        "query": " where `stream_name`= STREAM, `state_name` = LOC-STATE ORDER BY `mhrd`*1"
+      },
+      {
+        "text": "ORDER SUBSTREAM LOC-CITY",
+        "intent": "order_substr_city",
+        "query": " where `substream_name`= SUBSTREAM, `city_name` = LOC-CITY ORDER BY `mhrd`*1"
+      },
+      {
+        "text": "ORDER SUBSTREAM LOC-COUNTRY",
+        "intent": "order_substr_india",
+        "query": " where `substream_name`= SUBSTREAM, `country_name` = 'India' ORDER BY `mhrd`*1"
+      },
+      {
+        "text": "ORDER SUBSTREAM LOC-STATE",
+        "intent": "order_substr_state",
+        "query": " where `substream_name`= SUBSTREAM, `city_name` = LOC-STATE ORDER BY `mhrd`*1"
+      },
+      {
+        "text": "ORDER LOC-CITY STREAM",
+        "intent": "order_str_city",
+        "query": " where `stream_name`= STREAM, `city_name` = LOC-CITY ORDER BY `mhrd`*1"
+      },
+      {
+        "text": "ORDER LOC-CITY SUBSTREAM",
+        "intent": "order_substr_city",
+        "query": " where `substream_name`= SUBSTREAM, `city_name` = LOC-CITY ORDER BY `mhrd`*1"
+      },
+      {
+        "text": "ORDER LOC-COUNTRY STREAM",
+        "intent": "order_str_india",
+        "query": " where `stream_name`= STREAM, `country_name` = LOC-CITY ORDER BY `mhrd`*1"
+      },
+      {
+        "text": "ORDER LOC-COUNTRY SUBSTREAM",
+        "intent": "order_substr_india",
+        "query": " where `substream_name`= SUBSTREAM, `country_name` = 'India' ORDER BY `mhrd`*1"
+      },
+      {
+        "text": "ORDER LOC-STATE STREAM",
+        "intent": "order_str_state",
+        "query": " where `stream_name`= STREAM, `state_name` = LOC-STATE ORDER BY `mhrd`*1"
+      },
+      {
+        "text": "ORDER LOC-STATE SUBSTREAM",
+        "intent": "order_substr_state",
+        "query": " where `substream_name`= SUBSTREAM, `state_name` = LOC-STATE ORDER BY `mhrd`*1"
+      },
+
+      {
+        "text": "ORDER COUNT STREAM LOC-CITY",
+        "intent": "order_count_str_city",
+        "query": " where `stream_name`= STREAM, `city_name` = LOC-CITY ORDER BY `mhrd`*1 LIMIT COUNT"
+      },
+      {
+        "text": "ORDER COUNT STREAM LOC-COUNTRY",
+        "intent": "order_count_str_india",
+        "query": " where `stream_name`= STREAM, `country_name` = 'India' ORDER BY `mhrd`*1 LIMIT COUNT"
+      },
+      {
+        "text": "ORDER COUNT STREAM LOC-STATE",
+        "intent": "order_count_str_state",
+        "query": " where `stream_name`= STREAM, `state_name` = LOC-STATE ORDER BY `mhrd`*1 LIMIT COUNT"
+      },
+      {
+        "text": "ORDER COUNT SUBSTREAM LOC-CITY",
+        "intent": "order_count_substr_city",
+        "query": " where `substream_name`= SUBSTREAM, `city_name` = LOC-CITY ORDER BY `mhrd`*1 LIMIT COUNT"
+      },
+      {
+        "text": "ORDER COUNT SUBSTREAM LOC-COUNTRY",
+        "intent": "order_count_substr_country",
+        "query": " where `substream_name`= SUBSTREAM, `country_name` = 'India' ORDER BY `mhrd`*1 LIMIT COUNT"
+      },
+      {
+        "text": "ORDER COUNT SUBSTREAM LOC-STATE",
+        "intent": "order_count_substr_state",
+        "query": " where `substream_name`= SUBSTREAM, `state_name` = LOC-STATE ORDER BY `mhrd`*1 LIMIT COUNT"
+      },
+      {
+        "text": "ORDER COUNT LOC-CITY STREAM",
+        "intent": "order_count_str_city",
+        "query": " where `stream_name`= STREAM, `city_name` = LOC-CITY ORDER BY `mhrd`*1 LIMIT COUNT"
+      },
+      {
+        "text": "ORDER COUNT LOC-CITY SUBSTREAM",
+        "intent": "order_count_substr_city",
+        "query": " where `substream_name`= SUBSTREAM, `city_name` = LOC-CITY ORDER BY `mhrd`*1 LIMIT COUNT"
+      },
+      {
+        "text": "ORDER COUNT LOC-COUNTRY STREAM",
+        "intent": "order_count_str_india",
+        "query": " where `stream_name`= STREAM, `country_name` = 'India' ORDER BY `mhrd`*1 LIMIT COUNT"
+      },
+      {
+        "text": "ORDER COUNT LOC-COUNTRY SUBSTREAM",
+        "intent": "order_count_substr_india",
+        "query": " where `substream_name`= SUBSTREAM, `country_name` = 'India' ORDER BY `mhrd`*1 LIMIT COUNT"
+      },
+      {
+        "text": "ORDER COUNT LOC-STATE STREAM",
+        "intent": "order_count_str_state",
+        "query": " where `stream_name`= STREAM, `state_name` = LOC-STATE ORDER BY `mhrd`*1 LIMIT COUNT"
+      },
+      {
+        "text": "ORDER COUNT LOC-STATE SUBSTREAM",
+        "intent": "order_count_substr_state",
+        "query": " where `substream_name`= SUBSTREAM, `state_name` = LOC-STATE ORDER BY `mhrd`*1 LIMIT COUNT"
+      },
+      {
+        "text": "ORDER SUBSTREAM",
+        "intent": "order_substr_india",
+        "query": " where `substream_name`= SUBSTREAM ORDER BY `mhrd`*1"
+      },
+
+      {
+        "text": "ORDER STREAM",
+        "intent": "order_str_india",
+        "query": " where `stream_name`= STREAM ORDER BY `mhrd`*1"
+      },
+
+      {
+        "text": "SUBSTREAM LOC-COUNTRY",
+        "intent": "substr_india",
+        "query": " where `substream_name`= SUBSTREAM and `country_name` = 'India'"
+      },
+      {
+        "text": "SUBSTREAM LOC-CITY",
+        "intent": "substr_city",
+        "query": " where `substream_name`= SUBSTREAM and `city_name` = LOC-CITY"
+      },
+      {
+        "text": "SUBSTREAM LOC-STATE",
+        "intent": "substr_state",
+        "query": " where `substream_name`= SUBSTREAM and `state_name` = LOC-STATE"
+      },
+
+      {
+        "text": "STREAM LOC-COUNTRY",
+        "intent": "str_india",
+        "query": " where `stream_name`= STREAM and `country_name` = 'India'"
+      },
+      {
+        "text": "STREAM LOC-CITY",
+        "intent": "str_city",
+        "query": " where `stream_name`= STREAM and `city_name` = LOC-CITY"
+      },
+      {
+        "text": "STREAM LOC-STATE",
+        "intent": "str_state",
+        "query": " where `stream_name`= STREAM and `state_name` = LOC-STATE"
+      },
+
+      {
+        "text": "LOC-STATE",
+        "intent": "state",
+        "query": " where `state_name` = LOC-STATE"
+      },
+      {
+        "text": "LOC-CITY",
+        "intent": "city",
+        "query": " where `city_name` = LOC-CITY"
+      },
+      {
+        "text": "LOC-COUNTRY",
+        "intent": "india",
+        "query": " where `country_name` = 'India'"
+      },
+
+      {
+        "text": "ORDER LOC-STATE",
+        "intent": "order_state",
+        "query": " where `state_name` = LOC-STATE ORDER BY `mhrd`*1"
+      },
+      {
+        "text": "ORDER LOC-CITY",
+        "intent": "order_city",
+        "query": " where `city_name` = LOC-CITY ORDER BY `mhrd`*1"
+      },
+      {
+        "text": "ORDER LOC-COUNTRY",
+        "intent": "order_india",
+        "query": " where `country_name` = 'India' ORDER BY `mhrd`*1"
+      }     
+    ]
+}

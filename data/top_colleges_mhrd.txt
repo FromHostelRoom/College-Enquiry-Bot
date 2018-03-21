@@ -1,0 +1,223 @@
+"Indian Institute of Technology Madras - [IITM], Chennai
+"Indian Institute of Management - [IIM], Ahmedabad
+"National Law School of India University - [NLSIU], Bangalore
+"Christian Medical College - [CMC], Vellore
+"NALSAR University of Law - [NALSAR], Hyderabad
+"Indian Institute of Management - [IIMB], Bangalore
+"Maulana Azad Medical College - [MAMC], New Delhi
+"Christ University, Science, Bangalore
+"Christ University, Bangalore
+"Indian Institute of Management - [IIM], Lucknow
+"Christ University, Commerce And Management, Bangalore
+"School of Law, Christ University, Bangalore
+"Christ University, Faculty of Engineering, Bangalore
+"Christ University, Business Studies and Social Science, Bangalore
+"Lady Hardinge Medical College - [LHMC], New Delhi
+"Indian Institute of Management - [IIMK], Kozhikode
+"Symbiosis Law School - [SLS], Noida
+"Hans Raj College - [HRC], New Delhi
+"Aligarh Muslim University - [AMU], Aligarh
+"Indian Institute of Technology - [IIT], Kharagpur
+"Madras Christian College - [MCC], Chennai
+"ILS Law College - [ILS], Pune
+"Bharathidasan Institute of Technology, Anna University - [AUBIT], Thiruchirapalli
+"Anna University of Technology , Tirunelveli
+"Madurai Diraviyam Thayumanavar Hindu College, Tirunelveli
+"Hindu College, Moradabad
+"Hindu College of Education, Guntur
+"Hindu College of Education, Hisar
+"South Travancore Hindu College Nagercoil, Kanchipuram
+"Indian Institute of Technology - [IIT], Roorkee
+"Department of Management Studies, Anna University - [DOMS], Chennai
+"College of Engineering, Anna University - [CEG], Chennai
+"NSS Hindu College, Changanacherry
+"Anna University, Chennai
+"S.T. Hindu College of Education, Kanyakumari
+"Gobardanga Hindu College, North 24 Parganas
+"Institute for Ocean Management, Anna University - [IOM], Chennai
+"Alagappa College of Technology, Anna University - [ACT], Chennai
+"Hindu College of Pharmacy, Guntur
+"Institute of Remote Sensing, Anna University - [IRS], Chennai
+"Institute for Energy Studies, Anna University - [IES], Chennai
+"University College of Engineering, Anna University - [UCEN], Kanyakumari
+"Hindu College of Engineering and Techonology, Guntur
+"The M.D.T.Hindu College, Tirunelveli
+"Department of Management Studies, Indian Institute of Technology - [DMS IIT], Roorkee
+"Hindu College of Pharmacy, Sonepat
+"University College of Engineering, Anna University - [UCEV], Viluppuram
+"Sh. L.N Hindu College, Rohtak
+"Faculty of Law, Banaras Hindu University, Varanasi
+"Anna University, Centre for Distance Education, Chennai
+"Hindu College, Guntur
+"University College of Engineering, Anna University - [UCEA], Arni
+"Hindu College, Amritsar
+"Anna University of Technology, Madurai
+"Daita Sriramulu Hindu College of Law, Machilipatnam
+"Dharmamurthi Rao Bahadur Calavala Cunnan Chettys Hindu College - [DRBCCC], Chennai
+"University College of Engineering, Anna University - [UCET], Tindivanam
+"Anna University, College of Engineering  - [UCEK], Kanchipuram
+"Shri Ram College of Commerce - [SRCC], New Delhi
+"Jadavpur University, Kolkata
+"Hidayatullah National Law University - [HNLU], Raipur
+"Ramjas College, New Delhi
+"Indraprastha College for Women - [IP], New Delhi
+"National Institute of Industrial Engineering - [NITIE], Mumbai
+"Sri Ramachandra University, Chennai
+"Indian Institute of Chemical Technology - [IICT], Hyderabad
+"Sri Venkateswara College of Education, Pondicherry
+"Sri Venkateswara College of Pharmacy - [SVCP], Etcherla
+"Sri Venkateswara College of Engineering - [SVCE], Tirupati
+"Shroff SR Rotary Institute of Chemical Technology - [SRICT], Bharuch
+"Institute of Chemical Technology - [ICT], Mumbai
+"Indian Institute of Management - [IIM], Raipur
+"Sri Venkateswara College of Engineering - [SVCE], Kanchipuram
+"Sri Venkateswara College, New Delhi
+"Sri Venkateswara College of Pharmacy, Hyderabad
+"Sri Venkateswara College of Law, Tirupati
+"Sri Venkateswara College of Engineering & Technology - [SVCET], Thiruvallur
+"Sri Venkateswara College of Engineering and Technology - [SVCET], Srikakulam
+"Sri Venkateswara College of Nursing - [SVCON], Chittoor
+"Indian Institute of Technology - [IIT], Indore
+"Christian Medical College - [CMC], Ludhiana
+"Indian Institute of Management - [IIMU], Udaipur
+"Jesus and Mary College - [JMC], New Delhi
+"Management Development Institute - [MDI], Gurgaon
+"Army Institute of Law - [AIL], Mohali
+"Government Law College, Coimbatore
+"Government Law College, Thiruvananthapuram
+"Government Law College, Vellore
+"Government Law College, Tirunelveli
+"Dr. Ambedkar Government Law College, Chennai
+"Government Law College, Chengalpattu
+"Government Law College, Ramanagar
+"Government Law College, Sriganganagar
+"Government Law College, Madurai
+"Government Law College, Thiruchirapalli
+"Dr. B.R. Ambedkar Government Law College, Pondicherry
+"Indian Institute of Technology - [IIT], Bhubaneswar
+"Indian Institute of Technology - [IIT], Patna
+"Indian Institute of Management - [IIM], Rohtak
+"Jamia Millia Islamia University-[JMI], New Delhi
+"Government Medical College and Hospital - [GMCH], Chandigarh
+"Goa Medical College and Hospital, Bicholim
+"Shri Vasantrao Naik Government Medical College and Hospital - [SVNGMC], Yavatmal
+"Mahatma Gandhi Medical College and Hospital, Jaipur
+"Pacific Medical College and Hospital - [PMCH], Udaipur
+"Pt. Jawahar Lal Nehru Government Medical College and Hospital - [GMCH], Chamba
+"SLN Medical College and Hospital, Koraput
+"JSS Medical College and Hospital, Mysore
+"Vinayaka Missions Medical College and Hospital - [VMMCH], Karaikal
+"Bharati Vidyapeeth Deemed University Medical College and Hospital, Sangli
+"Maharaja Krishna Chandra Gajapati Medical College and Hospital - [MKCG], Berhampur
+"Katuri Medical College and Hospital, Guntur
+"Bakson Homoeopathic Medical College and Hospital - [BHMCH], Greater Noida
+"Anugrah Narayan Magadh Medical College and Hospital - [ANMMCH], Gaya
+"District Homoeopathic Medical College and Hospital - [DHMCH], Ratlam
+"Sree Balaji Medical College and Hospital - [SBMCH], Chennai
+"Gauhati Medical College and Hospital - [GMCH], Guwahati
+"Chirayu Medical College and Hospital - [CMCH], Bhopal
+"Annapoorna Medical College and Hospital, Salem
+"Basaveshwara Medical College and Hospital - [BMCH], Chitradurga
+"Z.V.M. Unani Medical College and Hospital, Pune
+"Dr. Somervell Memorial CSI Medical College and Hospital - [Dr. SMCSI], Thiruvananthapuram
+"JSS Ayurvedic Medical College and Hospital - [JSSAMC], Mysore
+"Sri Shivayogeeshwar Rural Ayurvedic Medical College and Hospital, Belgaum
+"KVG Medical College and Hospital, Sullia
+"Sri Ram Chandra Bhanj Medical College and Hospital - [SCBMCH], Cuttack
+"MES Medical College and Hospital, Malappuram
+"Narayana Medical College and Hospital, Nellore
+"Sri Manakula Vinayagar Medical College and Hospital - [SMVMCH], Pondicherry
+"Government Medical College and Hospital, Aurangabad
+"Government Sivagangai Medical College and Hospital, Sivaganga
+"Government Villupuram Medical College and Hospital, Villupuram
+"GMERS Medical College and Hospital, Ahmedabad
+"A.C.S. Medical College and Hospital, Chennai
+"R. G. Kar Medical College and Hospital - [RGKMCH], Kolkata
+"KIIT School of Management - [KSOM], Bhubaneswar
+"Byramjee Jeejeebhoy Government Medical College - [BJMC], Pune
+"Jayawantrao Sawant College of Engineering- [JSCOE], Pune
+"Indira College of Engineering & Management - [ICEM], Pune
+"Bharati Vidyapeeth College of Engineering For Women, Pune
+"Parvatibai Genba Moze College of Engineering - [PGMCOE] Wagholi, Pune
+"Rajarshi Shahu College of Engineering - [RSCOE] Tathawade, Pune
+"S.B. Patil College of Engineering - [SBPCOE] Indapur, Pune
+"Bhivarabai Sawant College of Engineering & Research-[BSCOER] Narhe, Pune
+"Trinity College of Engineering and Research, Pune
+"Smt Kashibai Navale College of Engineering - [SKNCOE] Vadgaon, Pune
+"Sahyadri Valley College of Engineering and Technology - [SVCET], Pune
+"Institute of Management Technology - [IMT], Ghaziabad
+"Siddhant College of Engineering - [SCOE] Sudumbare, Pune
+"GH Raisoni College of Engineering and Management - [GHRCEM] Wagholi, Pune
+"Shree Ramchandra College of Engineering - [SRCOE], Pune
+"PDEA College of Engineering Manjari, Pune
+"Genba Sopanrao Moze College of Engineering Balewadi, Pune
+"ModTech College of Engineering, Pune
+"Sinhgad College of Engineering - [SCOE] Vadgaon Ambegaon, Pune
+"KJ College of Engineering & Management Research - [KJCOEMR], Pune
+"Pimpri Chinchwad College of Engineering and Research - [PCCOER] Ravet, Pune
+"Dr. D. Y. Patil College of Engineering and Innovation Varale, Pune
+"D. Y. Patil College of Engineering - [DYPCOE] Ambi, Pune
+"Sharadchandra Pawar College of Engineering - [SPCOE] Dumberwadi , Pune
+"Universal College of Engineering and Research - [UCOER] Sasewadi, Pune
+"South Calcutta Law College, Kolkata
+"Thapar Institute of Engineering and Technology University - [Thapar University], Patiala
+"PSG Institute of Management - [PSGIM], Coimbatore
+"International Management Institute - [IMI], New Delhi
+"Shaheed Bhagat Singh College of Pharmacy, Amritsar
+"Shaheed Bhagat Singh College of Education, Meerut
+"Indian Institute of Technology - [IIT], Mandi
+"Seshadripuram College, Bangalore
+"Sacred Heart College - [SH] Thevara , Ernakulam
+"Sacred Heart College Chalakudy, Thrissur
+"Sacred Heart College (Autonomous) - [SHC], Tiruppattur
+"Indian Institute of Technology - [BHU IIT], Varanasi
+"Sophia College for Women, Mumbai
+"Maharaja Agrasen College - [MAC], New Delhi
+"FORE School of Management - [FSM], New Delhi
+"Maharaja Agrasen College of Engineering & Technology - [MACET], Jyotiba Phule Nagar
+"Maharaja Agrasen College, Bareilly
+"Shri Shikshayatan College, Kolkata
+"Goa Institute of Management - [GIM], North Goa
+"Pondicherry Engineering College - [PEC], Pondicherry
+"Kishinchand Chellaram College - [KC College] Churchgate, Mumbai
+"Isabella Thoburn Degree College - [ITDC], Lucknow
+"Maharani Lakshmi Ammanni College for Women - [MLACW], Bangalore
+"M. S. Ramaiah Institute of Technology - [MSRIT], Bangalore
+"Sri Guru Tegh Bahadur Khalsa College - [SGTB], New Delhi
+"Sri Venkateswara University College of Engineering, Tirupati
+"International Management Institute- [IMI], Kolkata
+"National Institute of Technology - [NIT-AP], Tadepalligudem
+"Dr BR Ambedkar National Institute of Technology - [NIT], Jalandhar
+"National Institute of Technology - [NIT], Papum Pare
+"National Institute of Technology - [NIT], Jamshedpur
+"National Institute of Technology - [NIT], Dimapur
+"National Institute of Technology - [NIT], Aizawl
+"National Institute of Technology - [NITC], Calicut
+"National Institute of Technology - [NIT], Shillong
+"National Institute of Technology, Department of Humanities Social Sciences and Management, Surathkal
+"National Institute of Technology - [NIT] Arunachal Pradesh, Papum Pare
+"National Institute of Technology - [NIT] Nagaland, Dimapur
+"National Institute of Technology - [NIT] Mizoram, Aizawl
+"National Institute of Technology - [NIT-AP] Andhra Pradesh, Tadepalligudem
+"SV National Institute of Technology, Surat
+"Babu Banarasi Das National Institute of Technology & Management - [BBDNITM], Lucknow
+"Jawaharlal Nehru Technological University - [JNTUH], Hyderabad
+"Jawaharlal Nehru Technological University, School of Information Technology- [JNTUH-SIT], Hyderabad
+"Indian Institute of Information Technology Design and Manufacturing - [IIITDM], Jabalpur
+"Department of Management Studies Malaviya National Institute of Technology - [MN NIT], Jaipur
+"Dhirubhai Ambani Institute of Information and Communication Technology - [DA-IICT], Gandhi Nagar
+"Army Institute of Technology - [AIT], Pune
+"Institute of Technology, Nirma University, Ahmedabad
+"Jaypee University of Information Technology - [JUIT], Solan
+"Vignan University - [VU], Guntur
+"Vignan University, Department of Management Studies- [SMS], Guntur
+"Chaitanya Bharathi Institute of Technology, Kadapa
+"Saveetha Engineering College - [SEC], Chennai
+"P.A. Aziz College of Engineering and Technology - [PAACET], Trivandrum
+"Musaliar College of Engineering Chirayinkeezh, Trivandrum
+"PRS College of Engineering and Technology - [PRSCET], Trivandrum
+"ACE College of Engineering, Trivandrum
+"Valia Koonambaikulathamma College of Engineering and Technology - [VKCET] Parippally, Trivandrum
+"Maharashtra Institute of Technology - [MIT], Aurangabad
+"Sri Sai Ram Engineering College - [SSEC], Chennai
+"National Institute of Technology - [NIT] Meghalaya, Shillong

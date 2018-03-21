@@ -1,0 +1,753 @@
+Architecture/STREAM fee/FEE structure/NONE in/NONE Maulana Azad Institute of Dental Sciences - [MAIDS], New Delhi
+
+Arts/STREAM fee/FEE structure/NONE in/NONE Manipal College of Dental Sciences - [MCODS], Mangalore
+
+Aviation/STREAM fee/FEE structure/NONE in/NONE SDM College of Dental Sciences and Hospital Sattur, Dharwad
+
+Commerce/STREAM fee/FEE structure/NONE in/NONE Dayananda Sagar College of Engineering - [DSCE], Bangalore
+
+Computer/STREAM Application/STREAM fee/FEE structure/NONE in/NONE Government Dental College & Hospital, Mumbai
+
+Dental/STREAM fee/FEE structure/NONE in/NONE Pt Bhagwat Dayal Sharma Post Graduate Institute of Medical Sciences - [PGIMS], Rohtak
+
+Design/STREAM fee/FEE structure/NONE in/NONE Sri Balaji Chockalingam Engineering College, Tiruvannamalai
+
+Education/STREAM fee/FEE structure/NONE in/NONE Hindustan Institute of Technology and Science - [HITS], Chennai
+
+Engineering/STREAM fee/FEE structure/NONE in/NONE Dr. R. Ahmed Dental College and Hospital, Kolkata
+
+Law/STREAM fee/FEE structure/NONE in/NONE SRM Dental College, Chennai
+
+Management/STREAM fee/FEE structure/NONE in/NONE Rukmini Devi Institute of Advanced Studies - [RDIAS], New Delhi
+
+Mass/STREAM Communication/STREAM and/STREAM Media/STREAM fee/FEE structure/NONE in/NONE Christian Medical College - [CMC], Vellore
+
+Medical/STREAM fee/FEE structure/NONE in/NONE Armed Forces Medical College - [AFMC], Pune
+
+Paramedical/STREAM fee/FEE structure/NONE in/NONE SRM University Kattankulathur Campus - [SRM], Kanchipuram
+
+Pharmacy/STREAM fee/FEE structure/NONE in/NONE Acharya and BM Reddy College of Pharmacy, Bangalore
+
+Veterinary/STREAM Sciences/STREAM fee/FEE structure/NONE in/NONE Indian Institute of Technology Madras - [IITM], Chennai
+
+btech/SUBSTR fee/FEE structure/NONE in/NONE Indian Institute of Technology - [IIT], Mumbai
+
+mtech/SUBSTR fee/FEE structure/NONE in/NONE International Institute of Information Technology - [IIIT], Hyderabad
+
+mba/SUBSTR fee/FEE structure/NONE in/NONE Punjab Engineering College University of Technology - [PEC], Chandigarh
+
+bba/SUBSTR fee/FEE structure/NONE in/NONE Indian Institute of Technology - [IIT], Bhubaneswar
+
+llb/SUBSTR fee/FEE structure/NONE in/NONE Indian Institute of Information Technology - [IIIT], Allahabad
+
+llm/SUBSTR fee/FEE structure/NONE in/NONE MIT School Of Business - [MIT-SOB], Pune
+
+mbbs/SUBSTR fee/FEE structure/NONE in/NONE Indian Institute of Technology - [IIT], Patna
+
+ms/SUBSTR fee/FEE structure/NONE in/NONE Indian Institute of Technology - [IIT], Gandhi Nagar
+
+md/SUBSTR fee/FEE structure/NONE in/NONE Indian Institute of Technology - [IIT], Mandi
+
+bcom/SUBSTR fee/FEE structure/NONE in/NONE Alagappa Chettiar College of Engineering and Technology, Karaikudi
+
+mcom/SUBSTR fee/FEE structure/NONE in/NONE ITM University, Gwalior
+
+bdes/SUBSTR fee/FEE structure/NONE in/NONE Indian Institute of Technology - [IIT], Indore
+
+mdes/SUBSTR fee/FEE structure/NONE in/NONE IES Management College and Research Centre - [IES MCRC], Mumbai
+
+ba/SUBSTR fee/FEE structure/NONE in/NONE Dr. Ambedkar College of Law, Mumbai
+
+ma/SUBSTR fee/FEE structure/NONE in/NONE National Institute of Technology - [NITD], New Delhi
+
+bca/SUBSTR fee/FEE structure/NONE in/NONE Pt. Ravishankar Shukla University - [PRSU], Raipur
+
+mca/SUBSTR fee/FEE structure/NONE in/NONE Thapar Institute of Engineering and Technology University - [Thapar University], Patiala
+
+bds/SUBSTR fee/FEE structure/NONE in/NONE Erode Sengunthar Engineering College, Erode
+
+mds/SUBSTR fee/FEE structure/NONE in/NONE Dr BR Ambedkar National Institute of Technology - [NIT], Jalandhar
+
+barch/SUBSTR fee/FEE structure/NONE in/NONE Francis Xavier Engineering College, Tirunelveli
+
+march/SUBSTR fee/FEE structure/NONE in/NONE Amrita Institute of Technology & Science, Bangalore
+
+bmm/SUBSTR fee/FEE structure/NONE in/NONE Narula Institute of Technology - [NIT Agarpara], Kolkata
+
+mmc/SUBSTR fee/FEE structure/NONE in/NONE Muffakham Jah College of Engineering & Technology - [MJCET], Hyderabad
+
+bpharm/SUBSTR fee/FEE structure/NONE in/NONE Tamil Nadu Agricultural University - [TNAU], Coimbatore
+
+mpharm/SUBSTR fee/FEE structure/NONE in/NONE Bangalore Institute of Technology - [BIT], Bangalore
+
+bvsc/SUBSTR fee/FEE structure/NONE in/NONE Kolkata Medical College, Kolkata
+
+mvsc/SUBSTR fee/FEE structure/NONE in/NONE National Institute of Technology - [NIT], Agartala
+
+bsc/SUBSTR fee/FEE structure/NONE in/NONE K. J. Somaiya College of Engineering - [KJSCE], Mumbai
+
+msc/SUBSTR fee/FEE structure/NONE in/NONE National Institute of Technology - [NIT], Jamshedpur
+
+bed/SUBSTR fee/FEE structure/NONE in/NONE International Institute of Business Studies - [IIBS], Bangalore
+
+med/SUBSTR fee/FEE structure/NONE in/NONE Guru Tegh Bahadur Institute of Technology - [GTBIT], New Delhi
+
+Architecture/STREAM eligibility/EXAM criteria/NONE in/NONE Paavai Engineering College (Autonomous), Namakkal
+
+Arts/STREAM eligibility/EXAM criteria/NONE in/NONE Maharaja Agrasen Institute of Technology - [MAIT], New Delhi
+
+Aviation/STREAM eligibility/EXAM criteria/NONE in/NONE Ajay Kumar Garg Engineering College - [AKGEC], Ghaziabad
+
+Commerce/STREAM eligibility/EXAM criteria/NONE in/NONE Indian Institute of Technology - [IIT], Kharagpur
+
+Computer/STREAM Application/STREAM eligibility/EXAM criteria/NONE in/NONE Inderprastha Engineering College - [IPEC], Ghaziabad
+
+Dental/STREAM eligibility/EXAM criteria/NONE in/NONE Indian Institute of Technology - [IIT], Roorkee
+
+Design/STREAM eligibility/EXAM criteria/NONE in/NONE University Institute of Chemical Engineering and Technology, Panjab University - [UICTE], Chandigarh
+
+Education/STREAM eligibility/EXAM criteria/NONE in/NONE Sir JJ College of Architecture - [SJJCA], Mumbai
+
+Engineering/STREAM eligibility/EXAM criteria/NONE in/NONE Velammal Engineering College - [VEC], Chennai
+
+Law/STREAM eligibility/EXAM criteria/NONE in/NONE IIMT Engineering College, Meerut
+
+Management/STREAM eligibility/EXAM criteria/NONE in/NONE Birla Institute of Technology - [BIT Mesra], Ranchi
+
+Mass/STREAM Communication/STREAM and/STREAM Media/STREAM eligibility/EXAM criteria/NONE in/NONE Gnanam School of Business - [GSB], Thanjavur
+
+Medical/STREAM eligibility/EXAM criteria/NONE in/NONE Chandigarh College of Architecture - [CCA], Chandigarh
+
+Paramedical/STREAM eligibility/EXAM criteria/NONE in/NONE Noorul Islam University, Kanyakumari
+
+Pharmacy/STREAM eligibility/EXAM criteria/NONE in/NONE Sushant School of Art and Architecture - [SSAA], Gurgaon
+
+Veterinary/STREAM Sciences/STREAM eligibility/EXAM criteria/NONE in/NONE National Institute of Technology - [NITC], Calicut
+
+btech/SUBSTR eligibility/EXAM criteria/NONE in/NONE Madras Christian College - [MCC], Chennai
+
+mtech/SUBSTR eligibility/EXAM criteria/NONE in/NONE Indian Institute of Information Technology Design and Manufacturing - [IIITDM], Jabalpur
+
+mba/SUBSTR eligibility/EXAM criteria/NONE in/NONE ICFAI Foundation for Higher Education - [IFHE], Hyderabad
+
+bba/SUBSTR eligibility/EXAM criteria/NONE in/NONE Sophia College for Women, Mumbai
+
+llb/SUBSTR eligibility/EXAM criteria/NONE in/NONE Kishinchand Chellaram College - [KC College] Churchgate, Mumbai
+
+llm/SUBSTR eligibility/EXAM criteria/NONE in/NONE AISSMS Institute of Information Technology - [AISSMSIOT], Pune
+
+mbbs/SUBSTR eligibility/EXAM criteria/NONE in/NONE Vignan University - [VU], Guntur
+
+ms/SUBSTR eligibility/EXAM criteria/NONE in/NONE G. Pulla Reddy Engineering College - [GPREC], Kurnool
+
+md/SUBSTR eligibility/EXAM criteria/NONE in/NONE Keshav Mahavidyalaya, New Delhi
+
+bcom/SUBSTR eligibility/EXAM criteria/NONE in/NONE Government College of Engineering - [GECA], Aurangabad
+
+mcom/SUBSTR eligibility/EXAM criteria/NONE in/NONE Maulana Azad Medical College - [MAMC], New Delhi
+
+bdes/SUBSTR eligibility/EXAM criteria/NONE in/NONE Thiagarajar College of Engineering - [TCE], Madurai
+
+mdes/SUBSTR eligibility/EXAM criteria/NONE in/NONE Jawaharlal Nehru Technological University - [JNTUH], Hyderabad
+
+ba/SUBSTR eligibility/EXAM criteria/NONE in/NONE Lady Hardinge Medical College - [LHMC], New Delhi
+
+ma/SUBSTR eligibility/EXAM criteria/NONE in/NONE Dwarkadas J Sanghvi College of Engineering - [DJSCE], Mumbai
+
+bca/SUBSTR eligibility/EXAM criteria/NONE in/NONE Jawaharlal Nehru Technological University - [JNTU], Ananthapur
+
+mca/SUBSTR eligibility/EXAM criteria/NONE in/NONE Seth GS Medical College - [GSMC], Mumbai
+
+bds/SUBSTR eligibility/EXAM criteria/NONE in/NONE Jamia Millia Islamia University-[JMI], New Delhi
+
+mds/SUBSTR eligibility/EXAM criteria/NONE in/NONE Christian Medical College - [CMC], Ludhiana
+
+barch/SUBSTR eligibility/EXAM criteria/NONE in/NONE Sir M Visvesvaraya Institute of Technology - [Sir MVIT], Bangalore
+
+march/SUBSTR eligibility/EXAM criteria/NONE in/NONE Symbiosis Centre for Management and Human Resource Development - [SCMHRD], Pune
+
+bmm/SUBSTR eligibility/EXAM criteria/NONE in/NONE Osmania Medical College - [OMC], Hyderabad
+
+mmc/SUBSTR eligibility/EXAM criteria/NONE in/NONE Stanley Medical College, Chennai
+
+bpharm/SUBSTR eligibility/EXAM criteria/NONE in/NONE Meenakshi Sundararajan Engineering College - [MSEC], Chennai
+
+mpharm/SUBSTR eligibility/EXAM criteria/NONE in/NONE M. Kumarasamy College of Engineering (Autonomous), Karur
+
+bvsc/SUBSTR eligibility/EXAM criteria/NONE in/NONE Dharmsinh Desai University - [DDU], Nadiad
+
+mvsc/SUBSTR eligibility/EXAM criteria/NONE in/NONE National Institute of Technology - [NIT], Shillong
+
+bsc/SUBSTR eligibility/EXAM criteria/NONE in/NONE RMK Engineering College - [RMKEC], Thiruvallur
+
+msc/SUBSTR eligibility/EXAM criteria/NONE in/NONE Rajendra Mane College of Engineering and Technology - [RMCET], Ratnagiri
+
+bed/SUBSTR eligibility/EXAM criteria/NONE in/NONE Institute of Management, Nirma university, Ahmedabad
+
+med/SUBSTR eligibility/EXAM criteria/NONE in/NONE MVJ College of Engineering - [MVJCE], Bangalore
+
+Architecture/STREAM seats/SEATS in/NONE University College of Medical Sciences - [UCMS], New Delhi
+
+Arts/STREAM seats/SEATS in/NONE Sardar Patel College of Engineering - [SPCE], Mumbai
+
+Aviation/STREAM seats/SEATS in/NONE Shri Vaishnav Institute of Technology & Science - [SVITS], Indore
+
+Commerce/STREAM seats/SEATS in/NONE Army Institute of Management and Technology - [AIMT], Greater Noida
+
+Computer/STREAM Application/STREAM seats/SEATS in/NONE Sree Vidyanikethan Engineering College - [SVEC], Tirupati
+
+Dental/STREAM seats/SEATS in/NONE Sri Jayachamarajendra College of Engineering - [SJCE], Mysore
+
+Design/STREAM seats/SEATS in/NONE M.O.P. Vaishnav College for Women, Chennai
+
+Education/STREAM seats/SEATS in/NONE Sri Venkateswara College of Engineering - [SVCE], Tirupati
+
+Engineering/STREAM seats/SEATS in/NONE The IIS University - [IISU], Jaipur
+
+Law/STREAM seats/SEATS in/NONE Vasavi College of Engineering - [VCE], Hyderabad
+
+Management/STREAM seats/SEATS in/NONE Sacred Heart College - [SH] Thevara , Ernakulam
+
+Mass/STREAM Communication/STREAM and/STREAM Media/STREAM seats/SEATS in/NONE Loyola College, Chennai
+
+Medical/STREAM seats/SEATS in/NONE Prakasam Engineering College - [PEC], Kandukur
+
+Paramedical/STREAM seats/SEATS in/NONE MKSSS's Cummins College of Engineering for Women, Pune
+
+Pharmacy/STREAM seats/SEATS in/NONE Institute of Technology, Nirma University, Ahmedabad
+
+Veterinary/STREAM Sciences/STREAM seats/SEATS in/NONE Indira Gandhi Institute of Technology- [IGIT], Dhenkanal
+
+btech/SUBSTR seats/SEATS in/NONE Saintgits College of Engineering, Kottayam
+
+mtech/SUBSTR seats/SEATS in/NONE Banarsidas Chandiwala Institute of Professional Studies - [BCIPS], New Delhi
+
+mba/SUBSTR seats/SEATS in/NONE SSN College of Engineering - [SSNCE], Chennai
+
+bba/SUBSTR seats/SEATS in/NONE Musaliar College of Engineering and Technology, Pathanamthitta
+
+llb/SUBSTR seats/SEATS in/NONE Government College of Technology - [GCT], Coimbatore
+
+llm/SUBSTR seats/SEATS in/NONE Bhagwant Institute of Technology - [BIT], Ghaziabad
+
+mbbs/SUBSTR seats/SEATS in/NONE Amity School of Engineering - [ASE], Noida
+
+ms/SUBSTR seats/SEATS in/NONE Ram Meghe Institute of Technology and Research - [RMITR], Amravati
+
+md/SUBSTR seats/SEATS in/NONE LR Institute of Pharmacy, Solan
+
+bcom/SUBSTR seats/SEATS in/NONE ICFAI Business School - [IBS], Hyderabad
+
+mcom/SUBSTR seats/SEATS in/NONE University Institute of Pharmaceutical Sciences, Chandigarh
+
+bdes/SUBSTR seats/SEATS in/NONE Mallige College of Pharmacy, Bangalore
+
+mdes/SUBSTR seats/SEATS in/NONE Dr. Mahalingam College of Engineering & Technology - [MCET], Coimbatore
+
+ba/SUBSTR seats/SEATS in/NONE Manipal College of Pharmaceutical Sciences - [MCOPS], Manipal
+
+ma/SUBSTR seats/SEATS in/NONE Fergusson College, Pune
+
+bca/SUBSTR seats/SEATS in/NONE Bombay College of Pharmacy - [BCP], Mumbai
+
+mca/SUBSTR seats/SEATS in/NONE G H Patel College of Engineering & Technology - [GCET], Vallabh Vidyanagar
+
+bds/SUBSTR seats/SEATS in/NONE LM College of Pharmacy - [LMCP], Ahmedabad
+
+mds/SUBSTR seats/SEATS in/NONE Rajasthan Institute of Engineering and Technology - [RIET], Jaipur
+
+barch/SUBSTR seats/SEATS in/NONE NRI Institute of Information Science and Technology - [NIIST], Bhopal
+
+march/SUBSTR seats/SEATS in/NONE Goa College of Pharmacy, Panji
+
+bmm/SUBSTR seats/SEATS in/NONE Nandha College of Pharmacy - [NCP], Erode
+
+mmc/SUBSTR seats/SEATS in/NONE Poona College of Pharmacy, Pune
+
+bpharm/SUBSTR seats/SEATS in/NONE Sethu Institute of Technology, Villupuram
+
+mpharm/SUBSTR seats/SEATS in/NONE Indian Institute of Management - [IIM], Raipur
+
+bvsc/SUBSTR seats/SEATS in/NONE Al- Ameen College of Pharmacy, Bangalore
+
+mvsc/SUBSTR seats/SEATS in/NONE Chirala Engineering College - [CECC], Prakasam
+
+bsc/SUBSTR seats/SEATS in/NONE Amrita School of Medicine, Kochi
+
+msc/SUBSTR seats/SEATS in/NONE Kristu Jayanti College - [KJC], Bangalore
+
+bed/SUBSTR seats/SEATS in/NONE Jamia Hamdard University, New Delhi
+
+med/SUBSTR seats/SEATS in/NONE Madras Medical College - [MMC], Chennai
+
+facilities/FACILITY in/NONE Indian Institute of Management - [IIM], Ahmedabad
+
+facilities/FACILITY in/NONE Indian Institute of Management - [IIM], Shillong
+
+facilities/FACILITY in/NONE Sinhgad Institute of Pharmacy - [SIOP] Narhe, Pune
+
+facilities/FACILITY in/NONE Indian Institute of Management - [IIMB], Bangalore
+
+facilities/FACILITY in/NONE Indian Institute of Management - [IIMU], Udaipur
+
+facilities/FACILITY in/NONE Amrita School of Pharmacy, Kochi
+
+facilities/FACILITY in/NONE Indian Institute of Management - [IIM], Thiruchirapalli
+
+facilities/FACILITY in/NONE Cambridge Institute of Technology - [CIT], Ranchi
+
+facilities/FACILITY in/NONE PSG College of Pharmacy - [PSGCP], Coimbatore
+
+facilities/FACILITY in/NONE MIT Academy of Engineering - [MITAOE] Alandi , Pune
+
+facilities/FACILITY in/NONE Indian Institute of Management - [IIM], Lucknow
+
+facilities/FACILITY in/NONE Xavier Labour Relations Institute - [XLRI], Jamshedpur
+
+facilities/FACILITY in/NONE Indian Institute of Management - [IIMK], Kozhikode
+
+facilities/FACILITY in/NONE Jamnalal Bajaj Institute of Management Studies -[JBIMS], Mumbai
+
+facilities/FACILITY in/NONE Bharati Vidyapeeth College of Pharmacy, Kolhapur
+
+facilities/FACILITY in/NONE Shailesh J. Mehta School of Management, IIT Bombay - [SJMSOM], Mumbai
+
+facilities/FACILITY in/NONE SSM College of Engineering, Namakkal
+
+facilities/FACILITY in/NONE National Institute of Industrial Engineering - [NITIE], Mumbai
+
+facilities/FACILITY in/NONE Dr. B.C. Roy Engineering College - [BCREC], Durgapur
+
+facilities/FACILITY in/NONE Delhi School of Professional Studies and Research - [DSPSR], New Delhi
+
+facilities/FACILITY in/NONE Management Development Institute - [MDI], Gurgaon
+
+reviews/REVIEWS of/NONE Sri Venkateswara College of Engineering - [SVCE], Kanchipuram
+
+reviews/REVIEWS of/NONE Indian Institute of Foreign Trade - [IIFT], New Delhi
+
+reviews/REVIEWS of/NONE Institute of Management Technology - [IMT], Ghaziabad
+
+reviews/REVIEWS of/NONE International Management Institute - [IMI], New Delhi
+
+reviews/REVIEWS of/NONE Department of Management Studies, IIT Madras - [DoMS IIT Madras], Chennai
+
+reviews/REVIEWS of/NONE Vinod Gupta School of Management - [VGSoM], Kharagpur
+
+reviews/REVIEWS of/NONE Department of Management Studies IIT Delhi - [DMS IITD], New Delhi
+
+reviews/REVIEWS of/NONE Vinayaka Missions College of Pharmacy - [VMCP], Salem
+
+reviews/REVIEWS of/NONE Jeppiaar Maamallan Institute of Technology, Sriperumbudur
+
+reviews/REVIEWS of/NONE ITM University, School of Business, Gwalior
+
+reviews/REVIEWS of/NONE Sydenham Institute of Management Studies, Research & Entrepreneurship Education - [SIMSREE], Mumbai
+
+reviews/REVIEWS of/NONE Jabalpur Engineering College - [JEC], Jabalpur
+
+reviews/REVIEWS of/NONE Symbiosis Institute of Business Management - [SIBM], Pune
+
+reviews/REVIEWS of/NONE Malla Reddy Engineering College - [MREC], Hyderabad
+
+reviews/REVIEWS of/NONE Eastern Academy of Science & Technology - [EAST], Bhubaneswar
+
+reviews/REVIEWS of/NONE Dr Rajendra Prasad Government Medical College - [RPGMC], Kangra
+
+reviews/REVIEWS of/NONE MICA - The School of Ideas, Ahmedabad
+
+reviews/REVIEWS of/NONE Shree Dhanvantary Pharmacy College - [SDPC], Surat
+
+reviews/REVIEWS of/NONE T. A. Pai Management Institute - [TAPMI], Manipal
+
+reviews/REVIEWS of/NONE Great Lakes Institute of Management, Kanchipuram
+
+reviews/REVIEWS of/NONE GITAM School of International Business - [GSIB], Visakhapatnam
+
+affiliation/AFFILIATION of/NONE Institute of Rural Management - [IRMA], Anand
+
+affiliation/AFFILIATION of/NONE Maratha Mandal College of Pharmacy, Belgaum
+
+affiliation/AFFILIATION of/NONE Pragati Engineering College, East Godavari
+
+affiliation/AFFILIATION of/NONE IILM Institute for Higher Education Lodhi Road, New Delhi
+
+affiliation/AFFILIATION of/NONE Bharathidasan Institute of Management - [BIM], Thiruchirapalli
+
+affiliation/AFFILIATION of/NONE NET Pharmacy College, Raichur
+
+affiliation/AFFILIATION of/NONE RMD Engineering College - [RMDEC], Thiruvallur
+
+affiliation/AFFILIATION of/NONE Sri Ramachandra University, Chennai
+
+affiliation/AFFILIATION of/NONE Rajagiri College of Social Sciences - [RCSS], Cochin
+
+affiliation/AFFILIATION of/NONE Xavier Institute of Management - [XIMB], Bhubaneswar
+
+affiliation/AFFILIATION of/NONE KIET Group of Institutions - [KIET], Ghaziabad
+
+affiliation/AFFILIATION of/NONE Rajasthan College of engineering for Women - [RCEW], Jaipur
+
+affiliation/AFFILIATION of/NONE Prin. L. N. Welingkar Institute of Management Development & Research - [We School], Mumbai
+
+affiliation/AFFILIATION of/NONE Manipal Institute of Technology - [MIT], Manipal
+
+affiliation/AFFILIATION of/NONE National Institute of Agricultural Extension Management - [MANAGE], Hyderabad
+
+affiliation/AFFILIATION of/NONE K.J. Somaiya Medical College & Research Centre - [KJSMC], Mumbai
+
+affiliation/AFFILIATION of/NONE Indian Institute of Management - [IIMR], Ranchi
+
+affiliation/AFFILIATION of/NONE FORE School of Management - [FSM], New Delhi
+
+affiliation/AFFILIATION of/NONE Indian Institute of Management - [IIM], Rohtak
+
+affiliation/AFFILIATION of/NONE Institute for Financial Management & Research - [IFMR], Chittoor
+
+affiliation/AFFILIATION of/NONE Gitam Institute of Management - [GIM], Visakhapatnam
+
+location/CITY of/NONE Kasturba Medical College - [KMC], Manipal
+
+location/CITY of/NONE Goa Institute of Management - [GIM], North Goa
+
+location/CITY of/NONE Jadavpur University, Kolkata
+
+location/CITY of/NONE Manipal University - [MU], Manipal
+
+location/CITY of/NONE Saveetha Engineering College - [SEC], Chennai
+
+location/CITY of/NONE Lal Bahadur Shastri Institute of Management - [LBSIM], New Delhi
+
+location/CITY of/NONE ABES Engineering College, Ghaziabad
+
+location/CITY of/NONE Fortune Institute of International Business - [FIIB], New Delhi
+
+location/CITY of/NONE L.D. College of Engineering - [LDCE], Ahmedabad
+
+location/CITY of/NONE International Institute of Information Technology- [IIIT], Pune
+
+location/CITY of/NONE Shri Vishnu Engineering College for Women - [SVECW], Bhimavaram
+
+location/CITY of/NONE Sri Venkateswara College, New Delhi
+
+location/CITY of/NONE Loyola Academy Degree and PG College, Secunderabad
+
+location/CITY of/NONE B.R. Nahata College of Pharmacy - [BRNCP], Mandsaur
+
+location/CITY of/NONE Sona College of Technology, Salem
+
+location/CITY of/NONE Sri Ramakrishna Engineering College - [SREC], Coimbatore
+
+location/CITY of/NONE Jaipuria Institute of Management - [JIM], Lucknow
+
+location/CITY of/NONE HL College of Commerce - [HLCC], Ahmedabad
+
+location/CITY of/NONE M.S. Ramaiah Institute of Management - [MSRIM], Bangalore
+
+location/CITY of/NONE Sri Sukhmani Institute of Engineering and Technology - [SSIET], Mohali
+
+location/CITY of/NONE Sri Balaji Society, Balaji Institute of Modern Management - [BIMM], Pune
+
+is/NONE TKR College of Engineering and Technology - [TKRCET], Hyderabad private/TYPE public/TYPE or deemed/TYPE
+
+is/NONE Amrita School of Business - [ASB], Coimbatore private/TYPE public/TYPE or deemed/TYPE
+
+is/NONE PSG Institute of Management - [PSGIM], Coimbatore private/TYPE public/TYPE or deemed/TYPE
+
+is/NONE National Institute of Technology - [NIT] Meghalaya, Shillong private/TYPE public/TYPE or deemed/TYPE
+
+is/NONE Hallmark Business School - [HBS], Thiruchirapalli private/TYPE public/TYPE or deemed/TYPE
+
+is/NONE Xavier Institute of Social Service - [XISS], Ranchi private/TYPE public/TYPE or deemed/TYPE
+
+is/NONE Walchand Institute of Technology - [WIT], Solapur private/TYPE public/TYPE or deemed/TYPE
+
+is/NONE SCMS Cochin/NONE School of Business, Cochin/NONE private/TYPE public/TYPE or deemed/TYPE
+
+is/NONE Ramjas College, New Delhi private/TYPE public/TYPE or deemed/TYPE
+
+is/NONE National Law School of India University - [NLSIU], Bangalore private/TYPE public/TYPE or deemed/TYPE
+
+is/NONE AR College of Pharmacy, Vallabh Vidyanagar private/TYPE public/TYPE or deemed/TYPE
+
+is/NONE VNR Vignana Jyothi Institute of Engineering and Technology - [VNRVJIET], Hyderabad private/TYPE public/TYPE or deemed/TYPE
+
+is/NONE Faculty of Law, University of Delhi, New Delhi private/TYPE public/TYPE or deemed/TYPE
+
+is/NONE The West Bengal National University of Juridical Sciences - [NUJS], Kolkata private/TYPE public/TYPE or deemed/TYPE
+
+is/NONE Manipal University,  Faculty of Architecture, Manipal private/TYPE public/TYPE or deemed/TYPE
+
+is/NONE Shri Govindram Seksaria Institute of Technology and Science- [SGSITS], Indore private/TYPE public/TYPE or deemed/TYPE
+
+is/NONE The National Law Institute University - [NLIU], Bhopal private/TYPE public/TYPE or deemed/TYPE
+
+is/NONE Jaipuria Institute of Management - [JIM], Noida private/TYPE public/TYPE or deemed/TYPE
+
+is/NONE ILS Law College - [ILS], Pune private/TYPE public/TYPE or deemed/TYPE
+
+is/NONE Faculty of Law, Banaras Hindu University, Varanasi private/TYPE public/TYPE or deemed/TYPE
+
+is/NONE National Law University - [NLUD], New Delhi private/TYPE public/TYPE or deemed/TYPE
+
+when/NONE was/NONE Amity Law School - [ALS], Noida established/ESTD
+
+when/NONE was/NONE The Nitte Gulabi Shetty Memorial Institute of Pharmaceutical Sciences - [NGSMIPS], Mangalore established/ESTD
+
+when/NONE was/NONE Ratnavel Subrahmaniam College of Engineering and Technology, Dindigul established/ESTD
+
+when/NONE was/NONE Rajiv Gandhi National University of Law - [RGNUL], Patiala established/ESTD
+
+when/NONE was/NONE Tatyasaheb Kore Institute of Engineering and Technology - [TKIET], Kolhapur established/ESTD
+
+when/NONE was/NONE Jagannath International Management School - [JIMS] Kalkaji, New Delhi established/ESTD
+
+when/NONE was/NONE Hidayatullah National Law University - [HNLU], Raipur established/ESTD
+
+when/NONE was/NONE Army Institute of Law - [AIL], Mohali established/ESTD
+
+when/NONE was/NONE Dhirubhai Ambani Institute of Information and Communication Technology - [DA-IICT], Gandhi Nagar established/ESTD
+
+when/NONE was/NONE Chanderprabhu Jain/NONE College of Higher Studies & School of Law, New Delhi established/ESTD
+
+when/NONE was/NONE University college of Law, Osmania University, Hyderabad established/ESTD
+
+when/NONE was/NONE Faculty of Law University of Calcutta, Kolkata established/ESTD
+
+when/NONE was/NONE Pondicherry Engineering College - [PEC], Pondicherry established/ESTD
+
+when/NONE was/NONE University College of Law Bangalore University, Bangalore established/ESTD
+
+when/NONE was/NONE Indian Institute of Information Technology Design & Manufacturing - [IIITDM], Chennai established/ESTD
+
+when/NONE was/NONE Asian Business School - [ABS], Noida established/ESTD
+
+when/NONE was/NONE Tontadarya College of Engineering, Gadag established/ESTD
+
+when/NONE was/NONE RC Patel Institute of Pharmacutical Education and Research - [RCPIPER], Dhule established/ESTD
+
+when/NONE was/NONE North Maharashtra University Institute of Chemical Technology - [UICT], Jalgaon established/ESTD
+
+when/NONE was/NONE Bangalore Institute of Legal Studies - [BILS], Bangalore established/ESTD
+
+when/NONE was/NONE Sri Sai Ram Engineering College - [SSEC], Chennai established/ESTD
+
+is/NONE Yeshwantrao Chavan College of Engineering - [YCCE], Nagpur ugc/AFFILIATION granted/AFFILIATION or approved/AFFILIATION
+
+is/NONE University of Petroleum and Energy Studies - [UPES], Dehradun ugc/AFFILIATION granted/AFFILIATION or approved/AFFILIATION
+
+is/NONE Shri Vishnu College of Pharmacy - [SVCP], Bhimavaram ugc/AFFILIATION granted/AFFILIATION or approved/AFFILIATION
+
+is/NONE South Calcutta Law College, Kolkata ugc/AFFILIATION granted/AFFILIATION or approved/AFFILIATION
+
+is/NONE Army Institute of Technology - [AIT], Pune ugc/AFFILIATION granted/AFFILIATION or approved/AFFILIATION
+
+is/NONE SCMS School of Engineering and Technology, Ernakulam ugc/AFFILIATION granted/AFFILIATION or approved/AFFILIATION
+
+is/NONE GRG School of Management Studies - [GRGSMS], Coimbatore ugc/AFFILIATION granted/AFFILIATION or approved/AFFILIATION
+
+is/NONE Abeda Inamdar Senior College, Pune ugc/AFFILIATION granted/AFFILIATION or approved/AFFILIATION
+
+is/NONE IILM Graduate School of Management, Greater Noida ugc/AFFILIATION granted/AFFILIATION or approved/AFFILIATION
+
+is/NONE Indus Business Academy - [IBA], Bangalore ugc/AFFILIATION granted/AFFILIATION or approved/AFFILIATION
+
+is/NONE Vishwakarma Institute of Technology - [VIT] Bibwewadi, Pune ugc/AFFILIATION granted/AFFILIATION or approved/AFFILIATION
+
+is/NONE GH Raisoni College of Engineering - [GHRCE], Nagpur ugc/AFFILIATION granted/AFFILIATION or approved/AFFILIATION
+
+is/NONE Acharya Institute of Technology - [AIT], Bangalore ugc/AFFILIATION granted/AFFILIATION or approved/AFFILIATION
+
+is/NONE Rajagiri Business School - [RBS], Kochi ugc/AFFILIATION granted/AFFILIATION or approved/AFFILIATION
+
+is/NONE Shri Ramdeo Baba Kamla Nehru Engineering College, Nagpur ugc/AFFILIATION granted/AFFILIATION or approved/AFFILIATION
+
+is/NONE VSB Engineering College - [VSBEC], Karur ugc/AFFILIATION granted/AFFILIATION or approved/AFFILIATION
+
+is/NONE Jagan Institute of Management Studies - [JIMS] Sector-5 Rohini, New Delhi ugc/AFFILIATION granted/AFFILIATION or approved/AFFILIATION
+
+is/NONE Seemanta Institute of Pharmaceutical Sciences - [SIPS], Mayurbhanj ugc/AFFILIATION granted/AFFILIATION or approved/AFFILIATION
+
+is/NONE Ghousia College of Engineering - [GCE], Ramanagar ugc/AFFILIATION granted/AFFILIATION or approved/AFFILIATION
+
+is/NONE Sikkim Manipal Institute of Technology - [SMIT], East Sikkim ugc/AFFILIATION granted/AFFILIATION or approved/AFFILIATION
+
+is/NONE Adi Shankara Institute of Engineering and Technology - [ASIET] Kalady, Ernakulam ugc/AFFILIATION granted/AFFILIATION or approved/AFFILIATION
+
+rank/RANK of/NONE Laljibhai Chaturbhai Institute of Technology - [LCIT], Ahmedabad
+
+rank/RANK of/NONE VVP Engineering College - [VVPEC], Rajkot
+
+rank/RANK of/NONE Anand Institute of Higher Technology - [AIHT], Chennai
+
+rank/RANK of/NONE Patel College of Science and Technology - [PCST], Bhopal
+
+rank/RANK of/NONE Global Business School - [GBS], Hubli
+
+rank/RANK of/NONE Entrepreneurship Development Institute of India - [EDI], Gandhi Nagar
+
+rank/RANK of/NONE National University of Advanced Legal Studies - [NUALS], Ernakulam
+
+rank/RANK of/NONE Indus Business Academy - [IBA], Greater Noida
+
+college/ALL details/ALL Indian Institute of Management - [IIM], Ahmedabad
+
+college/ALL details/ALL National Law School of India University - [NLSIU], Bangalore
+
+college/ALL details/ALL Armed Forces Medical College - [AFMC], Pune
+
+college/ALL details/ALL Aligarh Muslim University - [AMU], Aligarh
+
+college/ALL details/ALL Christian Medical College - [CMC], Vellore
+
+college/ALL details/ALL Indian Institute of Management - [IIMB], Bangalore
+
+college/ALL details/ALL The West Bengal National University of Juridical Sciences - [NUJS], Kolkata
+
+college/ALL details/ALL Maulana Azad Medical College - [MAMC], New Delhi
+
+college/ALL details/ALL Hans Raj College - [HRC], New Delhi
+
+college/ALL details/ALL Christ University, Science, Bangalore
+
+college/ALL details/ALL Christ University, Bangalore
+
+college/ALL details/ALL Christ University, Commerce And Management, Bangalore
+
+college/ALL details/ALL Management Development Institute - [MDI], Gurgaon
+
+college/ALL details/ALL Sri Ramachandra University, Chennai
+
+college/ALL details/ALL School of Law, Christ University, Bangalore
+
+college/ALL details/ALL Christ University, Faculty of Engineering, Bangalore
+
+college/ALL details/ALL Christ University, Business Studies and Social Science, Bangalore
+
+college/ALL details/ALL Shri Ram College of Commerce - [SRCC], New Delhi
+
+college/ALL details/ALL Symbiosis Law School - [SLS], Noida
+
+college/ALL details/ALL Madurai Diraviyam Thayumanavar Hindu College, Tirunelveli
+
+Hindu College, Moradabad college/ALL details/ALL
+
+Hindu College of Education, Guntur college/ALL details/ALL
+
+Hindu College of Education, Hisar college/ALL details/ALL
+
+South Travancore Hindu College Nagercoil, Kanchipuram college/ALL details/ALL
+
+NSS Hindu College, Changanacherry college/ALL details/ALL
+
+S.T. Hindu College of Education, Kanyakumari college/ALL details/ALL
+
+Gobardanga Hindu College, North 24 Parganas college/ALL details/ALL
+
+Hindu College of Pharmacy, Guntur college/ALL details/ALL
+
+Indian Institute of Management - [IIMK], Kozhikode college/ALL details/ALL
+
+Hindu College of Engineering and Techonology, Guntur college/ALL details/ALL
+
+The M.D.T.Hindu College, Tirunelveli college/ALL details/ALL
+
+Hindu College of Pharmacy, Sonepat college/ALL details/ALL
+
+Sh. L.N Hindu College, Rohtak college/ALL details/ALL
+
+ILS Law College - [ILS], Pune college/ALL details/ALL
+
+Hindu College, Guntur college/ALL details/ALL
+
+Hindu College, Amritsar college/ALL details/ALL
+
+Daita Sriramulu Hindu College of Law, Machilipatnam college/ALL details/ALL
+
+Dharmamurthi Rao Bahadur Calavala Cunnan Chettys Hindu College - [DRBCCC], Chennai college/ALL details/ALL
+
+Ramjas College, New Delhi college/ALL details/ALL
+
+Thapar Institute of Engineering and Technology University - [Thapar University], Patiala college/ALL details/ALL
+
+Madras Christian College - [MCC], Chennai facilities/FACILITY
+
+International Management Institute - [IMI], New Delhi facilities/FACILITY
+
+Army Institute of Law - [AIL], Mohali facilities/FACILITY
+
+Government Medical College and Hospital - [GMCH], Chandigarh facilities/FACILITY
+
+Indian Institute of Information Technology - [IIIT], Allahabad facilities/FACILITY
+
+Goa Medical College and Hospital, Bicholim facilities/FACILITY
+
+Shri Vasantrao Naik Government Medical College and Hospital - [SVNGMC], Yavatmal facilities/FACILITY
+
+Mahatma Gandhi Medical College and Hospital, Jaipur facilities/FACILITY
+
+Pacific Medical College and Hospital - [PMCH], Udaipur facilities/FACILITY
+
+Pt. Jawahar Lal Nehru Government Medical College and Hospital - [GMCH], Chamba facilities/FACILITY
+
+SLN Medical College and Hospital, Koraput facilities/FACILITY
+
+JSS Medical College and Hospital, Mysore facilities/FACILITY
+
+Vinayaka Missions Medical College and Hospital - [VMMCH], Karaikal facilities/FACILITY
+
+Bharati Vidyapeeth Deemed University Medical College and Hospital, Sangli facilities/FACILITY
+
+Maharaja Krishna Chandra Gajapati Medical College and Hospital - [MKCG], Berhampur facilities/FACILITY
+
+Katuri Medical College and Hospital, Guntur facilities/FACILITY
+
+Bakson Homoeopathic Medical College and Hospital - [BHMCH], Greater Noida facilities/FACILITY
+
+Anugrah Narayan Magadh Medical College and Hospital - [ANMMCH], Gaya facilities/FACILITY
+
+District Homoeopathic Medical College and Hospital - [DHMCH], Ratlam facilities/FACILITY
+
+Sree Balaji Medical College and Hospital - [SBMCH], Chennai facilities/FACILITY
+
+Gauhati Medical College and Hospital - [GMCH], Guwahati facilities/FACILITY
+
+Chirayu Medical College and Hospital - [CMCH], Bhopal facilities/FACILITY
+
+Annapoorna Medical College and Hospital, Salem facilities/FACILITY
+
+Basaveshwara Medical College and Hospital - [BMCH], Chitradurga facilities/FACILITY
+
+Z.V.M. Unani Medical College and Hospital, Pune facilities/FACILITY
+
+Dr. Somervell Memorial CSI Medical College and Hospital - [Dr. SMCSI], Thiruvananthapuram facilities/FACILITY
+
+JSS Ayurvedic Medical College and Hospital - [JSSAMC], Mysore facilities/FACILITY
+
+Sri Shivayogeeshwar Rural Ayurvedic Medical College and Hospital facilities/FACILITY
+
+, Belgaum facilities/FACILITY
+
+KVG Medical College and Hospital, Sullia facilities/FACILITY
+
+Sri Ram Chandra Bhanj Medical College and Hospital - [SCBMCH], Cuttack facilities/FACILITY
+
+MES Medical College and Hospital, Malappuram facilities/FACILITY
+
+Narayana Medical College and Hospital, Nellore facilities/FACILITY
+
+Sri Manakula Vinayagar Medical College and Hospital - [SMVMCH], Pondicherry facilities/FACILITY
+
+Government Medical College and Hospital, Aurangabad facilities/FACILITY
+
+Government Sivagangai Medical College and Hospital, Sivaganga facilities/FACILITY
+
+Government Villupuram Medical College and Hospital, Villupuram facilities/FACILITY
+
+GMERS Medical College and Hospital, Ahmedabad facilities/FACILITY
+
+A.C.S. Medical College and Hospital, Chennai facilities/FACILITY
+
+R. G. Kar Medical College and Hospital - [RGKMCH], Kolkata facilities/FACILITY
+
+Bangalore Medical College and Research Institute - [BMCRI], Bangalore facilities/FACILITY

@@ -1,0 +1,250 @@
+Indian Institute of Management - [IIM], Ahmedabad
+National Law School of India University - [NLSIU], Bangalore
+Armed Forces Medical College - [AFMC], Pune
+Aligarh Muslim University - [AMU], Aligarh
+Christian Medical College - [CMC], Vellore
+Indian Institute of Management - [IIMB], Bangalore
+The West Bengal National University of Juridical Sciences - [NUJS], Kolkata
+Maulana Azad Medical College - [MAMC], New Delhi
+Hans Raj College - [HRC], New Delhi
+Christ University, Science, Bangalore
+Christ University, Bangalore
+Christ University, Commerce And Management, Bangalore
+Management Development Institute - [MDI], Gurgaon
+Sri Ramachandra University, Chennai
+School of Law, Christ University, Bangalore
+Christ University, Faculty of Engineering, Bangalore
+Christ University, Business Studies and Social Science, Bangalore
+Shri Ram College of Commerce - [SRCC], New Delhi
+Symbiosis Law School - [SLS], Noida
+Madurai Diraviyam Thayumanavar Hindu College, Tirunelveli
+Hindu College, Moradabad
+Hindu College of Education, Guntur
+Hindu College of Education, Hisar
+South Travancore Hindu College Nagercoil, Kanchipuram
+NSS Hindu College, Changanacherry
+S.T. Hindu College of Education, Kanyakumari
+Gobardanga Hindu College, North 24 Parganas
+Hindu College of Pharmacy, Guntur
+Indian Institute of Management - [IIMK], Kozhikode
+Hindu College of Engineering and Techonology, Guntur
+The M.D.T.Hindu College, Tirunelveli
+Hindu College of Pharmacy, Sonepat
+Sh. L.N Hindu College, Rohtak
+ILS Law College - [ILS], Pune
+Hindu College, Guntur
+Hindu College, Amritsar
+Daita Sriramulu Hindu College of Law, Machilipatnam
+Dharmamurthi Rao Bahadur Calavala Cunnan Chettys Hindu College - [DRBCCC], Chennai
+Ramjas College, New Delhi
+Thapar Institute of Engineering and Technology University - [Thapar University], Patiala
+
+Madras Christian College - [MCC], Chennai
+International Management Institute - [IMI], New Delhi
+Army Institute of Law - [AIL], Mohali
+Government Medical College and Hospital - [GMCH], Chandigarh
+Indian Institute of Information Technology - [IIIT], Allahabad
+Goa Medical College and Hospital, Bicholim
+Shri Vasantrao Naik Government Medical College and Hospital - [SVNGMC], Yavatmal
+Mahatma Gandhi Medical College and Hospital, Jaipur
+Pacific Medical College and Hospital - [PMCH], Udaipur
+Pt. Jawahar Lal Nehru Government Medical College and Hospital - [GMCH], Chamba
+SLN Medical College and Hospital, Koraput
+JSS Medical College and Hospital, Mysore
+Vinayaka Missions Medical College and Hospital - [VMMCH], Karaikal
+Bharati Vidyapeeth Deemed University Medical College and Hospital, Sangli
+Maharaja Krishna Chandra Gajapati Medical College and Hospital - [MKCG], Berhampur
+Katuri Medical College and Hospital, Guntur
+Bakson Homoeopathic Medical College and Hospital - [BHMCH], Greater Noida
+Anugrah Narayan Magadh Medical College and Hospital - [ANMMCH], Gaya
+District Homoeopathic Medical College and Hospital - [DHMCH], Ratlam
+Sree Balaji Medical College and Hospital - [SBMCH], Chennai
+Gauhati Medical College and Hospital - [GMCH], Guwahati
+Chirayu Medical College and Hospital - [CMCH], Bhopal
+Annapoorna Medical College and Hospital, Salem
+Basaveshwara Medical College and Hospital - [BMCH], Chitradurga
+Z.V.M. Unani Medical College and Hospital, Pune
+Dr. Somervell Memorial CSI Medical College and Hospital - [Dr. SMCSI], Thiruvananthapuram
+JSS Ayurvedic Medical College and Hospital - [JSSAMC], Mysore
+Sri Shivayogeeshwar Rural Ayurvedic Medical College and Hospital
+, Belgaum
+KVG Medical College and Hospital, Sullia
+Sri Ram Chandra Bhanj Medical College and Hospital - [SCBMCH], Cuttack
+MES Medical College and Hospital, Malappuram
+Narayana Medical College and Hospital, Nellore
+Sri Manakula Vinayagar Medical College and Hospital - [SMVMCH], Pondicherry
+Government Medical College and Hospital, Aurangabad
+Government Sivagangai Medical College and Hospital, Sivaganga
+Government Villupuram Medical College and Hospital, Villupuram
+GMERS Medical College and Hospital, Ahmedabad
+A.C.S. Medical College and Hospital, Chennai
+R. G. Kar Medical College and Hospital - [RGKMCH], Kolkata
+Bangalore Medical College and Research Institute - [BMCRI], Bangalore
+Sri Venkateswara College of Education, Pondicherry
+Sri Venkateswara College of Pharmacy - [SVCP], Etcherla
+Sri Venkateswara College of Engineering - [SVCE], Tirupati
+Sri Venkateswara College of Engineering - [SVCE], Kanchipuram
+Institute of Management Technology - [IMT], Ghaziabad
+Sri Venkateswara College, New Delhi
+Sri Venkateswara College of Pharmacy, Hyderabad
+Sri Venkateswara College of Law, Tirupati
+Sri Venkateswara College of Engineering & Technology - [SVCET], Thiruvallur
+Sri Venkateswara College of Engineering and Technology - [SVCET], Srikakulam
+Sri Venkateswara College of Nursing - [SVCON], Chittoor
+Christian Medical College - [CMC], Ludhiana
+National Institute of Industrial Engineering - [NITIE], Mumbai
+M. S. Ramaiah Institute of Technology - [MSRIT], Bangalore
+Kurukshetra University - [KUK], Kurukshetra
+Department of Instrumentation Technology Kurukshetra University, Kurukshetra
+Indraprastha College for Women - [IP], New Delhi
+T. A. Pai Management Institute - [TAPMI], Manipal
+South Calcutta Law College, Kolkata
+Seshadripuram College, Bangalore
+Symbiosis Institute of Technology - [SIT], Pune
+Dayanand Medical College and Hospital - [DMCH], Ludhiana
+Symbiosis Institute of Business Management - [SIBM], Pune
+Indian Institute of Technology - [IIT], Bhubaneswar
+Symbiosis Centre for Management and Human Resource Development - [SCMHRD], Pune
+Maharaja Agrasen College - [MAC], New Delhi
+Maharaja Agrasen College of Engineering & Technology - [MACET], Jyotiba Phule Nagar
+Maharaja Agrasen College, Bareilly
+Shailesh J. Mehta School of Management, IIT Bombay - [SJMSOM], Mumbai
+Jamia Millia Islamia University-[JMI], New Delhi
+Goa Institute of Management - [GIM], North Goa
+Jamnalal Bajaj Institute of Management Studies -[JBIMS], Mumbai
+Lal Bahadur Shastri Institute of Management - [LBSIM], New Delhi
+Sacred Heart College - [SH] Thevara , Ernakulam
+Sacred Heart College Chalakudy, Thrissur
+Sacred Heart College (Autonomous) - [SHC], Tiruppattur
+National Institute of Agricultural Extension Management - [MANAGE], Hyderabad
+Ramakrishna Mission Vidyamandira, Howrah
+Sophia College for Women, Mumbai
+Isabella Thoburn Degree College - [ITDC], Lucknow
+Shri Shikshayatan College, Kolkata
+Maharani Lakshmi Ammanni College for Women - [MLACW], Bangalore
+PSG Institute of Management - [PSGIM], Coimbatore
+ITM Business School Kharghar, Navi Mumbai
+SCMS Cochin School of Business, Cochin
+SIES College of Management Studies - [SIESCOMS], Navi Mumbai
+Department of Business Economics, University of Delhi - [DBE], New Delhi
+KIIT School of Management - [KSOM], Bhubaneswar
+Regional College of Management - [RCM], Bangalore
+Prestige Institute of Management and Research - [PIMR], Indore
+Dr. Panjabrao Deshmukh Institute of Management Technology and Research - [PDIMTR], Nagpur
+Jagan Institute of Management Studies - [JIMS] Sector-5 Rohini, New Delhi
+Chitkara University, Chitkara Business School - [CBS], Patiala
+Shiva Institute of Management Studies - [SIMS], Ghaziabad
+Indian Institute of Finance - [IIF], Greater Noida
+Institute of Rural Management - [IRMA], Anand
+Institute of Rural Management - [IRM], Bhilwara
+International Management Institute - [IMI], Bhubaneswar
+Acharya Bangalore B-School - [ABBS], Bangalore
+Sri Balaji Society, Balaji Institute of Management and Human Resource Development - [BIMHRD], Pune
+Institute of Management and Information Science - [IMIS], Bhubaneswar
+PES Institute of Technology and Management - [PESITM], Shimoga
+National Institute of Technology - [NIT] Meghalaya, Shillong
+Universal Business School - [UBS], Karjat
+IIKM Business School, Chennai
+IIKM Business School, Calicut
+Gian Jyoti Institute of Management and Technology - [GJIMT], Mohali
+Institute of Management Technology - [IMT], Hyderabad
+Army Institute of Management - [AIMK], Kolkata
+SSM College of Engineering, Namakkal
+Rungta Group of Institutions Bhillai Campus, Bhilai
+Sona School of Management, Salem
+Accurate Institute of Management and Technology - [AIMT], Greater Noida
+Maharishi Markandeshwar University - [MMU], Solan
+Maharishi Markandeshwar University  - [MMU] Mullana Campus, Ambala
+Maharishi Markandeshwar University, Department of Law, Ambala
+Sanskriti School of Business - [SSB], Mathura
+Nehru College of Management - [NCM], Coimbatore
+IIMT University - [IIMTU], Meerut
+School of Management, Manipal University - [SOM], Manipal
+International School of Management Excellence-[ISME], Bangalore
+Budge Budge Institute of Technology - [BBIT], Kolkata
+Shobhit University, Meerut
+Shobhit University, School of Business Studies, Meerut
+Shobhit University, School of Law and Constitutional Studies, Meerut
+Shobhit University, School of Distance Education, Meerut
+Shobhit University, School of Biological Engineering and Sciences, Meerut
+Ajay Kumar Garg Institute of Management - [AKGIM], Ghaziabad
+Dhruva College of Management - [DCM], Hyderabad
+Symbiosis Institute of Operations Management - [SIOM], Nashik
+Punjab Institute of Management and Technology - [PIMT], Fatehgarh Sahib
+Bharath University, College of Engineering, Chennai
+Bharath University, Chennai
+Bharath University, College of management, Chennai
+IMS Unison University - [IUU], Dehradun
+Matu Ram Institute of Engineering and Management - [MRIEM], Rohtak
+Dilkap Research Institute of Engineering and Management Studies - [DRIEMS], Karjat
+Abacus Institute of Engineering and Management, Hooghly
+Kanad Institute of Engineering and Management - [KIEM], Durgapur
+Amruta Institute of Engineering and Management Sciences - [AIEMS], Bangalore
+Mahatma Gandhi Institute of Engineering and Management - [MGIEM], Indore
+Rohtak Institute of Engineering and Management - [RIEM], Rohtak
+Aryabhatta Institute of Engineering and Management - [AIEMD], Burwan
+Deogiri Institute of Engineering and Management Studies - [DIEMS], Aurangabad
+Balaji Institute of Engineering and Management Studies - [BEAM], Nellore
+Calcutta Institute of Engineering and Management - [CIEM], Kolkata
+Dhaneswar Rath Institute of Engineering and Management Studies - [DRIEMS], Khorda
+GH Raisoni Institute of Engineering and Management - [GHRIEM], Jalgaon
+Jamia Institute of Engineering and Management Studies - [JIEMS], Nandurbar
+Surendra Institute of Engineering and Management - [SIEM], Darjeeling
+Nikhil Institute of Engineering and Management - [NIEM], Mathura
+Jaipur Institute of Engineering and Management - [JIEM], Jaipur
+Dr. M.C. Saxena Institute of Engineering and Management - [MCSIEM], Lucknow
+Sanjay Institute of Engineering and Management - [SIEM], Mathura
+Veerayatan Institute of Engineering and Management, Kachchh
+Sandip Institute of Engineering and Management - [SIEM], Nashik
+Atharva Institute of Management Studies - [AIMS], Mumbai
+Marthoma College of Management and Technology - [MCMAT] Perumbavoor, Ernakulam
+Centurion University of Technology and Management, School of Management - [SOM], Bhubaneswar
+IPS Business School, Jaipur
+Jaipuria Institute of Management - [JIM], Jaipur
+Jaipuria Institute of Management - [JIM], Lucknow
+Jaipuria Institute of Management - [JIM], Noida
+Jaipuria Institute of Management, Ghaziabad
+Dewan Institute of Management Studies - [DIMS], Meerut
+ABES Engineering College, Ghaziabad
+Teerthanker Mahaveer University, College of Engineering, Moradabad
+Teerthanker Mahaveer University, Faculty of Education, Moradabad
+Teerthanker Mahaveer University, College of Architecture, Moradabad
+Directorate of Distance Education Teerthanker Mahaveer University - [DDE-TMU], Moradabad
+Teerthanker Mahaveer University, College of Pharmacy, Moradabad
+Teerthanker Mahaveer University - [TMU], Moradabad
+Teerthanker Mahaveer University, College of Paramedical Sciences, Moradabad
+Teerthanker Mahaveer University, College Of Nursing, Moradabad
+Asia Pacific Institute of Information Technology - [APIIT], Panipat
+Central University of Jammu, Jammu
+The Business School University of Jammu - [TBS], Jammu
+University of Jammu, Jammu
+Taxila Business School - [TBS], Jaipur
+M.S. Ramaiah Institute of Management - [MSRIM], Bangalore
+GLA University, Mathura
+GRG School of Management Studies - [GRGSMS], Coimbatore
+Maharaja Agrasen Institute of Management and Technology - [MAIMT], Yamuna Nagar
+ICFAI Business School - [IBS], Dehradun
+Sri Balaji Society, Balaji Institute of International Business - [BIIB], Pune
+Sinhgad Institute of Business Administration and Research - [SIBAR] Kondhwa, Pune
+Astha School of Management, Bhubaneswar
+International Institute of Management Studies - [IIMS], Pune
+Lorven International Institute of Management Studies - [LIIMS], Bangalore
+Disha Institute of Management and Technology - [DIMAT], Raipur
+Jaipuria Institute of Management - [JIM], Indore
+Symbiosis Centre for Information Technology - [SCIT], Pune
+SCMS School of Technology and Management - [SSTM], Cochin
+Kirloskar Institute of Advanced Management Studies - [KIAMS], Pune
+Dayananda Sagar Institutions - [DSI], Bangalore
+ITM Business School Hullimavu, Bangalore
+Acropolis Technical Campus, Indore
+Maharishi Arvind School of Management Studies - [MASMS], Jaipur
+Karunya School of Management, Karunya University - [KSM], Coimbatore
+Alkesh Dinesh Mody Institute for Financial and Management Studies, Mumbai
+Tilka Manjhi Bhagalpur University - [TMBU], Bhagalpur
+MEASI Institute of Management Royapettah, Chennai
+BMS College of Engineering - [BMSCE], Bangalore
+J.J. College of Engineering and Technology - [JJCET], Thiruchirapalli
+Hindustan Institute of Management and Computer Studies - [HIMCS], Mathura
+RMD Sinhgad School of Management Studies Warje, Pune
+Vaishali Institute of Business and Rural Management - [VIBRM], Muzaffarpur
+Vidyasagar Institute of Management - [VIM], Bhopal

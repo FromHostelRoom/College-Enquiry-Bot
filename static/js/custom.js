@@ -61,7 +61,7 @@ function fetch_result(input)
     url:"/",
     data: $('form').serialize(),
     success: function(data) {
-      console.log(data);
+      speak(data);
     },
     
   });

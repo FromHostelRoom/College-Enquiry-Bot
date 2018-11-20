@@ -1,0 +1,77 @@
+{
+    "entity_examples": [
+      {
+        "text": "FACILITY",
+        "intent": "facilities",
+        "rts":  "facilities in COLLEGE are ",
+        "query": " WHERE `college_name` = COLLEGE"
+      },
+      {
+        "text": "REVIEW",
+        "intent": "reviews",
+        "rts": "Here are the reviews ",
+        "query": " WHERE `college_name` = COLLEGE"
+      },
+      {
+        "text": "RANK",
+        "intent": "mhrd",
+        "rts": "Rank of COLLEGE is ",
+        "query": " WHERE `college_name` = COLLEGE"
+      },
+      {
+        "text": "AFFILIATION",
+        "intent": "affiliation",
+        "rts": "COLLEGE is affiliated to ",
+        "query": " WHERE `college_name` = COLLEGE"
+      },
+      {
+        "text": "ESTABLISHED",
+        "intent": "established",
+        "rts": "COLLEGE was established in ",
+        "query": " WHERE `college_name` = COLLEGE"
+      },
+      {
+        "text": "LOCATION",
+        "intent": "city_name, state_name",
+        "rts": "COLLEGE is located in ",
+        "query": " WHERE `college_name` = COLLEGE"
+      },
+      {
+        "text": "TYPE",
+        "intent": "`type`",
+        "rts": "COLLEGES is ",
+        "query": " WHERE `college_name` = COLLEGE"
+      },
+      {
+        "text": "ALL",
+        "intent": "college_name, affiliation, established, facilities, mhrd, reviews, `type`, city_name, state_name, substream_name,  stream_name, total, duration, course_time, exam_date, exam_name, last_application_date, min_score, seats",
+        "rts": "Here are all the details of this college",
+        "query": " WHERE `college_name` = COLLEGE"
+      },
+      {
+        "text": "SUBSTREAM FEE",
+        "intent": "total",
+        "rts": "SUBSTREAM annual fees in COLLEGE is ",
+        "query": " WHERE `substream_name`=SUBSTREAM and `college_name` = COLLEGE"
+      },
+      {
+        "text": "STREAM FEE",
+        "intent": "total",
+        "rts":  "STREAM annual fees in COLLEGE is ",
+        "query": " WHERE `stream_name`=STREAM and `college_name` = COLLEGE"
+      },
+      {
+        "text": "SUBSTREAM SEATS",
+        "intent": "seats",
+        "rts":  "SUBSTREAM seats in COLLEGE is ",
+        "query": " WHERE `substream_name`=SUBSTREAM and `college_name` = COLLEGE"
+      },
+      {
+        "text": "STREAM SEATS",
+        "intent": "seats",
+        "rts":  "STREAM seats in COLLEGE is ",
+        "query": " WHERE `stream_name`=STREAM and `college_name` = COLLEGE"
+      }
+     
+    ]
+}

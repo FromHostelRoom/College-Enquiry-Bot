@@ -1,0 +1,2369 @@
+btech/SUBSTREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+btech/SUBSTREAM top/RANK colleges/NONE in/NONE india/LOC-COUNTRY
+
+barch/SUBSTREAM top/RANK 10/COUNT colleges/NONE in/NONE india/LOC-COUNTRY
+
+mtech/SUBSTREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+bba/SUBSTREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+bdes/SUBSTREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+bds/SUBSTREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+btech/SUBSTREAM colleges/NONE in/NONE jaipur/LOC-CITY
+
+btech/SUBSTREAM colleges/NONE in/NONE delhi/LOC-CITY
+
+architecture/STREAM colleges/NONE in/NONE new/LOC-CITY delhi/LOC-CITY
+
+arts/STREAM colleges/NONE in/NONE mangalore/LOC-CITY
+
+aviation/STREAM colleges/NONE in/NONE dharwad/LOC-CITY
+
+commerce/STREAM colleges/NONE in/NONE mumbai/LOC-CITY
+
+computer/STREAM application/STREAM colleges/NONE in/NONE lucknow/LOC-CITY
+
+dental/STREAM colleges/NONE in/NONE rohtak/LOC-CITY
+
+design/STREAM colleges/NONE in/NONE aurangabad/LOC-CITY
+
+education/STREAM colleges/NONE in/NONE kolkata/LOC-CITY
+
+engineering/STREAM colleges/NONE in/NONE chennai/LOC-CITY
+
+law/STREAM colleges/NONE in/NONE gandarvakottai/LOC-CITY
+
+management/STREAM colleges/NONE in/NONE jamshedpur/LOC-CITY
+
+mass/STREAM communication/STREAM and/STREAM media/STREAM colleges/NONE in/NONE kannur/LOC-CITY
+
+medical/STREAM colleges/NONE in/NONE kasaragod/LOC-CITY
+
+paramedical/STREAM colleges/NONE in/NONE bhubaneswar/LOC-CITY
+
+pharmacy/STREAM colleges/NONE in/NONE gorakhpur/LOC-CITY
+
+veterinary/STREAM sciences/STREAM colleges/NONE in/NONE dehradun/LOC-CITY
+
+top/RANK architecture/STREAM colleges/NONE in/NONE ganganagar/LOC-CITY
+
+top/RANK arts/STREAM colleges/NONE in/NONE amritsar/LOC-CITY
+
+top/RANK aviation/STREAM colleges/NONE in/NONE ghaziabad/LOC-CITY
+
+top/RANK commerce/STREAM colleges/NONE in/NONE meerut/LOC-CITY
+
+top/RANK computer/STREAM application/STREAM colleges/NONE in/NONE guntur/LOC-CITY
+
+top/RANK dental/STREAM colleges/NONE in/NONE secunderabad/LOC-CITY
+
+top/RANK design/STREAM colleges/NONE in/NONE bangalore/LOC-CITY
+
+top/RANK education/STREAM colleges/NONE in/NONE thrissur/LOC-CITY
+
+top/RANK engineering/STREAM colleges/NONE in/NONE beed/LOC-CITY
+
+top/RANK law/STREAM colleges/NONE in/NONE ahmed/LOC-CITY nagar/LOC-CITY
+
+top/RANK management/STREAM colleges/NONE in/NONE aligarh/LOC-CITY
+
+top/RANK mass/STREAM communication/STREAM and/STREAM media/STREAM colleges/NONE in/NONE kochi/LOC-CITY
+
+top/RANK medical/STREAM colleges/NONE in/NONE firozpur/LOC-CITY
+
+top/RANK paramedical/STREAM colleges/NONE in/NONE durg/LOC-CITY
+
+top/RANK pharmacy/STREAM colleges/NONE in/NONE kothamangalam/LOC-CITY
+
+top/RANK veterinary/STREAM sciences/STREAM colleges/NONE in/NONE thiruvalla/LOC-CITY
+
+top/RANK 10/COUNT architecture/STREAM colleges/NONE in/NONE thiruvananthapuram/LOC-CITY
+
+top/RANK 10/COUNT arts/STREAM colleges/NONE in/NONE haridwar/LOC-CITY
+
+top/RANK 10/COUNT aviation/STREAM colleges/NONE in/NONE ambala/LOC-CITY
+
+top/RANK 10/COUNT commerce/STREAM colleges/NONE in/NONE yamuna/LOC-CITY nagar/LOC-CITY
+
+top/RANK 10/COUNT computer/STREAM application/STREAM colleges/NONE in/NONE jabalpur/LOC-CITY
+
+top/RANK 10/COUNT dental/STREAM colleges/NONE in/NONE kota/LOC-CITY
+
+top/RANK 10/COUNT design/STREAM colleges/NONE in/NONE patna/LOC-CITY
+
+top/RANK 80/COUNT education/STREAM colleges/NONE in/NONE davanagere/LOC-CITY
+
+top/RANK 60/COUNT engineering/STREAM colleges/NONE in/NONE faridabad/LOC-CITY
+
+good/RANK 80/COUNT law/STREAM colleges/NONE in/NONE hingoli/LOC-CITY
+
+good/RANK 60/COUNT management/STREAM colleges/NONE in/NONE bhimavaram/LOC-CITY
+
+good/RANK 40/COUNT mass/STREAM communication/STREAM and/STREAM media/STREAM colleges/NONE in/NONE darbhanga/LOC-CITY
+
+good/RANK 40/COUNT medical/STREAM colleges/NONE in/NONE varanasi/LOC-CITY
+
+good/RANK 30/COUNT paramedical/STREAM colleges/NONE in/NONE akola/LOC-CITY
+
+good/RANK 30/COUNT pharmacy/STREAM colleges/NONE in/NONE ernakulam/LOC-CITY
+
+good/RANK 30/COUNT veterinary/STREAM sciences/STREAM colleges/NONE in/NONE shimla/LOC-CITY
+
+btech/SUBSTREAM colleges/NONE in/NONE gobindgarh/LOC-CITY
+
+mtech/SUBSTREAM colleges/NONE in/NONE gandhi/LOC-CITY nagar/LOC-CITY
+
+mba/SUBSTREAM colleges/NONE in/NONE mohali/LOC-CITY
+
+bba/SUBSTREAM colleges/NONE in/NONE garhwa/LOC-CITY
+
+llb/SUBSTREAM colleges/NONE in/NONE mysore/LOC-CITY
+
+llm/SUBSTREAM colleges/NONE in/NONE jodhpur/LOC-CITY
+
+mbbs/SUBSTREAM colleges/NONE in/NONE bhilai/LOC-CITY
+
+ms/SUBSTREAM colleges/NONE in/NONE pune/LOC-CITY
+
+md/SUBSTREAM colleges/NONE in/NONE virajpet/LOC-CITY
+
+bcom/SUBSTREAM colleges/NONE in/NONE jaipur/LOC-CITY
+
+mcom/SUBSTREAM colleges/NONE in/NONE kollam/LOC-CITY
+
+bdes/SUBSTREAM colleges/NONE in/NONE indore/LOC-CITY
+
+mdes/SUBSTREAM colleges/NONE in/NONE malappuram/LOC-CITY
+
+ba/SUBSTREAM colleges/NONE in/NONE mandi/LOC-CITY
+
+ma/SUBSTREAM colleges/NONE in/NONE palakkad/LOC-CITY
+
+bca/SUBSTREAM colleges/NONE in/NONE ludhiana/LOC-CITY
+
+mca/SUBSTREAM colleges/NONE in/NONE wardha/LOC-CITY
+
+bds/SUBSTREAM colleges/NONE in/NONE bahadurgarh/LOC-CITY
+
+mds/SUBSTREAM colleges/NONE in/NONE visakhapatnam/LOC-CITY
+
+barch/SUBSTREAM colleges/NONE in/NONE moradabad/LOC-CITY
+
+march/SUBSTREAM colleges/NONE in/NONE hassan/LOC-CITY
+
+bmm/SUBSTREAM colleges/NONE in/NONE ahmedabad/LOC-CITY
+
+mmc/SUBSTREAM colleges/NONE in/NONE faridkot/LOC-CITY
+
+bpharm/SUBSTREAM colleges/NONE in/NONE north/LOC-CITY goa/LOC-CITY
+
+mpharm/SUBSTREAM colleges/NONE in/NONE jammu/LOC-CITY
+
+bvsc/SUBSTREAM colleges/NONE in/NONE patiala/LOC-CITY
+
+mvsc/SUBSTREAM colleges/NONE in/NONE jamnagar/LOC-CITY
+
+bsc/SUBSTREAM colleges/NONE in/NONE kanpur/LOC-CITY
+
+msc/SUBSTREAM colleges/NONE in/NONE panchkula/LOC-CITY
+
+bed/SUBSTREAM colleges/NONE in/NONE mathura/LOC-CITY
+
+med/SUBSTREAM colleges/NONE in/NONE visnagar/LOC-CITY
+
+top/RANK btech/SUBSTREAM colleges/NONE in/NONE udaipur/LOC-CITY
+
+top/RANK mtech/SUBSTREAM colleges/NONE in/NONE darjeeling/LOC-CITY
+
+top/RANK mba/SUBSTREAM colleges/NONE in/NONE rajnandgaon/LOC-CITY
+
+top/RANK bba/SUBSTREAM colleges/NONE in/NONE kozhikode/LOC-CITY
+
+top/RANK llb/SUBSTREAM colleges/NONE in/NONE dhule/LOC-CITY
+
+top/RANK llm/SUBSTREAM colleges/NONE in/NONE barabanki/LOC-CITY
+
+top/RANK mbbs/SUBSTREAM colleges/NONE in/NONE vadodara/LOC-CITY
+
+top/RANK ms/SUBSTREAM colleges/NONE in/NONE gulbarga/LOC-CITY
+
+top/RANK md/SUBSTREAM colleges/NONE in/NONE thodupuzha/LOC-CITY
+
+top/RANK bcom/SUBSTREAM colleges/NONE in/NONE greater/LOC-CITY noida/LOC-CITY
+
+top/RANK mcom/SUBSTREAM colleges/NONE in/NONE bhopal/LOC-CITY
+
+best/RANK bdes/SUBSTREAM colleges/NONE in/NONE baddif/LOC-CITY
+
+best/RANK mdes/SUBSTREAM colleges/NONE in/NONE hazaribagh/LOC-CITY
+
+best/RANK ba/SUBSTREAM colleges/NONE in/NONE sirmaur/LOC-CITY
+
+best/RANK ma/SUBSTREAM colleges/NONE in/NONE nellore/LOC-CITY
+
+best/RANK bca/SUBSTREAM colleges/NONE in/NONE navi/LOC-CITY mumbai/LOC-CITY
+
+best/RANK mca/SUBSTREAM colleges/NONE in/NONE pondicherry/LOC-CITY
+
+best/RANK bds/SUBSTREAM colleges/NONE in/NONE nagpur/LOC-CITY
+
+best/RANK mds/SUBSTREAM colleges/NONE in/NONE vijayawada/LOC-CITY
+
+best/RANK barch/SUBSTREAM colleges/NONE in/NONE imphal/LOC-CITY
+
+best/RANK march/SUBSTREAM colleges/NONE in/NONE satara/LOC-CITY
+
+best/RANK bmm/SUBSTREAM colleges/NONE in/NONE kanchipuram/LOC-CITY
+
+best/RANK mmc/SUBSTREAM colleges/NONE in/NONE gurgaon/LOC-CITY
+
+best/RANK bpharm/SUBSTREAM colleges/NONE in/NONE bathinda/LOC-CITY
+
+top/RANK mpharm/SUBSTREAM colleges/NONE in/NONE coimbatore/LOC-CITY
+
+top/RANK bvsc/SUBSTREAM colleges/NONE in/NONE salem/LOC-CITY
+
+top/RANK mvsc/SUBSTREAM colleges/NONE in/NONE belgaum/LOC-CITY
+
+top/RANK bsc/SUBSTREAM colleges/NONE in/NONE chidambaram/LOC-CITY
+
+top/RANK msc/SUBSTREAM colleges/NONE in/NONE raipur/LOC-CITY
+
+top/RANK bed/SUBSTREAM colleges/NONE in/NONE ranchi/LOC-CITY
+
+top/RANK med/SUBSTREAM colleges/NONE in/NONE cuttack/LOC-CITY
+
+top/RANK 10/COUNT btech/SUBSTREAM colleges/NONE in/NONE kurnool/LOC-CITY
+
+top/RANK 10/COUNT mtech/SUBSTREAM colleges/NONE in/NONE manipal/LOC-CITY
+
+top/RANK 10/COUNT mba/SUBSTREAM colleges/NONE in/NONE nashik/LOC-CITY
+
+top/RANK 10/COUNT bba/SUBSTREAM colleges/NONE in/NONE chaibasa/LOC-CITY
+
+top/RANK 10/COUNT llb/SUBSTREAM colleges/NONE in/NONE kolhapur/LOC-CITY
+
+top/RANK 10/COUNT llm/SUBSTREAM colleges/NONE in/NONE chandigarh/LOC-CITY
+
+top/RANK 10/COUNT mbbs/SUBSTREAM colleges/NONE in/NONE kottayam/LOC-CITY
+
+top/RANK 10/COUNT ms/SUBSTREAM colleges/NONE in/NONE tumkur/LOC-CITY
+
+top/RANK 10/COUNT md/SUBSTREAM colleges/NONE in/NONE nadiad/LOC-CITY
+
+top/RANK 10/COUNT bcom/SUBSTREAM colleges/NONE in/NONE sangli/LOC-CITY
+
+top/RANK 10/COUNT mcom/SUBSTREAM colleges/NONE in/NONE madurai/LOC-CITY
+
+top/RANK 10/COUNT bdes/SUBSTREAM colleges/NONE in/NONE raichur/LOC-CITY
+
+top/RANK 10/COUNT mdes/SUBSTREAM colleges/NONE in/NONE thiruvallur/LOC-CITY
+
+top/RANK 10/COUNT ba/SUBSTREAM colleges/NONE in/NONE shimoga/LOC-CITY
+
+top/RANK 10/COUNT ma/SUBSTREAM colleges/NONE in/NONE solapur/LOC-CITY
+
+top/RANK 10/COUNT bca/SUBSTREAM colleges/NONE in/NONE kuppam/LOC-CITY
+
+top/RANK 10/COUNT mca/SUBSTREAM colleges/NONE in/NONE perinthalmanna/LOC-CITY
+
+top/RANK 10/COUNT bds/SUBSTREAM colleges/NONE in/NONE tiruchengodu/LOC-CITY
+
+top/RANK 10/COUNT mds/SUBSTREAM colleges/NONE in/NONE maduranthakam/LOC-CITY
+
+top/RANK 10/COUNT barch/SUBSTREAM colleges/NONE in/NONE mahe/LOC-CITY
+
+top/RANK 10/COUNT march/SUBSTREAM colleges/NONE in/NONE daman/LOC-CITY
+
+top/RANK 10/COUNT bmm/SUBSTREAM colleges/NONE in/NONE calicut/LOC-CITY
+
+top/RANK 10/COUNT mmc/SUBSTREAM colleges/NONE in/NONE chitradurga/LOC-CITY
+
+top/RANK 10/COUNT bpharm/SUBSTREAM colleges/NONE in/NONE bagalkot/LOC-CITY
+
+top/RANK 10/COUNT mpharm/SUBSTREAM colleges/NONE in/NONE bidar/LOC-CITY
+
+top/RANK 10/COUNT bvsc/SUBSTREAM colleges/NONE in/NONE bellary/LOC-CITY
+
+top/RANK 10/COUNT mvsc/SUBSTREAM colleges/NONE in/NONE sullia/LOC-CITY
+
+top/RANK 10/COUNT bsc/SUBSTREAM colleges/NONE in/NONE tirupati/LOC-CITY
+
+top/RANK 10/COUNT msc/SUBSTREAM colleges/NONE in/NONE krishna/LOC-CITY
+
+top/RANK 10/COUNT bed/SUBSTREAM colleges/NONE in/NONE latur/LOC-CITY
+
+top/RANK 10/COUNT med/SUBSTREAM colleges/NONE in/NONE sonepat/LOC-CITY
+
+architecture/STREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+arts/STREAM colleges/NONE in/NONE andhra/LOC-STATE pradesh/LOC-STATE
+
+aviation/STREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+commerce/STREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+computer/STREAM application/STREAM colleges/NONE in/NONE bihar/LOC-STATE
+
+dental/STREAM colleges/NONE in/NONE chandigarh/LOC-STATE
+
+design/STREAM colleges/NONE in/NONE chhattisgarh/LOC-STATE
+
+education/STREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+engineering/STREAM colleges/NONE in/NONE delhi/LOC-STATE ncr/LOC-STATE
+
+law/STREAM colleges/NONE in/NONE goa/LOC-STATE
+
+management/STREAM colleges/NONE in/NONE gujarat/LOC-STATE
+
+mass/STREAM communication/STREAM and/STREAM media/STREAM colleges/NONE in/NONE haryana/LOC-STATE
+
+medical/STREAM colleges/NONE in/NONE himachal/LOC-STATE pradesh/LOC-STATE
+
+paramedical/STREAM colleges/NONE in/NONE jammu/LOC-STATE and/LOC-STATE kashmir/LOC-STATE
+
+pharmacy/STREAM colleges/NONE in/NONE jharkhand/LOC-STATE
+
+veterinary/STREAM sciences/STREAM colleges/NONE in/NONE karnataka/LOC-STATE
+
+top/RANK architecture/STREAM colleges/NONE in/NONE kerala/LOC-STATE
+
+top/RANK arts/STREAM colleges/NONE in/NONE madhya/LOC-STATE pradesh/LOC-STATE
+
+top/RANK aviation/STREAM colleges/NONE in/NONE maharashtra/LOC-STATE
+
+top/RANK commerce/STREAM colleges/NONE in/NONE manipur/LOC-STATE
+
+top/RANK computer/STREAM application/STREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+top/RANK dental/STREAM colleges/NONE in/NONE mizoram/LOC-STATE
+
+top/RANK design/STREAM colleges/NONE in/NONE nagaland/LOC-STATE
+
+top/RANK education/STREAM colleges/NONE in/NONE orissa/LOC-STATE
+
+top/RANK engineering/STREAM colleges/NONE in/NONE puducherry/LOC-STATE
+
+top/RANK law/STREAM colleges/NONE in/NONE punjab/LOC-STATE
+
+top/RANK management/STREAM colleges/NONE in/NONE rajasthan/LOC-STATE
+
+top/RANK mass/STREAM communication/STREAM and/STREAM media/STREAM colleges/NONE in/NONE sikkim/LOC-STATE
+
+top/RANK medical/STREAM colleges/NONE in/NONE tamil/LOC-STATE nadu/LOC-STATE
+
+top/RANK paramedical/STREAM colleges/NONE in/NONE telangana/LOC-STATE
+
+top/RANK pharmacy/STREAM colleges/NONE in/NONE tripura/LOC-STATE
+
+top/RANK veterinary/STREAM sciences/STREAM colleges/NONE in/NONE uttar/LOC-STATE pradesh/LOC-STATE
+
+top/RANK 10/COUNT architecture/STREAM colleges/NONE in/NONE uttarakhand/LOC-STATE
+
+top/RANK 10/COUNT arts/STREAM colleges/NONE in/NONE andaman/LOC-STATE and/LOC-STATE nicobar/LOC-STATE islands/LOC-STATE
+
+top/RANK 10/COUNT aviation/STREAM colleges/NONE in/NONE andhra/LOC-STATE pradesh/LOC-STATE
+
+top/RANK 10/COUNT commerce/STREAM colleges/NONE in/NONE arunachal/LOC-STATE pradesh/LOC-STATE
+
+top/RANK 10/COUNT computer/STREAM application/STREAM colleges/NONE in/NONE assam/LOC-STATE
+
+top/RANK 10/COUNT dental/STREAM colleges/NONE in/NONE bihar/LOC-STATE
+
+top/RANK 10/COUNT design/STREAM colleges/NONE in/NONE chandigarh/LOC-STATE
+
+top/RANK 10/COUNT education/STREAM colleges/NONE in/NONE chhattisgarh/LOC-STATE
+
+top/RANK 10/COUNT engineering/STREAM colleges/NONE in/NONE daman/LOC-STATE and/LOC-STATE diu/LOC-STATE
+
+top/RANK 10/COUNT law/STREAM colleges/NONE in/NONE delhi/LOC-STATE ncr/LOC-STATE
+
+top/RANK 10/COUNT management/STREAM colleges/NONE in/NONE goa/LOC-STATE
+
+top/RANK 10/COUNT mass/STREAM communication/STREAM and/STREAM media/STREAM colleges/NONE in/NONE gujarat/LOC-STATE
+
+top/RANK 10/COUNT medical/STREAM colleges/NONE in/NONE haryana/LOC-STATE
+
+top/RANK 10/COUNT paramedical/STREAM colleges/NONE in/NONE himachal/LOC-STATE pradesh/LOC-STATE
+
+top/RANK 10/COUNT pharmacy/STREAM colleges/NONE in/NONE jammu/LOC-STATE and/LOC-STATE kashmir/LOC-STATE
+
+top/RANK 10/COUNT veterinary/STREAM sciences/STREAM colleges/NONE in/NONE jharkhand/LOC-STATE
+
+btech/SUBSTREAM colleges/NONE in/NONE karnataka/LOC-STATE
+
+mtech/SUBSTREAM colleges/NONE in/NONE kerala/LOC-STATE
+
+mba/SUBSTREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+bba/SUBSTREAM colleges/NONE in/NONE maharashtra/LOC-STATE
+
+llb/SUBSTREAM colleges/NONE in/NONE manipur/LOC-STATE
+
+llm/SUBSTREAM colleges/NONE in/NONE meghalaya/LOC-STATE
+
+mbbs/SUBSTREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+ms/SUBSTREAM colleges/NONE in/NONE nagaland/LOC-STATE
+
+md/SUBSTREAM colleges/NONE in/NONE orissa/LOC-STATE
+
+bcom/SUBSTREAM colleges/NONE in/NONE puducherry/LOC-STATE
+
+mcom/SUBSTREAM colleges/NONE in/NONE punjab/LOC-STATE
+
+bdes/SUBSTREAM colleges/NONE in/NONE rajasthan/LOC-STATE
+
+mdes/SUBSTREAM colleges/NONE in/NONE sikkim/LOC-STATE
+
+ba/SUBSTREAM colleges/NONE in/NONE tamil/LOC-STATE nadu/LOC-STATE
+
+ma/SUBSTREAM colleges/NONE in/NONE telangana/LOC-STATE
+
+bca/SUBSTREAM colleges/NONE in/NONE tripura/LOC-STATE
+
+mca/SUBSTREAM colleges/NONE in/NONE uttar/LOC-STATE pradesh/LOC-STATE
+
+bds/SUBSTREAM colleges/NONE in/NONE uttarakhand/LOC-STATE
+
+mds/SUBSTREAM colleges/NONE in/NONE andaman/LOC-STATE and/LOC-STATE nicobar/LOC-STATE islands/LOC-STATE
+
+barch/SUBSTREAM colleges/NONE in/NONE andhra/LOC-STATE pradesh/LOC-STATE
+
+march/SUBSTREAM colleges/NONE in/NONE arunachal/LOC-STATE pradesh/LOC-STATE
+
+bmm/SUBSTREAM colleges/NONE in/NONE assam/LOC-STATE
+
+mmc/SUBSTREAM colleges/NONE in/NONE bihar/LOC-STATE
+
+bpharm/SUBSTREAM colleges/NONE in/NONE chandigarh/LOC-STATE
+
+mpharm/SUBSTREAM colleges/NONE in/NONE chhattisgarh/LOC-STATE
+
+bvsc/SUBSTREAM colleges/NONE in/NONE daman/LOC-STATE and/LOC-STATE diu/LOC-STATE
+
+mvsc/SUBSTREAM colleges/NONE in/NONE delhi/LOC-STATE ncr/LOC-STATE
+
+bsc/SUBSTREAM colleges/NONE in/NONE goa/LOC-STATE
+
+msc/SUBSTREAM colleges/NONE in/NONE gujarat/LOC-STATE
+
+bed/SUBSTREAM colleges/NONE in/NONE haryana/LOC-STATE
+
+med/SUBSTREAM colleges/NONE in/NONE himachal/LOC-STATE pradesh/LOC-STATE
+
+good/RANK btech/SUBSTREAM colleges/NONE in/NONE jammu/LOC-STATE and/LOC-STATE kashmir/LOC-STATE
+
+good/RANK mtech/SUBSTREAM colleges/NONE in/NONE jharkhand/LOC-STATE
+
+good/RANK mba/SUBSTREAM colleges/NONE in/NONE karnataka/LOC-STATE
+
+good/RANK bba/SUBSTREAM colleges/NONE in/NONE kerala/LOC-STATE
+
+good/RANK llb/SUBSTREAM colleges/NONE in/NONE madhya/LOC-STATE pradesh/LOC-STATE
+
+good/RANK llm/SUBSTREAM colleges/NONE in/NONE maharashtra/LOC-STATE
+
+good/RANK mbbs/SUBSTREAM colleges/NONE in/NONE manipur/LOC-STATE
+
+good/RANK ms/SUBSTREAM colleges/NONE in/NONE meghalaya/LOC-STATE
+
+good/RANK md/SUBSTREAM colleges/NONE in/NONE mizoram/LOC-STATE
+
+best/RANK bcom/SUBSTREAM colleges/NONE in/NONE nagaland/LOC-STATE
+
+best/RANK mcom/SUBSTREAM colleges/NONE in/NONE orissa/LOC-STATE
+
+best/RANK bdes/SUBSTREAM colleges/NONE in/NONE puducherry/LOC-STATE
+
+best/RANK mdes/SUBSTREAM colleges/NONE in/NONE punjab/LOC-STATE
+
+best/RANK ba/SUBSTREAM colleges/NONE in/NONE rajasthan/LOC-STATE
+
+best/RANK ma/SUBSTREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+best/RANK bca/SUBSTREAM colleges/NONE in/NONE tamil/LOC-STATE nadu/LOC-STATE
+
+best/RANK mca/SUBSTREAM colleges/NONE in/NONE telangana/LOC-STATE
+
+best/RANK bds/SUBSTREAM colleges/NONE in/NONE tripura/LOC-STATE
+
+best/RANK mds/SUBSTREAM colleges/NONE in/NONE uttar/LOC-STATE pradesh/LOC-STATE
+
+top/RANK barch/SUBSTREAM colleges/NONE in/NONE uttarakhand/LOC-STATE
+
+top/RANK march/SUBSTREAM colleges/NONE in/NONE andaman/LOC-STATE and/LOC-STATE nicobar/LOC-STATE islands/LOC-STATE
+
+top/RANK bmm/SUBSTREAM colleges/NONE in/NONE andhra/LOC-STATE pradesh/LOC-STATE
+
+top/RANK mmc/SUBSTREAM colleges/NONE in/NONE arunachal/LOC-STATE pradesh/LOC-STATE
+
+top/RANK bpharm/SUBSTREAM colleges/NONE in/NONE assam/LOC-STATE
+
+top/RANK mpharm/SUBSTREAM colleges/NONE in/NONE bihar/LOC-STATE
+
+top/RANK bvsc/SUBSTREAM colleges/NONE in/NONE chandigarh/LOC-STATE
+
+top/RANK mvsc/SUBSTREAM colleges/NONE in/NONE chhattisgarh/LOC-STATE
+
+top/RANK bsc/SUBSTREAM colleges/NONE in/NONE daman/LOC-STATE and/LOC-STATE diu/LOC-STATE
+
+top/RANK msc/SUBSTREAM colleges/NONE in/NONE delhi/LOC-STATE ncr/LOC-STATE
+
+top/RANK bed/SUBSTREAM colleges/NONE in/NONE goa/LOC-STATE
+
+top/RANK med/SUBSTREAM colleges/NONE in/NONE gujarat/LOC-STATE
+
+top/RANK 10/COUNT btech/SUBSTREAM colleges/NONE in/NONE haryana/LOC-STATE
+
+top/RANK 10/COUNT mtech/SUBSTREAM colleges/NONE in/NONE himachal/LOC-STATE pradesh/LOC-STATE
+
+top/RANK 10/COUNT mba/SUBSTREAM colleges/NONE in/NONE jammu/LOC-STATE and/LOC-STATE kashmir/LOC-STATE
+
+top/RANK 10/COUNT bba/SUBSTREAM colleges/NONE in/NONE jharkhand/LOC-STATE
+
+top/RANK 10/COUNT llb/SUBSTREAM colleges/NONE in/NONE karnataka/LOC-STATE
+
+top/RANK 10/COUNT llm/SUBSTREAM colleges/NONE in/NONE kerala/LOC-STATE
+
+top/RANK 10/COUNT mbbs/SUBSTREAM colleges/NONE in/NONE madhya/LOC-STATE pradesh/LOC-STATE
+
+top/RANK 10/COUNT ms/SUBSTREAM colleges/NONE in/NONE maharashtra/LOC-STATE
+
+top/RANK 10/COUNT md/SUBSTREAM colleges/NONE in/NONE manipur/LOC-STATE
+
+top/RANK 10/COUNT bcom/SUBSTREAM colleges/NONE in/NONE meghalaya/LOC-STATE
+
+top/RANK 10/COUNT mcom/SUBSTREAM colleges/NONE in/NONE mizoram/LOC-STATE
+
+top/RANK 10/COUNT bdes/SUBSTREAM colleges/NONE in/NONE nagaland/LOC-STATE
+
+top/RANK 10/COUNT mdes/SUBSTREAM colleges/NONE in/NONE orissa/LOC-STATE
+
+top/RANK 10/COUNT ba/SUBSTREAM colleges/NONE in/NONE puducherry/LOC-STATE
+
+top/RANK 10/COUNT ma/SUBSTREAM colleges/NONE in/NONE punjab/LOC-STATE
+
+top/RANK 10/COUNT bca/SUBSTREAM colleges/NONE in/NONE rajasthan/LOC-STATE
+
+top/RANK 10/COUNT mca/SUBSTREAM colleges/NONE in/NONE sikkim/LOC-STATE
+
+top/RANK 10/COUNT bds/SUBSTREAM colleges/NONE in/NONE tamil/LOC-STATE nadu/LOC-STATE
+
+top/RANK 10/COUNT mds/SUBSTREAM colleges/NONE in/NONE telangana/LOC-STATE
+
+top/RANK 10/COUNT barch/SUBSTREAM colleges/NONE in/NONE tripura/LOC-STATE
+
+top/RANK 10/COUNT march/SUBSTREAM colleges/NONE in/NONE uttar/LOC-STATE pradesh/LOC-STATE
+
+top/RANK 10/COUNT bmm/SUBSTREAM colleges/NONE in/NONE uttarakhand/LOC-STATE
+
+top/RANK 10/COUNT mmc/SUBSTREAM colleges/NONE in/NONE andaman/LOC-STATE and/LOC-STATE nicobar/LOC-STATE islands/LOC-STATE
+
+top/RANK 10/COUNT bpharm/SUBSTREAM colleges/NONE in/NONE andhra/LOC-STATE pradesh/LOC-STATE
+
+top/RANK 10/COUNT mpharm/SUBSTREAM colleges/NONE in/NONE arunachal/LOC-STATE pradesh/LOC-STATE
+
+top/RANK 10/COUNT bvsc/SUBSTREAM colleges/NONE in/NONE assam/LOC-STATE
+
+top/RANK 10/COUNT mvsc/SUBSTREAM colleges/NONE in/NONE bihar/LOC-STATE
+
+top/RANK 10/COUNT bsc/SUBSTREAM colleges/NONE in/NONE chandigarh/LOC-STATE
+
+top/RANK 10/COUNT msc/SUBSTREAM colleges/NONE in/NONE chhattisgarh/LOC-STATE
+
+top/RANK 10/COUNT bed/SUBSTREAM colleges/NONE in/NONE daman/LOC-STATE and/LOC-STATE diu/LOC-STATE
+
+top/RANK 10/COUNT med/SUBSTREAM colleges/NONE in/NONE delhi/LOC-STATE ncr/LOC-STATE
+
+top/RANK 5/COUNT architecture/STREAM colleges/NONE in/NONE bardhaman/LOC-CITY
+
+top/RANK 10/COUNT arts/STREAM colleges/NONE in/NONE bilaspur/LOC-CITY
+
+top/RANK 15/COUNT aviation/STREAM colleges/NONE in/NONE bareilly/LOC-CITY
+
+top/RANK 20/COUNT commerce/STREAM colleges/NONE in/NONE azamgarh/LOC-CITY
+
+top/RANK 25/COUNT computer/STREAM application/STREAM colleges/NONE in/NONE bhavnagar/LOC-CITY
+
+top/RANK 50/COUNT dental/STREAM colleges/NONE in/NONE kakinada/LOC-CITY
+
+top/RANK 100/COUNT design/STREAM colleges/NONE in/NONE kharagpur/LOC-CITY
+
+top/RANK 200/COUNT education/STREAM colleges/NONE in/NONE roorkee/LOC-CITY
+
+top/RANK 5/COUNT engineering/STREAM colleges/NONE in/NONE thiruchirapalli/LOC-CITY
+
+top/RANK 10/COUNT law/STREAM colleges/NONE in/NONE gautam/LOC-CITY budh/LOC-CITY nagar/LOC-CITY
+
+top/RANK 15/COUNT management/STREAM colleges/NONE in/NONE jalandhar/LOC-CITY
+
+top/RANK 20/COUNT mass/STREAM communication/STREAM and/STREAM media/STREAM colleges/NONE in/NONE hamirpur/LOC-CITY
+
+top/RANK 25/COUNT medical/STREAM colleges/NONE in/NONE ratnagiri/LOC-CITY
+
+top/RANK 50/COUNT paramedical/STREAM colleges/NONE in/NONE bijapur/LOC-CITY
+
+top/RANK 100/COUNT pharmacy/STREAM colleges/NONE in/NONE namakkal/LOC-CITY
+
+top/RANK 200/COUNT veterinary/STREAM sciences/STREAM colleges/NONE in/NONE karnal/LOC-CITY
+
+top/RANK 5/COUNT btech/SUBSTREAM colleges/NONE in/NONE hubli/LOC-CITY
+
+top/RANK 10/COUNT mtech/SUBSTREAM colleges/NONE in/NONE guwahati/LOC-CITY
+
+top/RANK 15/COUNT mba/SUBSTREAM colleges/NONE in/NONE baroda/LOC-CITY
+
+top/RANK 20/COUNT bba/SUBSTREAM colleges/NONE in/NONE ropar/LOC-CITY
+
+top/RANK 25/COUNT llb/SUBSTREAM colleges/NONE in/NONE rajkot/LOC-CITY
+
+top/RANK 50/COUNT llm/SUBSTREAM colleges/NONE in/NONE jhajjar/LOC-CITY
+
+top/RANK 100/COUNT mbbs/SUBSTREAM colleges/NONE in/NONE panji/LOC-CITY
+
+top/RANK 200/COUNT ms/SUBSTREAM colleges/NONE in/NONE thane/LOC-CITY
+
+top/RANK 5/COUNT md/SUBSTREAM colleges/NONE in/NONE valsad/LOC-CITY
+
+top/RANK 10/COUNT bcom/SUBSTREAM colleges/NONE in/NONE ooty/LOC-CITY
+
+top/RANK 15/COUNT mcom/SUBSTREAM colleges/NONE in/NONE surat/LOC-CITY
+
+top/RANK 20/COUNT bdes/SUBSTREAM colleges/NONE in/NONE fatehgarh/LOC-CITY sahib/LOC-CITY
+
+top/RANK 25/COUNT mdes/SUBSTREAM colleges/NONE in/NONE ramanathapuram/LOC-CITY
+
+top/RANK 50/COUNT ba/SUBSTREAM colleges/NONE in/NONE gondiya/LOC-CITY
+
+top/RANK 100/COUNT ma/SUBSTREAM colleges/NONE in/NONE krishnagiri/LOC-CITY
+
+top/RANK 200/COUNT bca/SUBSTREAM colleges/NONE in/NONE avadi/LOC-CITY
+
+top/RANK 5/COUNT mca/SUBSTREAM colleges/NONE in/NONE tonk/LOC-CITY
+
+top/RANK 10/COUNT bds/SUBSTREAM colleges/NONE in/NONE vellore/LOC-CITY
+
+top/RANK 15/COUNT mds/SUBSTREAM colleges/NONE in/NONE rourkela/LOC-CITY
+
+top/RANK 20/COUNT barch/SUBSTREAM colleges/NONE in/NONE howrah/LOC-CITY
+
+top/RANK 25/COUNT march/SUBSTREAM colleges/NONE in/NONE noida/LOC-CITY
+
+top/RANK 50/COUNT bmm/SUBSTREAM colleges/NONE in/NONE sirohi/LOC-CITY
+
+top/RANK 100/COUNT mmc/SUBSTREAM colleges/NONE in/NONE churu/LOC-CITY
+
+top/RANK 200/COUNT bpharm/SUBSTREAM colleges/NONE in/NONE jhansi/LOC-CITY
+
+top/RANK 5/COUNT mpharm/SUBSTREAM colleges/NONE in/NONE gwalior/LOC-CITY
+
+top/RANK 10/COUNT bvsc/SUBSTREAM colleges/NONE in/NONE thanjavur/LOC-CITY
+
+top/RANK 15/COUNT mvsc/SUBSTREAM colleges/NONE in/NONE west/LOC-CITY sikkim/LOC-CITY
+
+top/RANK 20/COUNT bsc/SUBSTREAM colleges/NONE in/NONE mehsana/LOC-CITY
+
+top/RANK 25/COUNT msc/SUBSTREAM colleges/NONE in/NONE shillong/LOC-CITY
+
+top/RANK 50/COUNT bed/SUBSTREAM colleges/NONE in/NONE idukki/LOC-CITY
+
+top/RANK 100/COUNT med/SUBSTREAM colleges/NONE in/NONE amravati/LOC-CITY
+
+best/RANK 5/COUNT architecture/STREAM colleges/NONE in/NONE andaman/LOC-STATE and/LOC-STATE nicobar/LOC-STATE islands/LOC-STATE
+
+best/RANK 10/COUNT arts/STREAM colleges/NONE in/NONE andhra/LOC-STATE pradesh/LOC-STATE
+
+best/RANK 15/COUNT aviation/STREAM colleges/NONE in/NONE arunachal/LOC-STATE pradesh/LOC-STATE
+
+best/RANK 20/COUNT commerce/STREAM colleges/NONE in/NONE assam/LOC-STATE
+
+best/RANK 25/COUNT computer/STREAM application/STREAM colleges/NONE in/NONE bihar/LOC-STATE
+
+best/RANK 50/COUNT dental/STREAM colleges/NONE in/NONE chandigarh/LOC-STATE
+
+best/RANK 100/COUNT design/STREAM colleges/NONE in/NONE chhattisgarh/LOC-STATE
+
+best/RANK 200/COUNT education/STREAM colleges/NONE in/NONE daman/LOC-STATE and/LOC-STATE diu/LOC-STATE
+
+best/RANK 5/COUNT engineering/STREAM colleges/NONE in/NONE delhi/LOC-STATE ncr/LOC-STATE india/LOC-COUNTRY
+
+top/RANK 10/COUNT law/STREAM colleges/NONE in/NONE goa/LOC-STATE
+
+top/RANK 15/COUNT management/STREAM colleges/NONE in/NONE gujarat/LOC-STATE
+
+top/RANK 20/COUNT mass/STREAM communication/STREAM and/STREAM media/STREAM colleges/NONE in/NONE haryana/LOC-STATE
+
+top/RANK 25/COUNT medical/STREAM colleges/NONE in/NONE himachal/LOC-STATE pradesh/LOC-STATE
+
+top/RANK 50/COUNT paramedical/STREAM colleges/NONE in/NONE jammu/LOC-STATE and/LOC-STATE kashmir/LOC-STATE
+
+top/RANK 100/COUNT pharmacy/STREAM colleges/NONE in/NONE jharkhand/LOC-STATE
+
+top/RANK 200/COUNT veterinary/STREAM sciences/STREAM colleges/NONE in/NONE karnataka india/LOC-COUNTRY
+
+top/RANK 5/COUNT btech/SUBSTREAM colleges/NONE in/NONE kerala/LOC-STATE
+
+top/RANK 10/COUNT mtech/SUBSTREAM colleges/NONE in/NONE madhya/LOC-STATE pradesh/LOC-STATE
+
+top/RANK 15/COUNT mba/SUBSTREAM colleges/NONE in/NONE maharashtra/LOC-STATE
+
+top/RANK 20/COUNT bba/SUBSTREAM colleges/NONE in/NONE manipur/LOC-STATE
+
+top/RANK 25/COUNT llb/SUBSTREAM colleges/NONE in/NONE meghalaya/LOC-STATE
+
+top/RANK 50/COUNT llm/SUBSTREAM colleges/NONE in/NONE mizoram/LOC-STATE
+
+top/RANK 100/COUNT mbbs/SUBSTREAM colleges/NONE in/NONE nagaland india/LOC-COUNTRY
+
+top/RANK 200/COUNT ms/SUBSTREAM colleges/NONE in/NONE orissa/LOC-STATE
+
+top/RANK 5/COUNT md/SUBSTREAM colleges/NONE in/NONE puducherry/LOC-STATE
+
+top/RANK 10/COUNT bcom/SUBSTREAM colleges/NONE in/NONE punjab/LOC-STATE india/LOC-COUNTRY
+
+top/RANK 15/COUNT mcom/SUBSTREAM colleges/NONE in/NONE rajasthan/LOC-STATE
+
+top/RANK 20/COUNT bdes/SUBSTREAM colleges/NONE in/NONE sikkim/LOC-STATE
+
+top/RANK 25/COUNT mdes/SUBSTREAM colleges/NONE in/NONE tamil/LOC-STATE nadu/LOC-STATE
+
+top/RANK 50/COUNT ba/SUBSTREAM colleges/NONE in/NONE telangana/LOC-STATE
+
+top/RANK 100/COUNT ma/SUBSTREAM colleges/NONE in/NONE tripura/LOC-STATE
+
+top/RANK 200/COUNT bca/SUBSTREAM colleges/NONE in/NONE uttar/LOC-STATE pradesh/LOC-STATE
+
+top/RANK 5/COUNT mca/SUBSTREAM colleges/NONE in/NONE uttarakhand/LOC-STATE
+
+top/RANK 10/COUNT bds/SUBSTREAM colleges/NONE in/NONE west/LOC-STATE bengal/LOC-STATE
+
+top/RANK 15/COUNT mds/SUBSTREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+top/RANK 20/COUNT barch/SUBSTREAM colleges/NONE in/NONE andhra/LOC-STATE pradesh/LOC-STATE
+
+top/RANK 25/COUNT march/SUBSTREAM colleges/NONE in/NONE arunachal/LOC-STATE pradesh/LOC-STATE
+
+top/RANK 50/COUNT bmm/SUBSTREAM colleges/NONE in/NONE assam/LOC-STATE
+
+top/RANK 100/COUNT mmc/SUBSTREAM colleges/NONE in/NONE bihar/LOC-STATE
+
+top/RANK 200/COUNT bpharm/SUBSTREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+top/RANK 5/COUNT mpharm/SUBSTREAM colleges/NONE in/NONE chhattisgarh/LOC-STATE
+
+top/RANK 10/COUNT bvsc/SUBSTREAM colleges/NONE in/NONE daman/LOC-STATE and/LOC-STATE diu/LOC-STATE
+
+top/RANK 15/COUNT mvsc/SUBSTREAM colleges/NONE in/NONE delhi/LOC-STATE ncr/LOC-STATE
+
+top/RANK 20/COUNT bsc/SUBSTREAM colleges/NONE in/NONE goa/LOC-STATE
+
+top/RANK 25/COUNT msc/SUBSTREAM colleges/NONE in/NONE gujarat/LOC-STATE
+
+top/RANK 50/COUNT bed/SUBSTREAM colleges/NONE in/NONE haryana/LOC-STATE
+
+top/RANK 100/COUNT med/SUBSTREAM colleges/NONE in/NONE himachal/LOC-STATE pradesh/LOC-STATE
+
+btech/SUBSTREAM colleges/NONE in/NONE mumbai/LOC-CITY
+
+btech/SUBSTREAM colleges/NONE in/NONE rajasthan/LOC-STATE
+
+btech/SUBSTREAM colleges/NONE in/NONE punjab/LOC-STATE
+
+btech/SUBSTREAM colleges/NONE in/NONE gujarat/LOC-STATE
+
+top/RANK btech/SUBSTREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+top/RANK mtech/SUBSTREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+top/RANK bba/SUBSTREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+top/RANK 30/COUNT bdes/SUBSTREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+top/RANK 30/COUNT barch/SUBSTREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+top/RANK bds/SUBSTREAM colleges/NONE in/NONE india/LOC-COUNTRY  
+
+btech/SUBSTREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+btech/SUBSTREAM top/RANK colleges/NONE in/NONE india/LOC-COUNTRY
+
+barch/SUBSTREAM top/RANK 10/COUNT colleges/NONE in/NONE india/LOC-COUNTRY
+
+mtech/SUBSTREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+bba/SUBSTREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+bdes/SUBSTREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+bds/SUBSTREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+btech/SUBSTREAM colleges/NONE in/NONE jaipur/LOC-CITY
+
+btech/SUBSTREAM colleges/NONE in/NONE delhi/LOC-CITY
+
+architecture/STREAM colleges/NONE in/NONE new/LOC-CITY delhi/LOC-CITY
+
+arts/STREAM colleges/NONE in/NONE mangalore/LOC-CITY
+
+aviation/STREAM colleges/NONE in/NONE dharwad/LOC-CITY
+
+commerce/STREAM colleges/NONE in/NONE mumbai/LOC-CITY
+
+computer/STREAM application/STREAM colleges/NONE in/NONE lucknow/LOC-CITY
+
+dental/STREAM colleges/NONE in/NONE rohtak/LOC-CITY
+
+design/STREAM colleges/NONE in/NONE aurangabad/LOC-CITY
+
+education/STREAM colleges/NONE in/NONE kolkata/LOC-CITY
+
+engineering/STREAM colleges/NONE in/NONE chennai/LOC-CITY
+
+law/STREAM colleges/NONE in/NONE gandarvakottai/LOC-CITY
+
+management/STREAM colleges/NONE in/NONE jamshedpur/LOC-CITY
+
+mass/STREAM communication/STREAM and/STREAM media/STREAM colleges/NONE in/NONE kannur/LOC-CITY
+
+medical/STREAM colleges/NONE in/NONE kasaragod/LOC-CITY
+
+paramedical/STREAM colleges/NONE in/NONE bhubaneswar/LOC-CITY
+
+pharmacy/STREAM colleges/NONE in/NONE gorakhpur/LOC-CITY
+
+veterinary/STREAM sciences/STREAM colleges/NONE in/NONE dehradun/LOC-CITY
+
+top/RANK architecture/STREAM colleges/NONE in/NONE ganganagar/LOC-CITY
+
+top/RANK arts/STREAM colleges/NONE in/NONE amritsar/LOC-CITY
+
+top/RANK aviation/STREAM colleges/NONE in/NONE ghaziabad/LOC-CITY
+
+top/RANK commerce/STREAM colleges/NONE in/NONE meerut/LOC-CITY
+
+top/RANK computer/STREAM application/STREAM colleges/NONE in/NONE guntur/LOC-CITY
+
+top/RANK dental/STREAM colleges/NONE in/NONE secunderabad/LOC-CITY
+
+top/RANK design/STREAM colleges/NONE in/NONE bangalore/LOC-CITY
+
+top/RANK education/STREAM colleges/NONE in/NONE thrissur/LOC-CITY
+
+top/RANK engineering/STREAM colleges/NONE in/NONE beed/LOC-CITY
+
+top/RANK law/STREAM colleges/NONE in/NONE ahmed/LOC-CITY nagar/LOC-CITY
+
+top/RANK management/STREAM colleges/NONE in/NONE aligarh/LOC-CITY
+
+top/RANK mass/STREAM communication/STREAM and/STREAM media/STREAM colleges/NONE in/NONE kochi/LOC-CITY
+
+top/RANK medical/STREAM colleges/NONE in/NONE firozpur/LOC-CITY
+
+top/RANK paramedical/STREAM colleges/NONE in/NONE durg/LOC-CITY
+
+top/RANK pharmacy/STREAM colleges/NONE in/NONE kothamangalam/LOC-CITY
+
+top/RANK veterinary/STREAM sciences/STREAM colleges/NONE in/NONE thiruvalla/LOC-CITY
+
+top/RANK 10/COUNT architecture/STREAM colleges/NONE in/NONE thiruvananthapuram/LOC-CITY
+
+top/RANK 10/COUNT arts/STREAM colleges/NONE in/NONE haridwar/LOC-CITY
+
+top/RANK 10/COUNT aviation/STREAM colleges/NONE in/NONE ambala/LOC-CITY
+
+top/RANK 10/COUNT commerce/STREAM colleges/NONE in/NONE yamuna/LOC-CITY nagar/LOC-CITY
+
+top/RANK 10/COUNT computer/STREAM application/STREAM colleges/NONE in/NONE jabalpur/LOC-CITY
+
+top/RANK 10/COUNT dental/STREAM colleges/NONE in/NONE kota/LOC-CITY
+
+top/RANK 10/COUNT design/STREAM colleges/NONE in/NONE patna/LOC-CITY
+
+top/RANK 80/COUNT education/STREAM colleges/NONE in/NONE davanagere/LOC-CITY
+
+top/RANK 60/COUNT engineering/STREAM colleges/NONE in/NONE faridabad/LOC-CITY
+
+good/RANK 80/COUNT law/STREAM colleges/NONE in/NONE hingoli/LOC-CITY
+
+good/RANK 60/COUNT management/STREAM colleges/NONE in/NONE bhimavaram/LOC-CITY
+
+good/RANK 40/COUNT mass/STREAM communication/STREAM and/STREAM media/STREAM colleges/NONE in/NONE darbhanga/LOC-CITY
+
+good/RANK 40/COUNT medical/STREAM colleges/NONE in/NONE varanasi/LOC-CITY
+
+good/RANK 30/COUNT paramedical/STREAM colleges/NONE in/NONE akola/LOC-CITY
+
+good/RANK 30/COUNT pharmacy/STREAM colleges/NONE in/NONE ernakulam/LOC-CITY
+
+good/RANK 30/COUNT veterinary/STREAM sciences/STREAM colleges/NONE in/NONE shimla/LOC-CITY
+
+btech/SUBSTREAM colleges/NONE in/NONE gobindgarh/LOC-CITY
+
+mtech/SUBSTREAM colleges/NONE in/NONE gandhi/LOC-CITY nagar/LOC-CITY
+
+mba/SUBSTREAM colleges/NONE in/NONE mohali/LOC-CITY
+
+bba/SUBSTREAM colleges/NONE in/NONE garhwa/LOC-CITY
+
+llb/SUBSTREAM colleges/NONE in/NONE mysore/LOC-CITY
+
+llm/SUBSTREAM colleges/NONE in/NONE jodhpur/LOC-CITY
+
+mbbs/SUBSTREAM colleges/NONE in/NONE bhilai/LOC-CITY
+
+ms/SUBSTREAM colleges/NONE in/NONE pune/LOC-CITY
+
+md/SUBSTREAM colleges/NONE in/NONE virajpet/LOC-CITY
+
+bcom/SUBSTREAM colleges/NONE in/NONE jaipur/LOC-CITY
+
+mcom/SUBSTREAM colleges/NONE in/NONE kollam/LOC-CITY
+
+bdes/SUBSTREAM colleges/NONE in/NONE indore/LOC-CITY
+
+mdes/SUBSTREAM colleges/NONE in/NONE malappuram/LOC-CITY
+
+ba/SUBSTREAM colleges/NONE in/NONE mandi/LOC-CITY
+
+ma/SUBSTREAM colleges/NONE in/NONE palakkad/LOC-CITY
+
+bca/SUBSTREAM colleges/NONE in/NONE ludhiana/LOC-CITY
+
+mca/SUBSTREAM colleges/NONE in/NONE wardha/LOC-CITY
+
+bds/SUBSTREAM colleges/NONE in/NONE bahadurgarh/LOC-CITY
+
+mds/SUBSTREAM colleges/NONE in/NONE visakhapatnam/LOC-CITY
+
+barch/SUBSTREAM colleges/NONE in/NONE moradabad/LOC-CITY
+
+march/SUBSTREAM colleges/NONE in/NONE hassan/LOC-CITY
+
+bmm/SUBSTREAM colleges/NONE in/NONE ahmedabad/LOC-CITY
+
+mmc/SUBSTREAM colleges/NONE in/NONE faridkot/LOC-CITY
+
+bpharm/SUBSTREAM colleges/NONE in/NONE north/LOC-CITY goa/LOC-CITY
+
+mpharm/SUBSTREAM colleges/NONE in/NONE jammu/LOC-CITY
+
+bvsc/SUBSTREAM colleges/NONE in/NONE patiala/LOC-CITY
+
+mvsc/SUBSTREAM colleges/NONE in/NONE jamnagar/LOC-CITY
+
+bsc/SUBSTREAM colleges/NONE in/NONE kanpur/LOC-CITY
+
+msc/SUBSTREAM colleges/NONE in/NONE panchkula/LOC-CITY
+
+bed/SUBSTREAM colleges/NONE in/NONE mathura/LOC-CITY
+
+med/SUBSTREAM colleges/NONE in/NONE visnagar/LOC-CITY
+
+top/RANK btech/SUBSTREAM colleges/NONE in/NONE udaipur/LOC-CITY
+
+top/RANK mtech/SUBSTREAM colleges/NONE in/NONE darjeeling/LOC-CITY
+
+top/RANK mba/SUBSTREAM colleges/NONE in/NONE rajnandgaon/LOC-CITY
+
+top/RANK bba/SUBSTREAM colleges/NONE in/NONE kozhikode/LOC-CITY
+
+top/RANK llb/SUBSTREAM colleges/NONE in/NONE dhule/LOC-CITY
+
+top/RANK llm/SUBSTREAM colleges/NONE in/NONE barabanki/LOC-CITY
+
+top/RANK mbbs/SUBSTREAM colleges/NONE in/NONE vadodara/LOC-CITY
+
+top/RANK ms/SUBSTREAM colleges/NONE in/NONE gulbarga/LOC-CITY
+
+top/RANK md/SUBSTREAM colleges/NONE in/NONE thodupuzha/LOC-CITY
+
+top/RANK bcom/SUBSTREAM colleges/NONE in/NONE greater/LOC-CITY noida/LOC-CITY
+
+top/RANK mcom/SUBSTREAM colleges/NONE in/NONE bhopal/LOC-CITY
+
+best/RANK bdes/SUBSTREAM colleges/NONE in/NONE baddif/LOC-CITY
+
+best/RANK mdes/SUBSTREAM colleges/NONE in/NONE hazaribagh/LOC-CITY
+
+best/RANK ba/SUBSTREAM colleges/NONE in/NONE sirmaur/LOC-CITY
+
+best/RANK ma/SUBSTREAM colleges/NONE in/NONE nellore/LOC-CITY
+
+best/RANK bca/SUBSTREAM colleges/NONE in/NONE navi/LOC-CITY mumbai/LOC-CITY
+
+best/RANK mca/SUBSTREAM colleges/NONE in/NONE pondicherry/LOC-CITY
+
+best/RANK bds/SUBSTREAM colleges/NONE in/NONE nagpur/LOC-CITY
+
+best/RANK mds/SUBSTREAM colleges/NONE in/NONE vijayawada/LOC-CITY
+
+best/RANK barch/SUBSTREAM colleges/NONE in/NONE imphal/LOC-CITY
+
+best/RANK march/SUBSTREAM colleges/NONE in/NONE satara/LOC-CITY
+
+best/RANK bmm/SUBSTREAM colleges/NONE in/NONE kanchipuram/LOC-CITY
+
+best/RANK mmc/SUBSTREAM colleges/NONE in/NONE gurgaon/LOC-CITY
+
+best/RANK bpharm/SUBSTREAM colleges/NONE in/NONE bathinda/LOC-CITY
+
+top/RANK mpharm/SUBSTREAM colleges/NONE in/NONE coimbatore/LOC-CITY
+
+top/RANK bvsc/SUBSTREAM colleges/NONE in/NONE salem/LOC-CITY
+
+top/RANK mvsc/SUBSTREAM colleges/NONE in/NONE belgaum/LOC-CITY
+
+top/RANK bsc/SUBSTREAM colleges/NONE in/NONE chidambaram/LOC-CITY
+
+top/RANK msc/SUBSTREAM colleges/NONE in/NONE raipur/LOC-CITY
+
+top/RANK bed/SUBSTREAM colleges/NONE in/NONE ranchi/LOC-CITY
+
+top/RANK med/SUBSTREAM colleges/NONE in/NONE cuttack/LOC-CITY
+
+top/RANK 10/COUNT btech/SUBSTREAM colleges/NONE in/NONE kurnool/LOC-CITY
+
+top/RANK 10/COUNT mtech/SUBSTREAM colleges/NONE in/NONE manipal/LOC-CITY
+
+top/RANK 10/COUNT mba/SUBSTREAM colleges/NONE in/NONE nashik/LOC-CITY
+
+top/RANK 10/COUNT bba/SUBSTREAM colleges/NONE in/NONE chaibasa/LOC-CITY
+
+top/RANK 10/COUNT llb/SUBSTREAM colleges/NONE in/NONE kolhapur/LOC-CITY
+
+top/RANK 10/COUNT llm/SUBSTREAM colleges/NONE in/NONE chandigarh/LOC-CITY
+
+top/RANK 10/COUNT mbbs/SUBSTREAM colleges/NONE in/NONE kottayam/LOC-CITY
+
+top/RANK 10/COUNT ms/SUBSTREAM colleges/NONE in/NONE tumkur/LOC-CITY
+
+top/RANK 10/COUNT md/SUBSTREAM colleges/NONE in/NONE nadiad/LOC-CITY
+
+top/RANK 10/COUNT bcom/SUBSTREAM colleges/NONE in/NONE sangli/LOC-CITY
+
+top/RANK 10/COUNT mcom/SUBSTREAM colleges/NONE in/NONE madurai/LOC-CITY
+
+top/RANK 10/COUNT bdes/SUBSTREAM colleges/NONE in/NONE raichur/LOC-CITY
+
+top/RANK 10/COUNT mdes/SUBSTREAM colleges/NONE in/NONE thiruvallur/LOC-CITY
+
+top/RANK 10/COUNT ba/SUBSTREAM colleges/NONE in/NONE shimoga/LOC-CITY
+
+top/RANK 10/COUNT ma/SUBSTREAM colleges/NONE in/NONE solapur/LOC-CITY
+
+top/RANK 10/COUNT bca/SUBSTREAM colleges/NONE in/NONE kuppam/LOC-CITY
+
+top/RANK 10/COUNT mca/SUBSTREAM colleges/NONE in/NONE perinthalmanna/LOC-CITY
+
+top/RANK 10/COUNT bds/SUBSTREAM colleges/NONE in/NONE tiruchengodu/LOC-CITY
+
+top/RANK 10/COUNT mds/SUBSTREAM colleges/NONE in/NONE maduranthakam/LOC-CITY
+
+top/RANK 10/COUNT barch/SUBSTREAM colleges/NONE in/NONE mahe/LOC-CITY
+
+top/RANK 10/COUNT march/SUBSTREAM colleges/NONE in/NONE daman/LOC-CITY
+
+top/RANK 10/COUNT bmm/SUBSTREAM colleges/NONE in/NONE calicut/LOC-CITY
+
+top/RANK 10/COUNT mmc/SUBSTREAM colleges/NONE in/NONE chitradurga/LOC-CITY
+
+top/RANK 10/COUNT bpharm/SUBSTREAM colleges/NONE in/NONE bagalkot/LOC-CITY
+
+top/RANK 10/COUNT mpharm/SUBSTREAM colleges/NONE in/NONE bidar/LOC-CITY
+
+top/RANK 10/COUNT bvsc/SUBSTREAM colleges/NONE in/NONE bellary/LOC-CITY
+
+top/RANK 10/COUNT mvsc/SUBSTREAM colleges/NONE in/NONE sullia/LOC-CITY
+
+top/RANK 10/COUNT bsc/SUBSTREAM colleges/NONE in/NONE tirupati/LOC-CITY
+
+top/RANK 10/COUNT msc/SUBSTREAM colleges/NONE in/NONE krishna/LOC-CITY
+
+top/RANK 10/COUNT bed/SUBSTREAM colleges/NONE in/NONE latur/LOC-CITY
+
+top/RANK 10/COUNT med/SUBSTREAM colleges/NONE in/NONE sonepat/LOC-CITY
+
+architecture/STREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+arts/STREAM colleges/NONE in/NONE andhra/LOC-STATE pradesh/LOC-STATE
+
+aviation/STREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+commerce/STREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+computer/STREAM application/STREAM colleges/NONE in/NONE bihar/LOC-STATE
+
+dental/STREAM colleges/NONE in/NONE chandigarh/LOC-STATE
+
+design/STREAM colleges/NONE in/NONE chhattisgarh/LOC-STATE
+
+education/STREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+engineering/STREAM colleges/NONE in/NONE delhi/LOC-STATE ncr/LOC-STATE
+
+law/STREAM colleges/NONE in/NONE goa/LOC-STATE
+
+management/STREAM colleges/NONE in/NONE gujarat/LOC-STATE
+
+mass/STREAM communication/STREAM and/STREAM media/STREAM colleges/NONE in/NONE haryana/LOC-STATE
+
+medical/STREAM colleges/NONE in/NONE himachal/LOC-STATE pradesh/LOC-STATE
+
+paramedical/STREAM colleges/NONE in/NONE jammu/LOC-STATE and/LOC-STATE kashmir/LOC-STATE
+
+pharmacy/STREAM colleges/NONE in/NONE jharkhand/LOC-STATE
+
+veterinary/STREAM sciences/STREAM colleges/NONE in/NONE karnataka/LOC-STATE
+
+top/RANK architecture/STREAM colleges/NONE in/NONE kerala/LOC-STATE
+
+top/RANK arts/STREAM colleges/NONE in/NONE madhya/LOC-STATE pradesh/LOC-STATE
+
+top/RANK aviation/STREAM colleges/NONE in/NONE maharashtra/LOC-STATE
+
+top/RANK commerce/STREAM colleges/NONE in/NONE manipur/LOC-STATE
+
+top/RANK computer/STREAM application/STREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+top/RANK dental/STREAM colleges/NONE in/NONE mizoram/LOC-STATE
+
+top/RANK design/STREAM colleges/NONE in/NONE nagaland/LOC-STATE
+
+top/RANK education/STREAM colleges/NONE in/NONE orissa/LOC-STATE
+
+top/RANK engineering/STREAM colleges/NONE in/NONE puducherry/LOC-STATE
+
+top/RANK law/STREAM colleges/NONE in/NONE punjab/LOC-STATE
+
+top/RANK management/STREAM colleges/NONE in/NONE rajasthan/LOC-STATE
+
+top/RANK mass/STREAM communication/STREAM and/STREAM media/STREAM colleges/NONE in/NONE sikkim/LOC-STATE
+
+top/RANK medical/STREAM colleges/NONE in/NONE tamil/LOC-STATE nadu/LOC-STATE
+
+top/RANK paramedical/STREAM colleges/NONE in/NONE telangana/LOC-STATE
+
+top/RANK pharmacy/STREAM colleges/NONE in/NONE tripura/LOC-STATE
+
+top/RANK veterinary/STREAM sciences/STREAM colleges/NONE in/NONE uttar/LOC-STATE pradesh/LOC-STATE
+
+top/RANK 10/COUNT architecture/STREAM colleges/NONE in/NONE uttarakhand/LOC-STATE
+
+top/RANK 10/COUNT arts/STREAM colleges/NONE in/NONE andaman/LOC-STATE and/LOC-STATE nicobar/LOC-STATE islands/LOC-STATE
+
+top/RANK 10/COUNT aviation/STREAM colleges/NONE in/NONE andhra/LOC-STATE pradesh/LOC-STATE
+
+top/RANK 10/COUNT commerce/STREAM colleges/NONE in/NONE arunachal/LOC-STATE pradesh/LOC-STATE
+
+top/RANK 10/COUNT computer/STREAM application/STREAM colleges/NONE in/NONE assam/LOC-STATE
+
+top/RANK 10/COUNT dental/STREAM colleges/NONE in/NONE bihar/LOC-STATE
+
+top/RANK 10/COUNT design/STREAM colleges/NONE in/NONE chandigarh/LOC-STATE
+
+top/RANK 10/COUNT education/STREAM colleges/NONE in/NONE chhattisgarh/LOC-STATE
+
+top/RANK 10/COUNT engineering/STREAM colleges/NONE in/NONE daman/LOC-STATE and/LOC-STATE diu/LOC-STATE
+
+top/RANK 10/COUNT law/STREAM colleges/NONE in/NONE delhi/LOC-STATE ncr/LOC-STATE
+
+top/RANK 10/COUNT management/STREAM colleges/NONE in/NONE goa/LOC-STATE
+
+top/RANK 10/COUNT mass/STREAM communication/STREAM and/STREAM media/STREAM colleges/NONE in/NONE gujarat/LOC-STATE
+
+top/RANK 10/COUNT medical/STREAM colleges/NONE in/NONE haryana/LOC-STATE
+
+top/RANK 10/COUNT paramedical/STREAM colleges/NONE in/NONE himachal/LOC-STATE pradesh/LOC-STATE
+
+top/RANK 10/COUNT pharmacy/STREAM colleges/NONE in/NONE jammu/LOC-STATE and/LOC-STATE kashmir/LOC-STATE
+
+top/RANK 10/COUNT veterinary/STREAM sciences/STREAM colleges/NONE in/NONE jharkhand/LOC-STATE
+
+btech/SUBSTREAM colleges/NONE in/NONE karnataka/LOC-STATE
+
+mtech/SUBSTREAM colleges/NONE in/NONE kerala/LOC-STATE
+
+mba/SUBSTREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+bba/SUBSTREAM colleges/NONE in/NONE maharashtra/LOC-STATE
+
+llb/SUBSTREAM colleges/NONE in/NONE manipur/LOC-STATE
+
+llm/SUBSTREAM colleges/NONE in/NONE meghalaya/LOC-STATE
+
+mbbs/SUBSTREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+ms/SUBSTREAM colleges/NONE in/NONE nagaland/LOC-STATE
+
+md/SUBSTREAM colleges/NONE in/NONE orissa/LOC-STATE
+
+bcom/SUBSTREAM colleges/NONE in/NONE puducherry/LOC-STATE
+
+mcom/SUBSTREAM colleges/NONE in/NONE punjab/LOC-STATE
+
+bdes/SUBSTREAM colleges/NONE in/NONE rajasthan/LOC-STATE
+
+mdes/SUBSTREAM colleges/NONE in/NONE sikkim/LOC-STATE
+
+ba/SUBSTREAM colleges/NONE in/NONE tamil/LOC-STATE nadu/LOC-STATE
+
+ma/SUBSTREAM colleges/NONE in/NONE telangana/LOC-STATE
+
+bca/SUBSTREAM colleges/NONE in/NONE tripura/LOC-STATE
+
+mca/SUBSTREAM colleges/NONE in/NONE uttar/LOC-STATE pradesh/LOC-STATE
+
+bds/SUBSTREAM colleges/NONE in/NONE uttarakhand/LOC-STATE
+
+mds/SUBSTREAM colleges/NONE in/NONE andaman/LOC-STATE and/LOC-STATE nicobar/LOC-STATE islands/LOC-STATE
+
+barch/SUBSTREAM colleges/NONE in/NONE andhra/LOC-STATE pradesh/LOC-STATE
+
+march/SUBSTREAM colleges/NONE in/NONE arunachal/LOC-STATE pradesh/LOC-STATE
+
+bmm/SUBSTREAM colleges/NONE in/NONE assam/LOC-STATE
+
+mmc/SUBSTREAM colleges/NONE in/NONE bihar/LOC-STATE
+
+bpharm/SUBSTREAM colleges/NONE in/NONE chandigarh/LOC-STATE
+
+mpharm/SUBSTREAM colleges/NONE in/NONE chhattisgarh/LOC-STATE
+
+bvsc/SUBSTREAM colleges/NONE in/NONE daman/LOC-STATE and/LOC-STATE diu/LOC-STATE
+
+mvsc/SUBSTREAM colleges/NONE in/NONE delhi/LOC-STATE ncr/LOC-STATE
+
+bsc/SUBSTREAM colleges/NONE in/NONE goa/LOC-STATE
+
+msc/SUBSTREAM colleges/NONE in/NONE gujarat/LOC-STATE
+
+bed/SUBSTREAM colleges/NONE in/NONE haryana/LOC-STATE
+
+med/SUBSTREAM colleges/NONE in/NONE himachal/LOC-STATE pradesh/LOC-STATE
+
+good/RANK btech/SUBSTREAM colleges/NONE in/NONE jammu/LOC-STATE and/LOC-STATE kashmir/LOC-STATE
+
+good/RANK mtech/SUBSTREAM colleges/NONE in/NONE jharkhand/LOC-STATE
+
+good/RANK mba/SUBSTREAM colleges/NONE in/NONE karnataka/LOC-STATE
+
+good/RANK bba/SUBSTREAM colleges/NONE in/NONE kerala/LOC-STATE
+
+good/RANK llb/SUBSTREAM colleges/NONE in/NONE madhya/LOC-STATE pradesh/LOC-STATE
+
+good/RANK llm/SUBSTREAM colleges/NONE in/NONE maharashtra/LOC-STATE
+
+good/RANK mbbs/SUBSTREAM colleges/NONE in/NONE manipur/LOC-STATE
+
+good/RANK ms/SUBSTREAM colleges/NONE in/NONE meghalaya/LOC-STATE
+
+good/RANK md/SUBSTREAM colleges/NONE in/NONE mizoram/LOC-STATE
+
+best/RANK bcom/SUBSTREAM colleges/NONE in/NONE nagaland/LOC-STATE
+
+best/RANK mcom/SUBSTREAM colleges/NONE in/NONE orissa/LOC-STATE
+
+best/RANK bdes/SUBSTREAM colleges/NONE in/NONE puducherry/LOC-STATE
+
+best/RANK mdes/SUBSTREAM colleges/NONE in/NONE punjab/LOC-STATE
+
+best/RANK ba/SUBSTREAM colleges/NONE in/NONE rajasthan/LOC-STATE
+
+best/RANK ma/SUBSTREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+best/RANK bca/SUBSTREAM colleges/NONE in/NONE tamil/LOC-STATE nadu/LOC-STATE
+
+best/RANK mca/SUBSTREAM colleges/NONE in/NONE telangana/LOC-STATE
+
+best/RANK bds/SUBSTREAM colleges/NONE in/NONE tripura/LOC-STATE
+
+best/RANK mds/SUBSTREAM colleges/NONE in/NONE uttar/LOC-STATE pradesh/LOC-STATE
+
+top/RANK barch/SUBSTREAM colleges/NONE in/NONE uttarakhand/LOC-STATE
+
+top/RANK march/SUBSTREAM colleges/NONE in/NONE andaman/LOC-STATE and/LOC-STATE nicobar/LOC-STATE islands/LOC-STATE
+
+top/RANK bmm/SUBSTREAM colleges/NONE in/NONE andhra/LOC-STATE pradesh/LOC-STATE
+
+top/RANK mmc/SUBSTREAM colleges/NONE in/NONE arunachal/LOC-STATE pradesh/LOC-STATE
+
+top/RANK bpharm/SUBSTREAM colleges/NONE in/NONE assam/LOC-STATE
+
+top/RANK mpharm/SUBSTREAM colleges/NONE in/NONE bihar/LOC-STATE
+
+top/RANK bvsc/SUBSTREAM colleges/NONE in/NONE chandigarh/LOC-STATE
+
+top/RANK mvsc/SUBSTREAM colleges/NONE in/NONE chhattisgarh/LOC-STATE
+
+top/RANK bsc/SUBSTREAM colleges/NONE in/NONE daman/LOC-STATE and/LOC-STATE diu/LOC-STATE
+
+top/RANK msc/SUBSTREAM colleges/NONE in/NONE delhi/LOC-STATE ncr/LOC-STATE
+
+top/RANK bed/SUBSTREAM colleges/NONE in/NONE goa/LOC-STATE
+
+top/RANK med/SUBSTREAM colleges/NONE in/NONE gujarat/LOC-STATE
+
+top/RANK 10/COUNT btech/SUBSTREAM colleges/NONE in/NONE haryana/LOC-STATE
+
+top/RANK 10/COUNT mtech/SUBSTREAM colleges/NONE in/NONE himachal/LOC-STATE pradesh/LOC-STATE
+
+top/RANK 10/COUNT mba/SUBSTREAM colleges/NONE in/NONE jammu/LOC-STATE and/LOC-STATE kashmir/LOC-STATE
+
+top/RANK 10/COUNT bba/SUBSTREAM colleges/NONE in/NONE jharkhand/LOC-STATE
+
+top/RANK 10/COUNT llb/SUBSTREAM colleges/NONE in/NONE karnataka/LOC-STATE
+
+top/RANK 10/COUNT llm/SUBSTREAM colleges/NONE in/NONE kerala/LOC-STATE
+
+top/RANK 10/COUNT mbbs/SUBSTREAM colleges/NONE in/NONE madhya/LOC-STATE pradesh/LOC-STATE
+
+top/RANK 10/COUNT ms/SUBSTREAM colleges/NONE in/NONE maharashtra/LOC-STATE
+
+top/RANK 10/COUNT md/SUBSTREAM colleges/NONE in/NONE manipur/LOC-STATE
+
+top/RANK 10/COUNT bcom/SUBSTREAM colleges/NONE in/NONE meghalaya/LOC-STATE
+
+top/RANK 10/COUNT mcom/SUBSTREAM colleges/NONE in/NONE mizoram/LOC-STATE
+
+top/RANK 10/COUNT bdes/SUBSTREAM colleges/NONE in/NONE nagaland/LOC-STATE
+
+top/RANK 10/COUNT mdes/SUBSTREAM colleges/NONE in/NONE orissa/LOC-STATE
+
+top/RANK 10/COUNT ba/SUBSTREAM colleges/NONE in/NONE puducherry/LOC-STATE
+
+top/RANK 10/COUNT ma/SUBSTREAM colleges/NONE in/NONE punjab/LOC-STATE
+
+top/RANK 10/COUNT bca/SUBSTREAM colleges/NONE in/NONE rajasthan/LOC-STATE
+
+top/RANK 10/COUNT mca/SUBSTREAM colleges/NONE in/NONE sikkim/LOC-STATE
+
+top/RANK 10/COUNT bds/SUBSTREAM colleges/NONE in/NONE tamil/LOC-STATE nadu/LOC-STATE
+
+top/RANK 10/COUNT mds/SUBSTREAM colleges/NONE in/NONE telangana/LOC-STATE
+
+top/RANK 10/COUNT barch/SUBSTREAM colleges/NONE in/NONE tripura/LOC-STATE
+
+top/RANK 10/COUNT march/SUBSTREAM colleges/NONE in/NONE uttar/LOC-STATE pradesh/LOC-STATE
+
+top/RANK 10/COUNT bmm/SUBSTREAM colleges/NONE in/NONE uttarakhand/LOC-STATE
+
+top/RANK 10/COUNT mmc/SUBSTREAM colleges/NONE in/NONE andaman/LOC-STATE and/LOC-STATE nicobar/LOC-STATE islands/LOC-STATE
+
+top/RANK 10/COUNT bpharm/SUBSTREAM colleges/NONE in/NONE andhra/LOC-STATE pradesh/LOC-STATE
+
+top/RANK 10/COUNT mpharm/SUBSTREAM colleges/NONE in/NONE arunachal/LOC-STATE pradesh/LOC-STATE
+
+top/RANK 10/COUNT bvsc/SUBSTREAM colleges/NONE in/NONE assam/LOC-STATE
+
+top/RANK 10/COUNT mvsc/SUBSTREAM colleges/NONE in/NONE bihar/LOC-STATE
+
+top/RANK 10/COUNT bsc/SUBSTREAM colleges/NONE in/NONE chandigarh/LOC-STATE
+
+top/RANK 10/COUNT msc/SUBSTREAM colleges/NONE in/NONE chhattisgarh/LOC-STATE
+
+top/RANK 10/COUNT bed/SUBSTREAM colleges/NONE in/NONE daman/LOC-STATE and/LOC-STATE diu/LOC-STATE
+
+top/RANK 10/COUNT med/SUBSTREAM colleges/NONE in/NONE delhi/LOC-STATE ncr/LOC-STATE
+
+top/RANK 5/COUNT architecture/STREAM colleges/NONE in/NONE bardhaman/LOC-CITY
+
+top/RANK 10/COUNT arts/STREAM colleges/NONE in/NONE bilaspur/LOC-CITY
+
+top/RANK 15/COUNT aviation/STREAM colleges/NONE in/NONE bareilly/LOC-CITY
+
+top/RANK 20/COUNT commerce/STREAM colleges/NONE in/NONE azamgarh/LOC-CITY
+
+top/RANK 25/COUNT computer/STREAM application/STREAM colleges/NONE in/NONE bhavnagar/LOC-CITY
+
+top/RANK 50/COUNT dental/STREAM colleges/NONE in/NONE kakinada/LOC-CITY
+
+top/RANK 100/COUNT design/STREAM colleges/NONE in/NONE kharagpur/LOC-CITY
+
+top/RANK 200/COUNT education/STREAM colleges/NONE in/NONE roorkee/LOC-CITY
+
+top/RANK 5/COUNT engineering/STREAM colleges/NONE in/NONE thiruchirapalli/LOC-CITY
+
+top/RANK 10/COUNT law/STREAM colleges/NONE in/NONE gautam/LOC-CITY budh/LOC-CITY nagar/LOC-CITY
+
+top/RANK 15/COUNT management/STREAM colleges/NONE in/NONE jalandhar/LOC-CITY
+
+top/RANK 20/COUNT mass/STREAM communication/STREAM and/STREAM media/STREAM colleges/NONE in/NONE hamirpur/LOC-CITY
+
+top/RANK 25/COUNT medical/STREAM colleges/NONE in/NONE ratnagiri/LOC-CITY
+
+top/RANK 50/COUNT paramedical/STREAM colleges/NONE in/NONE bijapur/LOC-CITY
+
+top/RANK 100/COUNT pharmacy/STREAM colleges/NONE in/NONE namakkal/LOC-CITY
+
+top/RANK 200/COUNT veterinary/STREAM sciences/STREAM colleges/NONE in/NONE karnal/LOC-CITY
+
+top/RANK 5/COUNT btech/SUBSTREAM colleges/NONE in/NONE hubli/LOC-CITY
+
+top/RANK 10/COUNT mtech/SUBSTREAM colleges/NONE in/NONE guwahati/LOC-CITY
+
+top/RANK 15/COUNT mba/SUBSTREAM colleges/NONE in/NONE baroda/LOC-CITY
+
+top/RANK 20/COUNT bba/SUBSTREAM colleges/NONE in/NONE ropar/LOC-CITY
+
+top/RANK 25/COUNT llb/SUBSTREAM colleges/NONE in/NONE rajkot/LOC-CITY
+
+top/RANK 50/COUNT llm/SUBSTREAM colleges/NONE in/NONE jhajjar/LOC-CITY
+
+top/RANK 100/COUNT mbbs/SUBSTREAM colleges/NONE in/NONE panji/LOC-CITY
+
+top/RANK 200/COUNT ms/SUBSTREAM colleges/NONE in/NONE thane/LOC-CITY
+
+top/RANK 5/COUNT md/SUBSTREAM colleges/NONE in/NONE valsad/LOC-CITY
+
+top/RANK 10/COUNT bcom/SUBSTREAM colleges/NONE in/NONE ooty/LOC-CITY
+
+top/RANK 15/COUNT mcom/SUBSTREAM colleges/NONE in/NONE surat/LOC-CITY
+
+top/RANK 20/COUNT bdes/SUBSTREAM colleges/NONE in/NONE fatehgarh/LOC-CITY sahib/LOC-CITY
+
+top/RANK 25/COUNT mdes/SUBSTREAM colleges/NONE in/NONE ramanathapuram/LOC-CITY
+
+top/RANK 50/COUNT ba/SUBSTREAM colleges/NONE in/NONE gondiya/LOC-CITY
+
+top/RANK 100/COUNT ma/SUBSTREAM colleges/NONE in/NONE krishnagiri/LOC-CITY
+
+top/RANK 200/COUNT bca/SUBSTREAM colleges/NONE in/NONE avadi/LOC-CITY
+
+top/RANK 5/COUNT mca/SUBSTREAM colleges/NONE in/NONE tonk/LOC-CITY
+
+top/RANK 10/COUNT bds/SUBSTREAM colleges/NONE in/NONE vellore/LOC-CITY
+
+top/RANK 15/COUNT mds/SUBSTREAM colleges/NONE in/NONE rourkela/LOC-CITY
+
+top/RANK 20/COUNT barch/SUBSTREAM colleges/NONE in/NONE howrah/LOC-CITY
+
+top/RANK 25/COUNT march/SUBSTREAM colleges/NONE in/NONE noida/LOC-CITY
+
+top/RANK 50/COUNT bmm/SUBSTREAM colleges/NONE in/NONE sirohi/LOC-CITY
+
+top/RANK 100/COUNT mmc/SUBSTREAM colleges/NONE in/NONE churu/LOC-CITY
+
+top/RANK 200/COUNT bpharm/SUBSTREAM colleges/NONE in/NONE jhansi/LOC-CITY
+
+top/RANK 5/COUNT mpharm/SUBSTREAM colleges/NONE in/NONE gwalior/LOC-CITY
+
+top/RANK 10/COUNT bvsc/SUBSTREAM colleges/NONE in/NONE thanjavur/LOC-CITY
+
+top/RANK 15/COUNT mvsc/SUBSTREAM colleges/NONE in/NONE west/LOC-CITY sikkim/LOC-CITY
+
+top/RANK 20/COUNT bsc/SUBSTREAM colleges/NONE in/NONE mehsana/LOC-CITY
+
+top/RANK 25/COUNT msc/SUBSTREAM colleges/NONE in/NONE shillong/LOC-CITY
+
+top/RANK 50/COUNT bed/SUBSTREAM colleges/NONE in/NONE idukki/LOC-CITY
+
+top/RANK 100/COUNT med/SUBSTREAM colleges/NONE in/NONE amravati/LOC-CITY
+
+best/RANK 5/COUNT architecture/STREAM colleges/NONE in/NONE andaman/LOC-STATE and/LOC-STATE nicobar/LOC-STATE islands/LOC-STATE
+
+best/RANK 10/COUNT arts/STREAM colleges/NONE in/NONE andhra/LOC-STATE pradesh/LOC-STATE
+
+best/RANK 15/COUNT aviation/STREAM colleges/NONE in/NONE arunachal/LOC-STATE pradesh/LOC-STATE
+
+best/RANK 20/COUNT commerce/STREAM colleges/NONE in/NONE assam/LOC-STATE
+
+best/RANK 25/COUNT computer/STREAM application/STREAM colleges/NONE in/NONE bihar/LOC-STATE
+
+best/RANK 50/COUNT dental/STREAM colleges/NONE in/NONE chandigarh/LOC-STATE
+
+best/RANK 100/COUNT design/STREAM colleges/NONE in/NONE chhattisgarh/LOC-STATE
+
+best/RANK 200/COUNT education/STREAM colleges/NONE in/NONE daman/LOC-STATE and/LOC-STATE diu/LOC-STATE
+
+best/RANK 5/COUNT engineering/STREAM colleges/NONE in/NONE delhi/LOC-STATE ncr/LOC-STATE india/LOC-COUNTRY
+
+top/RANK 10/COUNT law/STREAM colleges/NONE in/NONE goa/LOC-STATE
+
+top/RANK 15/COUNT management/STREAM colleges/NONE in/NONE gujarat/LOC-STATE
+
+top/RANK 20/COUNT mass/STREAM communication/STREAM and/STREAM media/STREAM colleges/NONE in/NONE haryana/LOC-STATE
+
+top/RANK 25/COUNT medical/STREAM colleges/NONE in/NONE himachal/LOC-STATE pradesh/LOC-STATE
+
+top/RANK 50/COUNT paramedical/STREAM colleges/NONE in/NONE jammu/LOC-STATE and/LOC-STATE kashmir/LOC-STATE
+
+top/RANK 100/COUNT pharmacy/STREAM colleges/NONE in/NONE jharkhand/LOC-STATE
+
+top/RANK 200/COUNT veterinary/STREAM sciences/STREAM colleges/NONE in/NONE karnataka india/LOC-COUNTRY
+
+top/RANK 5/COUNT btech/SUBSTREAM colleges/NONE in/NONE kerala/LOC-STATE
+
+top/RANK 10/COUNT mtech/SUBSTREAM colleges/NONE in/NONE madhya/LOC-STATE pradesh/LOC-STATE
+
+top/RANK 15/COUNT mba/SUBSTREAM colleges/NONE in/NONE maharashtra/LOC-STATE
+
+top/RANK 20/COUNT bba/SUBSTREAM colleges/NONE in/NONE manipur/LOC-STATE
+
+top/RANK 25/COUNT llb/SUBSTREAM colleges/NONE in/NONE meghalaya/LOC-STATE
+
+top/RANK 50/COUNT llm/SUBSTREAM colleges/NONE in/NONE mizoram/LOC-STATE
+
+top/RANK 100/COUNT mbbs/SUBSTREAM colleges/NONE in/NONE nagaland india/LOC-COUNTRY
+
+top/RANK 200/COUNT ms/SUBSTREAM colleges/NONE in/NONE orissa/LOC-STATE
+
+top/RANK 5/COUNT md/SUBSTREAM colleges/NONE in/NONE puducherry/LOC-STATE
+
+top/RANK 10/COUNT bcom/SUBSTREAM colleges/NONE in/NONE punjab/LOC-STATE india/LOC-COUNTRY
+
+top/RANK 15/COUNT mcom/SUBSTREAM colleges/NONE in/NONE rajasthan/LOC-STATE
+
+top/RANK 20/COUNT bdes/SUBSTREAM colleges/NONE in/NONE sikkim/LOC-STATE
+
+top/RANK 25/COUNT mdes/SUBSTREAM colleges/NONE in/NONE tamil/LOC-STATE nadu/LOC-STATE
+
+top/RANK 50/COUNT ba/SUBSTREAM colleges/NONE in/NONE telangana/LOC-STATE
+
+top/RANK 100/COUNT ma/SUBSTREAM colleges/NONE in/NONE tripura/LOC-STATE
+
+top/RANK 200/COUNT bca/SUBSTREAM colleges/NONE in/NONE uttar/LOC-STATE pradesh/LOC-STATE
+
+top/RANK 5/COUNT mca/SUBSTREAM colleges/NONE in/NONE uttarakhand/LOC-STATE
+
+top/RANK 10/COUNT bds/SUBSTREAM colleges/NONE in/NONE west/LOC-STATE bengal/LOC-STATE
+
+top/RANK 15/COUNT mds/SUBSTREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+top/RANK 20/COUNT barch/SUBSTREAM colleges/NONE in/NONE andhra/LOC-STATE pradesh/LOC-STATE
+
+top/RANK 25/COUNT march/SUBSTREAM colleges/NONE in/NONE arunachal/LOC-STATE pradesh/LOC-STATE
+
+top/RANK 50/COUNT bmm/SUBSTREAM colleges/NONE in/NONE assam/LOC-STATE
+
+top/RANK 100/COUNT mmc/SUBSTREAM colleges/NONE in/NONE bihar/LOC-STATE
+
+top/RANK 200/COUNT bpharm/SUBSTREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+top/RANK 5/COUNT mpharm/SUBSTREAM colleges/NONE in/NONE chhattisgarh/LOC-STATE
+
+top/RANK 10/COUNT bvsc/SUBSTREAM colleges/NONE in/NONE daman/LOC-STATE and/LOC-STATE diu/LOC-STATE
+
+top/RANK 15/COUNT mvsc/SUBSTREAM colleges/NONE in/NONE delhi/LOC-STATE ncr/LOC-STATE
+
+top/RANK 20/COUNT bsc/SUBSTREAM colleges/NONE in/NONE goa/LOC-STATE
+
+top/RANK 25/COUNT msc/SUBSTREAM colleges/NONE in/NONE gujarat/LOC-STATE
+
+top/RANK 50/COUNT bed/SUBSTREAM colleges/NONE in/NONE haryana/LOC-STATE
+
+top/RANK 100/COUNT med/SUBSTREAM colleges/NONE in/NONE himachal/LOC-STATE pradesh/LOC-STATE
+
+btech/SUBSTREAM colleges/NONE in/NONE mumbai/LOC-CITY
+
+btech/SUBSTREAM colleges/NONE in/NONE rajasthan/LOC-STATE
+
+btech/SUBSTREAM colleges/NONE in/NONE punjab/LOC-STATE
+
+btech/SUBSTREAM colleges/NONE in/NONE gujarat/LOC-STATE
+
+top/RANK btech/SUBSTREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+top/RANK mtech/SUBSTREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+top/RANK bba/SUBSTREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+top/RANK 30/COUNT bdes/SUBSTREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+top/RANK 30/COUNT barch/SUBSTREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+top/RANK bds/SUBSTREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+btech/SUBSTREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+btech/SUBSTREAM top/RANK colleges/NONE in/NONE india/LOC-COUNTRY
+
+barch/SUBSTREAM top/RANK 10/COUNT colleges/NONE in/NONE india/LOC-COUNTRY
+
+mtech/SUBSTREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+bba/SUBSTREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+bdes/SUBSTREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+bds/SUBSTREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+btech/SUBSTREAM colleges/NONE in/NONE jaipur/LOC-CITY
+
+btech/SUBSTREAM colleges/NONE in/NONE delhi/LOC-CITY
+
+architecture/STREAM colleges/NONE in/NONE new/LOC-CITY delhi/LOC-CITY
+
+arts/STREAM colleges/NONE in/NONE mangalore/LOC-CITY
+
+aviation/STREAM colleges/NONE in/NONE dharwad/LOC-CITY
+
+commerce/STREAM colleges/NONE in/NONE mumbai/LOC-CITY
+
+computer/STREAM application/STREAM colleges/NONE in/NONE lucknow/LOC-CITY
+
+dental/STREAM colleges/NONE in/NONE rohtak/LOC-CITY
+
+design/STREAM colleges/NONE in/NONE aurangabad/LOC-CITY
+
+education/STREAM colleges/NONE in/NONE kolkata/LOC-CITY
+
+engineering/STREAM colleges/NONE in/NONE chennai/LOC-CITY
+
+law/STREAM colleges/NONE in/NONE gandarvakottai/LOC-CITY
+
+management/STREAM colleges/NONE in/NONE jamshedpur/LOC-CITY
+
+mass/STREAM communication/STREAM and/STREAM media/STREAM colleges/NONE in/NONE kannur/LOC-CITY
+
+medical/STREAM colleges/NONE in/NONE kasaragod/LOC-CITY
+
+paramedical/STREAM colleges/NONE in/NONE bhubaneswar/LOC-CITY
+
+pharmacy/STREAM colleges/NONE in/NONE gorakhpur/LOC-CITY
+
+veterinary/STREAM sciences/STREAM colleges/NONE in/NONE dehradun/LOC-CITY
+
+top/RANK architecture/STREAM colleges/NONE in/NONE ganganagar/LOC-CITY
+
+top/RANK arts/STREAM colleges/NONE in/NONE amritsar/LOC-CITY
+
+top/RANK aviation/STREAM colleges/NONE in/NONE ghaziabad/LOC-CITY
+
+top/RANK commerce/STREAM colleges/NONE in/NONE meerut/LOC-CITY
+
+top/RANK computer/STREAM application/STREAM colleges/NONE in/NONE guntur/LOC-CITY
+
+top/RANK dental/STREAM colleges/NONE in/NONE secunderabad/LOC-CITY
+
+top/RANK design/STREAM colleges/NONE in/NONE bangalore/LOC-CITY
+
+top/RANK education/STREAM colleges/NONE in/NONE thrissur/LOC-CITY
+
+top/RANK engineering/STREAM colleges/NONE in/NONE beed/LOC-CITY
+
+top/RANK law/STREAM colleges/NONE in/NONE ahmed/LOC-CITY nagar/LOC-CITY
+
+top/RANK management/STREAM colleges/NONE in/NONE aligarh/LOC-CITY
+
+top/RANK mass/STREAM communication/STREAM and/STREAM media/STREAM colleges/NONE in/NONE kochi/LOC-CITY
+
+top/RANK medical/STREAM colleges/NONE in/NONE firozpur/LOC-CITY
+
+top/RANK paramedical/STREAM colleges/NONE in/NONE durg/LOC-CITY
+
+top/RANK pharmacy/STREAM colleges/NONE in/NONE kothamangalam/LOC-CITY
+
+top/RANK veterinary/STREAM sciences/STREAM colleges/NONE in/NONE thiruvalla/LOC-CITY
+
+top/RANK 10/COUNT architecture/STREAM colleges/NONE in/NONE thiruvananthapuram/LOC-CITY
+
+top/RANK 10/COUNT arts/STREAM colleges/NONE in/NONE haridwar/LOC-CITY
+
+top/RANK 10/COUNT aviation/STREAM colleges/NONE in/NONE ambala/LOC-CITY
+
+top/RANK 10/COUNT commerce/STREAM colleges/NONE in/NONE yamuna/LOC-CITY nagar/LOC-CITY
+
+top/RANK 10/COUNT computer/STREAM application/STREAM colleges/NONE in/NONE jabalpur/LOC-CITY
+
+top/RANK 10/COUNT dental/STREAM colleges/NONE in/NONE kota/LOC-CITY
+
+top/RANK 10/COUNT design/STREAM colleges/NONE in/NONE patna/LOC-CITY
+
+top/RANK 80/COUNT education/STREAM colleges/NONE in/NONE davanagere/LOC-CITY
+
+top/RANK 60/COUNT engineering/STREAM colleges/NONE in/NONE faridabad/LOC-CITY
+
+good/RANK 80/COUNT law/STREAM colleges/NONE in/NONE hingoli/LOC-CITY
+
+good/RANK 60/COUNT management/STREAM colleges/NONE in/NONE bhimavaram/LOC-CITY
+
+good/RANK 40/COUNT mass/STREAM communication/STREAM and/STREAM media/STREAM colleges/NONE in/NONE darbhanga/LOC-CITY
+
+good/RANK 40/COUNT medical/STREAM colleges/NONE in/NONE varanasi/LOC-CITY
+
+good/RANK 30/COUNT paramedical/STREAM colleges/NONE in/NONE akola/LOC-CITY
+
+good/RANK 30/COUNT pharmacy/STREAM colleges/NONE in/NONE ernakulam/LOC-CITY
+
+good/RANK 30/COUNT veterinary/STREAM sciences/STREAM colleges/NONE in/NONE shimla/LOC-CITY
+
+btech/SUBSTREAM colleges/NONE in/NONE gobindgarh/LOC-CITY
+
+mtech/SUBSTREAM colleges/NONE in/NONE gandhi/LOC-CITY nagar/LOC-CITY
+
+mba/SUBSTREAM colleges/NONE in/NONE mohali/LOC-CITY
+
+bba/SUBSTREAM colleges/NONE in/NONE garhwa/LOC-CITY
+
+llb/SUBSTREAM colleges/NONE in/NONE mysore/LOC-CITY
+
+llm/SUBSTREAM colleges/NONE in/NONE jodhpur/LOC-CITY
+
+mbbs/SUBSTREAM colleges/NONE in/NONE bhilai/LOC-CITY
+
+ms/SUBSTREAM colleges/NONE in/NONE pune/LOC-CITY
+
+md/SUBSTREAM colleges/NONE in/NONE virajpet/LOC-CITY
+
+bcom/SUBSTREAM colleges/NONE in/NONE jaipur/LOC-CITY
+
+mcom/SUBSTREAM colleges/NONE in/NONE kollam/LOC-CITY
+
+bdes/SUBSTREAM colleges/NONE in/NONE indore/LOC-CITY
+
+mdes/SUBSTREAM colleges/NONE in/NONE malappuram/LOC-CITY
+
+ba/SUBSTREAM colleges/NONE in/NONE mandi/LOC-CITY
+
+ma/SUBSTREAM colleges/NONE in/NONE palakkad/LOC-CITY
+
+bca/SUBSTREAM colleges/NONE in/NONE ludhiana/LOC-CITY
+
+mca/SUBSTREAM colleges/NONE in/NONE wardha/LOC-CITY
+
+bds/SUBSTREAM colleges/NONE in/NONE bahadurgarh/LOC-CITY
+
+mds/SUBSTREAM colleges/NONE in/NONE visakhapatnam/LOC-CITY
+
+barch/SUBSTREAM colleges/NONE in/NONE moradabad/LOC-CITY
+
+march/SUBSTREAM colleges/NONE in/NONE hassan/LOC-CITY
+
+bmm/SUBSTREAM colleges/NONE in/NONE ahmedabad/LOC-CITY
+
+mmc/SUBSTREAM colleges/NONE in/NONE faridkot/LOC-CITY
+
+bpharm/SUBSTREAM colleges/NONE in/NONE north/LOC-CITY goa/LOC-CITY
+
+mpharm/SUBSTREAM colleges/NONE in/NONE jammu/LOC-CITY
+
+bvsc/SUBSTREAM colleges/NONE in/NONE patiala/LOC-CITY
+
+mvsc/SUBSTREAM colleges/NONE in/NONE jamnagar/LOC-CITY
+
+bsc/SUBSTREAM colleges/NONE in/NONE kanpur/LOC-CITY
+
+msc/SUBSTREAM colleges/NONE in/NONE panchkula/LOC-CITY
+
+bed/SUBSTREAM colleges/NONE in/NONE mathura/LOC-CITY
+
+med/SUBSTREAM colleges/NONE in/NONE visnagar/LOC-CITY
+
+top/RANK btech/SUBSTREAM colleges/NONE in/NONE udaipur/LOC-CITY
+
+top/RANK mtech/SUBSTREAM colleges/NONE in/NONE darjeeling/LOC-CITY
+
+top/RANK mba/SUBSTREAM colleges/NONE in/NONE rajnandgaon/LOC-CITY
+
+top/RANK bba/SUBSTREAM colleges/NONE in/NONE kozhikode/LOC-CITY
+
+top/RANK llb/SUBSTREAM colleges/NONE in/NONE dhule/LOC-CITY
+
+top/RANK llm/SUBSTREAM colleges/NONE in/NONE barabanki/LOC-CITY
+
+top/RANK mbbs/SUBSTREAM colleges/NONE in/NONE vadodara/LOC-CITY
+
+top/RANK ms/SUBSTREAM colleges/NONE in/NONE gulbarga/LOC-CITY
+
+top/RANK md/SUBSTREAM colleges/NONE in/NONE thodupuzha/LOC-CITY
+
+top/RANK bcom/SUBSTREAM colleges/NONE in/NONE greater/LOC-CITY noida/LOC-CITY
+
+top/RANK mcom/SUBSTREAM colleges/NONE in/NONE bhopal/LOC-CITY
+
+best/RANK bdes/SUBSTREAM colleges/NONE in/NONE baddif/LOC-CITY
+
+best/RANK mdes/SUBSTREAM colleges/NONE in/NONE hazaribagh/LOC-CITY
+
+best/RANK ba/SUBSTREAM colleges/NONE in/NONE sirmaur/LOC-CITY
+
+best/RANK ma/SUBSTREAM colleges/NONE in/NONE nellore/LOC-CITY
+
+best/RANK bca/SUBSTREAM colleges/NONE in/NONE navi/LOC-CITY mumbai/LOC-CITY
+
+best/RANK mca/SUBSTREAM colleges/NONE in/NONE pondicherry/LOC-CITY
+
+best/RANK bds/SUBSTREAM colleges/NONE in/NONE nagpur/LOC-CITY
+
+best/RANK mds/SUBSTREAM colleges/NONE in/NONE vijayawada/LOC-CITY
+
+best/RANK barch/SUBSTREAM colleges/NONE in/NONE imphal/LOC-CITY
+
+best/RANK march/SUBSTREAM colleges/NONE in/NONE satara/LOC-CITY
+
+best/RANK bmm/SUBSTREAM colleges/NONE in/NONE kanchipuram/LOC-CITY
+
+best/RANK mmc/SUBSTREAM colleges/NONE in/NONE gurgaon/LOC-CITY
+
+best/RANK bpharm/SUBSTREAM colleges/NONE in/NONE bathinda/LOC-CITY
+
+top/RANK mpharm/SUBSTREAM colleges/NONE in/NONE coimbatore/LOC-CITY
+
+top/RANK bvsc/SUBSTREAM colleges/NONE in/NONE salem/LOC-CITY
+
+top/RANK mvsc/SUBSTREAM colleges/NONE in/NONE belgaum/LOC-CITY
+
+top/RANK bsc/SUBSTREAM colleges/NONE in/NONE chidambaram/LOC-CITY
+
+top/RANK msc/SUBSTREAM colleges/NONE in/NONE raipur/LOC-CITY
+
+top/RANK bed/SUBSTREAM colleges/NONE in/NONE ranchi/LOC-CITY
+
+top/RANK med/SUBSTREAM colleges/NONE in/NONE cuttack/LOC-CITY
+
+top/RANK 10/COUNT btech/SUBSTREAM colleges/NONE in/NONE kurnool/LOC-CITY
+
+top/RANK 10/COUNT mtech/SUBSTREAM colleges/NONE in/NONE manipal/LOC-CITY
+
+top/RANK 10/COUNT mba/SUBSTREAM colleges/NONE in/NONE nashik/LOC-CITY
+
+top/RANK 10/COUNT bba/SUBSTREAM colleges/NONE in/NONE chaibasa/LOC-CITY
+
+top/RANK 10/COUNT llb/SUBSTREAM colleges/NONE in/NONE kolhapur/LOC-CITY
+
+top/RANK 10/COUNT llm/SUBSTREAM colleges/NONE in/NONE chandigarh/LOC-CITY
+
+top/RANK 10/COUNT mbbs/SUBSTREAM colleges/NONE in/NONE kottayam/LOC-CITY
+
+top/RANK 10/COUNT ms/SUBSTREAM colleges/NONE in/NONE tumkur/LOC-CITY
+
+top/RANK 10/COUNT md/SUBSTREAM colleges/NONE in/NONE nadiad/LOC-CITY
+
+top/RANK 10/COUNT bcom/SUBSTREAM colleges/NONE in/NONE sangli/LOC-CITY
+
+top/RANK 10/COUNT mcom/SUBSTREAM colleges/NONE in/NONE madurai/LOC-CITY
+
+top/RANK 10/COUNT bdes/SUBSTREAM colleges/NONE in/NONE raichur/LOC-CITY
+
+top/RANK 10/COUNT mdes/SUBSTREAM colleges/NONE in/NONE thiruvallur/LOC-CITY
+
+top/RANK 10/COUNT ba/SUBSTREAM colleges/NONE in/NONE shimoga/LOC-CITY
+
+top/RANK 10/COUNT ma/SUBSTREAM colleges/NONE in/NONE solapur/LOC-CITY
+
+top/RANK 10/COUNT bca/SUBSTREAM colleges/NONE in/NONE kuppam/LOC-CITY
+
+top/RANK 10/COUNT mca/SUBSTREAM colleges/NONE in/NONE perinthalmanna/LOC-CITY
+
+top/RANK 10/COUNT bds/SUBSTREAM colleges/NONE in/NONE tiruchengodu/LOC-CITY
+
+top/RANK 10/COUNT mds/SUBSTREAM colleges/NONE in/NONE maduranthakam/LOC-CITY
+
+top/RANK 10/COUNT barch/SUBSTREAM colleges/NONE in/NONE mahe/LOC-CITY
+
+top/RANK 10/COUNT march/SUBSTREAM colleges/NONE in/NONE daman/LOC-CITY
+
+top/RANK 10/COUNT bmm/SUBSTREAM colleges/NONE in/NONE calicut/LOC-CITY
+
+top/RANK 10/COUNT mmc/SUBSTREAM colleges/NONE in/NONE chitradurga/LOC-CITY
+
+top/RANK 10/COUNT bpharm/SUBSTREAM colleges/NONE in/NONE bagalkot/LOC-CITY
+
+top/RANK 10/COUNT mpharm/SUBSTREAM colleges/NONE in/NONE bidar/LOC-CITY
+
+top/RANK 10/COUNT bvsc/SUBSTREAM colleges/NONE in/NONE bellary/LOC-CITY
+
+top/RANK 10/COUNT mvsc/SUBSTREAM colleges/NONE in/NONE sullia/LOC-CITY
+
+top/RANK 10/COUNT bsc/SUBSTREAM colleges/NONE in/NONE tirupati/LOC-CITY
+
+top/RANK 10/COUNT msc/SUBSTREAM colleges/NONE in/NONE krishna/LOC-CITY
+
+top/RANK 10/COUNT bed/SUBSTREAM colleges/NONE in/NONE latur/LOC-CITY
+
+top/RANK 10/COUNT med/SUBSTREAM colleges/NONE in/NONE sonepat/LOC-CITY
+
+architecture/STREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+arts/STREAM colleges/NONE in/NONE andhra/LOC-STATE pradesh/LOC-STATE
+
+aviation/STREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+commerce/STREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+computer/STREAM application/STREAM colleges/NONE in/NONE bihar/LOC-STATE
+
+dental/STREAM colleges/NONE in/NONE chandigarh/LOC-STATE
+
+design/STREAM colleges/NONE in/NONE chhattisgarh/LOC-STATE
+
+education/STREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+engineering/STREAM colleges/NONE in/NONE delhi/LOC-STATE ncr/LOC-STATE
+
+law/STREAM colleges/NONE in/NONE goa/LOC-STATE
+
+management/STREAM colleges/NONE in/NONE gujarat/LOC-STATE
+
+mass/STREAM communication/STREAM and/STREAM media/STREAM colleges/NONE in/NONE haryana/LOC-STATE
+
+medical/STREAM colleges/NONE in/NONE himachal/LOC-STATE pradesh/LOC-STATE
+
+paramedical/STREAM colleges/NONE in/NONE jammu/LOC-STATE and/LOC-STATE kashmir/LOC-STATE
+
+pharmacy/STREAM colleges/NONE in/NONE jharkhand/LOC-STATE
+
+veterinary/STREAM sciences/STREAM colleges/NONE in/NONE karnataka/LOC-STATE
+
+top/RANK architecture/STREAM colleges/NONE in/NONE kerala/LOC-STATE
+
+top/RANK arts/STREAM colleges/NONE in/NONE madhya/LOC-STATE pradesh/LOC-STATE
+
+top/RANK aviation/STREAM colleges/NONE in/NONE maharashtra/LOC-STATE
+
+top/RANK commerce/STREAM colleges/NONE in/NONE manipur/LOC-STATE
+
+top/RANK computer/STREAM application/STREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+top/RANK dental/STREAM colleges/NONE in/NONE mizoram/LOC-STATE
+
+top/RANK design/STREAM colleges/NONE in/NONE nagaland/LOC-STATE
+
+top/RANK education/STREAM colleges/NONE in/NONE orissa/LOC-STATE
+
+top/RANK engineering/STREAM colleges/NONE in/NONE puducherry/LOC-STATE
+
+top/RANK law/STREAM colleges/NONE in/NONE punjab/LOC-STATE
+
+top/RANK management/STREAM colleges/NONE in/NONE rajasthan/LOC-STATE
+
+top/RANK mass/STREAM communication/STREAM and/STREAM media/STREAM colleges/NONE in/NONE sikkim/LOC-STATE
+
+top/RANK medical/STREAM colleges/NONE in/NONE tamil/LOC-STATE nadu/LOC-STATE
+
+top/RANK paramedical/STREAM colleges/NONE in/NONE telangana/LOC-STATE
+
+top/RANK pharmacy/STREAM colleges/NONE in/NONE tripura/LOC-STATE
+
+top/RANK veterinary/STREAM sciences/STREAM colleges/NONE in/NONE uttar/LOC-STATE pradesh/LOC-STATE
+
+top/RANK 10/COUNT architecture/STREAM colleges/NONE in/NONE uttarakhand/LOC-STATE
+
+top/RANK 10/COUNT arts/STREAM colleges/NONE in/NONE andaman/LOC-STATE and/LOC-STATE nicobar/LOC-STATE islands/LOC-STATE
+
+top/RANK 10/COUNT aviation/STREAM colleges/NONE in/NONE andhra/LOC-STATE pradesh/LOC-STATE
+
+top/RANK 10/COUNT commerce/STREAM colleges/NONE in/NONE arunachal/LOC-STATE pradesh/LOC-STATE
+
+top/RANK 10/COUNT computer/STREAM application/STREAM colleges/NONE in/NONE assam/LOC-STATE
+
+top/RANK 10/COUNT dental/STREAM colleges/NONE in/NONE bihar/LOC-STATE
+
+top/RANK 10/COUNT design/STREAM colleges/NONE in/NONE chandigarh/LOC-STATE
+
+top/RANK 10/COUNT education/STREAM colleges/NONE in/NONE chhattisgarh/LOC-STATE
+
+top/RANK 10/COUNT engineering/STREAM colleges/NONE in/NONE daman/LOC-STATE and/LOC-STATE diu/LOC-STATE
+
+top/RANK 10/COUNT law/STREAM colleges/NONE in/NONE delhi/LOC-STATE ncr/LOC-STATE
+
+top/RANK 10/COUNT management/STREAM colleges/NONE in/NONE goa/LOC-STATE
+
+top/RANK 10/COUNT mass/STREAM communication/STREAM and/STREAM media/STREAM colleges/NONE in/NONE gujarat/LOC-STATE
+
+top/RANK 10/COUNT medical/STREAM colleges/NONE in/NONE haryana/LOC-STATE
+
+top/RANK 10/COUNT paramedical/STREAM colleges/NONE in/NONE himachal/LOC-STATE pradesh/LOC-STATE
+
+top/RANK 10/COUNT pharmacy/STREAM colleges/NONE in/NONE jammu/LOC-STATE and/LOC-STATE kashmir/LOC-STATE
+
+top/RANK 10/COUNT veterinary/STREAM sciences/STREAM colleges/NONE in/NONE jharkhand/LOC-STATE
+
+btech/SUBSTREAM colleges/NONE in/NONE karnataka/LOC-STATE
+
+mtech/SUBSTREAM colleges/NONE in/NONE kerala/LOC-STATE
+
+mba/SUBSTREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+bba/SUBSTREAM colleges/NONE in/NONE maharashtra/LOC-STATE
+
+llb/SUBSTREAM colleges/NONE in/NONE manipur/LOC-STATE
+
+llm/SUBSTREAM colleges/NONE in/NONE meghalaya/LOC-STATE
+
+mbbs/SUBSTREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+ms/SUBSTREAM colleges/NONE in/NONE nagaland/LOC-STATE
+
+md/SUBSTREAM colleges/NONE in/NONE orissa/LOC-STATE
+
+bcom/SUBSTREAM colleges/NONE in/NONE puducherry/LOC-STATE
+
+mcom/SUBSTREAM colleges/NONE in/NONE punjab/LOC-STATE
+
+bdes/SUBSTREAM colleges/NONE in/NONE rajasthan/LOC-STATE
+
+mdes/SUBSTREAM colleges/NONE in/NONE sikkim/LOC-STATE
+
+ba/SUBSTREAM colleges/NONE in/NONE tamil/LOC-STATE nadu/LOC-STATE
+
+ma/SUBSTREAM colleges/NONE in/NONE telangana/LOC-STATE
+
+bca/SUBSTREAM colleges/NONE in/NONE tripura/LOC-STATE
+
+mca/SUBSTREAM colleges/NONE in/NONE uttar/LOC-STATE pradesh/LOC-STATE
+
+bds/SUBSTREAM colleges/NONE in/NONE uttarakhand/LOC-STATE
+
+mds/SUBSTREAM colleges/NONE in/NONE andaman/LOC-STATE and/LOC-STATE nicobar/LOC-STATE islands/LOC-STATE
+
+barch/SUBSTREAM colleges/NONE in/NONE andhra/LOC-STATE pradesh/LOC-STATE
+
+march/SUBSTREAM colleges/NONE in/NONE arunachal/LOC-STATE pradesh/LOC-STATE
+
+bmm/SUBSTREAM colleges/NONE in/NONE assam/LOC-STATE
+
+mmc/SUBSTREAM colleges/NONE in/NONE bihar/LOC-STATE
+
+bpharm/SUBSTREAM colleges/NONE in/NONE chandigarh/LOC-STATE
+
+mpharm/SUBSTREAM colleges/NONE in/NONE chhattisgarh/LOC-STATE
+
+bvsc/SUBSTREAM colleges/NONE in/NONE daman/LOC-STATE and/LOC-STATE diu/LOC-STATE
+
+mvsc/SUBSTREAM colleges/NONE in/NONE delhi/LOC-STATE ncr/LOC-STATE
+
+bsc/SUBSTREAM colleges/NONE in/NONE goa/LOC-STATE
+
+msc/SUBSTREAM colleges/NONE in/NONE gujarat/LOC-STATE
+
+bed/SUBSTREAM colleges/NONE in/NONE haryana/LOC-STATE
+
+med/SUBSTREAM colleges/NONE in/NONE himachal/LOC-STATE pradesh/LOC-STATE
+
+good/RANK btech/SUBSTREAM colleges/NONE in/NONE jammu/LOC-STATE and/LOC-STATE kashmir/LOC-STATE
+
+good/RANK mtech/SUBSTREAM colleges/NONE in/NONE jharkhand/LOC-STATE
+
+good/RANK mba/SUBSTREAM colleges/NONE in/NONE karnataka/LOC-STATE
+
+good/RANK bba/SUBSTREAM colleges/NONE in/NONE kerala/LOC-STATE
+
+good/RANK llb/SUBSTREAM colleges/NONE in/NONE madhya/LOC-STATE pradesh/LOC-STATE
+
+good/RANK llm/SUBSTREAM colleges/NONE in/NONE maharashtra/LOC-STATE
+
+good/RANK mbbs/SUBSTREAM colleges/NONE in/NONE manipur/LOC-STATE
+
+good/RANK ms/SUBSTREAM colleges/NONE in/NONE meghalaya/LOC-STATE
+
+good/RANK md/SUBSTREAM colleges/NONE in/NONE mizoram/LOC-STATE
+
+best/RANK bcom/SUBSTREAM colleges/NONE in/NONE nagaland/LOC-STATE
+
+best/RANK mcom/SUBSTREAM colleges/NONE in/NONE orissa/LOC-STATE
+
+best/RANK bdes/SUBSTREAM colleges/NONE in/NONE puducherry/LOC-STATE
+
+best/RANK mdes/SUBSTREAM colleges/NONE in/NONE punjab/LOC-STATE
+
+best/RANK ba/SUBSTREAM colleges/NONE in/NONE rajasthan/LOC-STATE
+
+best/RANK ma/SUBSTREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+best/RANK bca/SUBSTREAM colleges/NONE in/NONE tamil/LOC-STATE nadu/LOC-STATE
+
+best/RANK mca/SUBSTREAM colleges/NONE in/NONE telangana/LOC-STATE
+
+best/RANK bds/SUBSTREAM colleges/NONE in/NONE tripura/LOC-STATE
+
+best/RANK mds/SUBSTREAM colleges/NONE in/NONE uttar/LOC-STATE pradesh/LOC-STATE
+
+top/RANK barch/SUBSTREAM colleges/NONE in/NONE uttarakhand/LOC-STATE
+
+top/RANK march/SUBSTREAM colleges/NONE in/NONE andaman/LOC-STATE and/LOC-STATE nicobar/LOC-STATE islands/LOC-STATE
+
+top/RANK bmm/SUBSTREAM colleges/NONE in/NONE andhra/LOC-STATE pradesh/LOC-STATE
+
+top/RANK mmc/SUBSTREAM colleges/NONE in/NONE arunachal/LOC-STATE pradesh/LOC-STATE
+
+top/RANK bpharm/SUBSTREAM colleges/NONE in/NONE assam/LOC-STATE
+
+top/RANK mpharm/SUBSTREAM colleges/NONE in/NONE bihar/LOC-STATE
+
+top/RANK bvsc/SUBSTREAM colleges/NONE in/NONE chandigarh/LOC-STATE
+
+top/RANK mvsc/SUBSTREAM colleges/NONE in/NONE chhattisgarh/LOC-STATE
+
+top/RANK bsc/SUBSTREAM colleges/NONE in/NONE daman/LOC-STATE and/LOC-STATE diu/LOC-STATE
+
+top/RANK msc/SUBSTREAM colleges/NONE in/NONE delhi/LOC-STATE ncr/LOC-STATE
+
+top/RANK bed/SUBSTREAM colleges/NONE in/NONE goa/LOC-STATE
+
+top/RANK med/SUBSTREAM colleges/NONE in/NONE gujarat/LOC-STATE
+
+top/RANK 10/COUNT btech/SUBSTREAM colleges/NONE in/NONE haryana/LOC-STATE
+
+top/RANK 10/COUNT mtech/SUBSTREAM colleges/NONE in/NONE himachal/LOC-STATE pradesh/LOC-STATE
+
+top/RANK 10/COUNT mba/SUBSTREAM colleges/NONE in/NONE jammu/LOC-STATE and/LOC-STATE kashmir/LOC-STATE
+
+top/RANK 10/COUNT bba/SUBSTREAM colleges/NONE in/NONE jharkhand/LOC-STATE
+
+top/RANK 10/COUNT llb/SUBSTREAM colleges/NONE in/NONE karnataka/LOC-STATE
+
+top/RANK 10/COUNT llm/SUBSTREAM colleges/NONE in/NONE kerala/LOC-STATE
+
+top/RANK 10/COUNT mbbs/SUBSTREAM colleges/NONE in/NONE madhya/LOC-STATE pradesh/LOC-STATE
+
+top/RANK 10/COUNT ms/SUBSTREAM colleges/NONE in/NONE maharashtra/LOC-STATE
+
+top/RANK 10/COUNT md/SUBSTREAM colleges/NONE in/NONE manipur/LOC-STATE
+
+top/RANK 10/COUNT bcom/SUBSTREAM colleges/NONE in/NONE meghalaya/LOC-STATE
+
+top/RANK 10/COUNT mcom/SUBSTREAM colleges/NONE in/NONE mizoram/LOC-STATE
+
+top/RANK 10/COUNT bdes/SUBSTREAM colleges/NONE in/NONE nagaland/LOC-STATE
+
+top/RANK 10/COUNT mdes/SUBSTREAM colleges/NONE in/NONE orissa/LOC-STATE
+
+top/RANK 10/COUNT ba/SUBSTREAM colleges/NONE in/NONE puducherry/LOC-STATE
+
+top/RANK 10/COUNT ma/SUBSTREAM colleges/NONE in/NONE punjab/LOC-STATE
+
+top/RANK 10/COUNT bca/SUBSTREAM colleges/NONE in/NONE rajasthan/LOC-STATE
+
+top/RANK 10/COUNT mca/SUBSTREAM colleges/NONE in/NONE sikkim/LOC-STATE
+
+top/RANK 10/COUNT bds/SUBSTREAM colleges/NONE in/NONE tamil/LOC-STATE nadu/LOC-STATE
+
+top/RANK 10/COUNT mds/SUBSTREAM colleges/NONE in/NONE telangana/LOC-STATE
+
+top/RANK 10/COUNT barch/SUBSTREAM colleges/NONE in/NONE tripura/LOC-STATE
+
+top/RANK 10/COUNT march/SUBSTREAM colleges/NONE in/NONE uttar/LOC-STATE pradesh/LOC-STATE
+
+top/RANK 10/COUNT bmm/SUBSTREAM colleges/NONE in/NONE uttarakhand/LOC-STATE
+
+top/RANK 10/COUNT mmc/SUBSTREAM colleges/NONE in/NONE andaman/LOC-STATE and/LOC-STATE nicobar/LOC-STATE islands/LOC-STATE
+
+top/RANK 10/COUNT bpharm/SUBSTREAM colleges/NONE in/NONE andhra/LOC-STATE pradesh/LOC-STATE
+
+top/RANK 10/COUNT mpharm/SUBSTREAM colleges/NONE in/NONE arunachal/LOC-STATE pradesh/LOC-STATE
+
+top/RANK 10/COUNT bvsc/SUBSTREAM colleges/NONE in/NONE assam/LOC-STATE
+
+top/RANK 10/COUNT mvsc/SUBSTREAM colleges/NONE in/NONE bihar/LOC-STATE
+
+top/RANK 10/COUNT bsc/SUBSTREAM colleges/NONE in/NONE chandigarh/LOC-STATE
+
+top/RANK 10/COUNT msc/SUBSTREAM colleges/NONE in/NONE chhattisgarh/LOC-STATE
+
+top/RANK 10/COUNT bed/SUBSTREAM colleges/NONE in/NONE daman/LOC-STATE and/LOC-STATE diu/LOC-STATE
+
+top/RANK 10/COUNT med/SUBSTREAM colleges/NONE in/NONE delhi/LOC-STATE ncr/LOC-STATE
+
+top/RANK 5/COUNT architecture/STREAM colleges/NONE in/NONE bardhaman/LOC-CITY
+
+top/RANK 10/COUNT arts/STREAM colleges/NONE in/NONE bilaspur/LOC-CITY
+
+top/RANK 15/COUNT aviation/STREAM colleges/NONE in/NONE bareilly/LOC-CITY
+
+top/RANK 20/COUNT commerce/STREAM colleges/NONE in/NONE azamgarh/LOC-CITY
+
+top/RANK 25/COUNT computer/STREAM application/STREAM colleges/NONE in/NONE bhavnagar/LOC-CITY
+
+top/RANK 50/COUNT dental/STREAM colleges/NONE in/NONE kakinada/LOC-CITY
+
+top/RANK 100/COUNT design/STREAM colleges/NONE in/NONE kharagpur/LOC-CITY
+
+top/RANK 200/COUNT education/STREAM colleges/NONE in/NONE roorkee/LOC-CITY
+
+top/RANK 5/COUNT engineering/STREAM colleges/NONE in/NONE thiruchirapalli/LOC-CITY
+
+top/RANK 10/COUNT law/STREAM colleges/NONE in/NONE gautam/LOC-CITY budh/LOC-CITY nagar/LOC-CITY
+
+top/RANK 15/COUNT management/STREAM colleges/NONE in/NONE jalandhar/LOC-CITY
+
+top/RANK 20/COUNT mass/STREAM communication/STREAM and/STREAM media/STREAM colleges/NONE in/NONE hamirpur/LOC-CITY
+
+top/RANK 25/COUNT medical/STREAM colleges/NONE in/NONE ratnagiri/LOC-CITY
+
+top/RANK 50/COUNT paramedical/STREAM colleges/NONE in/NONE bijapur/LOC-CITY
+
+top/RANK 100/COUNT pharmacy/STREAM colleges/NONE in/NONE namakkal/LOC-CITY
+
+top/RANK 200/COUNT veterinary/STREAM sciences/STREAM colleges/NONE in/NONE karnal/LOC-CITY
+
+top/RANK 5/COUNT btech/SUBSTREAM colleges/NONE in/NONE hubli/LOC-CITY
+
+top/RANK 10/COUNT mtech/SUBSTREAM colleges/NONE in/NONE guwahati/LOC-CITY
+
+top/RANK 15/COUNT mba/SUBSTREAM colleges/NONE in/NONE baroda/LOC-CITY
+
+top/RANK 20/COUNT bba/SUBSTREAM colleges/NONE in/NONE ropar/LOC-CITY
+
+top/RANK 25/COUNT llb/SUBSTREAM colleges/NONE in/NONE rajkot/LOC-CITY
+
+top/RANK 50/COUNT llm/SUBSTREAM colleges/NONE in/NONE jhajjar/LOC-CITY
+
+top/RANK 100/COUNT mbbs/SUBSTREAM colleges/NONE in/NONE panji/LOC-CITY
+
+top/RANK 200/COUNT ms/SUBSTREAM colleges/NONE in/NONE thane/LOC-CITY
+
+top/RANK 5/COUNT md/SUBSTREAM colleges/NONE in/NONE valsad/LOC-CITY
+
+top/RANK 10/COUNT bcom/SUBSTREAM colleges/NONE in/NONE ooty/LOC-CITY
+
+top/RANK 15/COUNT mcom/SUBSTREAM colleges/NONE in/NONE surat/LOC-CITY
+
+top/RANK 20/COUNT bdes/SUBSTREAM colleges/NONE in/NONE fatehgarh/LOC-CITY sahib/LOC-CITY
+
+top/RANK 25/COUNT mdes/SUBSTREAM colleges/NONE in/NONE ramanathapuram/LOC-CITY
+
+top/RANK 50/COUNT ba/SUBSTREAM colleges/NONE in/NONE gondiya/LOC-CITY
+
+top/RANK 100/COUNT ma/SUBSTREAM colleges/NONE in/NONE krishnagiri/LOC-CITY
+
+top/RANK 200/COUNT bca/SUBSTREAM colleges/NONE in/NONE avadi/LOC-CITY
+
+top/RANK 5/COUNT mca/SUBSTREAM colleges/NONE in/NONE tonk/LOC-CITY
+
+top/RANK 10/COUNT bds/SUBSTREAM colleges/NONE in/NONE vellore/LOC-CITY
+
+top/RANK 15/COUNT mds/SUBSTREAM colleges/NONE in/NONE rourkela/LOC-CITY
+
+top/RANK 20/COUNT barch/SUBSTREAM colleges/NONE in/NONE howrah/LOC-CITY
+
+top/RANK 25/COUNT march/SUBSTREAM colleges/NONE in/NONE noida/LOC-CITY
+
+top/RANK 50/COUNT bmm/SUBSTREAM colleges/NONE in/NONE sirohi/LOC-CITY
+
+top/RANK 100/COUNT mmc/SUBSTREAM colleges/NONE in/NONE churu/LOC-CITY
+
+top/RANK 200/COUNT bpharm/SUBSTREAM colleges/NONE in/NONE jhansi/LOC-CITY
+
+top/RANK 5/COUNT mpharm/SUBSTREAM colleges/NONE in/NONE gwalior/LOC-CITY
+
+top/RANK 10/COUNT bvsc/SUBSTREAM colleges/NONE in/NONE thanjavur/LOC-CITY
+
+top/RANK 15/COUNT mvsc/SUBSTREAM colleges/NONE in/NONE west/LOC-CITY sikkim/LOC-CITY
+
+top/RANK 20/COUNT bsc/SUBSTREAM colleges/NONE in/NONE mehsana/LOC-CITY
+
+top/RANK 25/COUNT msc/SUBSTREAM colleges/NONE in/NONE shillong/LOC-CITY
+
+top/RANK 50/COUNT bed/SUBSTREAM colleges/NONE in/NONE idukki/LOC-CITY
+
+top/RANK 100/COUNT med/SUBSTREAM colleges/NONE in/NONE amravati/LOC-CITY
+
+best/RANK 5/COUNT architecture/STREAM colleges/NONE in/NONE andaman/LOC-STATE and/LOC-STATE nicobar/LOC-STATE islands/LOC-STATE
+
+best/RANK 10/COUNT arts/STREAM colleges/NONE in/NONE andhra/LOC-STATE pradesh/LOC-STATE
+
+best/RANK 15/COUNT aviation/STREAM colleges/NONE in/NONE arunachal/LOC-STATE pradesh/LOC-STATE
+
+best/RANK 20/COUNT commerce/STREAM colleges/NONE in/NONE assam/LOC-STATE
+
+best/RANK 25/COUNT computer/STREAM application/STREAM colleges/NONE in/NONE bihar/LOC-STATE
+
+best/RANK 50/COUNT dental/STREAM colleges/NONE in/NONE chandigarh/LOC-STATE
+
+best/RANK 100/COUNT design/STREAM colleges/NONE in/NONE chhattisgarh/LOC-STATE
+
+best/RANK 200/COUNT education/STREAM colleges/NONE in/NONE daman/LOC-STATE and/LOC-STATE diu/LOC-STATE
+
+best/RANK 5/COUNT engineering/STREAM colleges/NONE in/NONE delhi/LOC-STATE ncr/LOC-STATE india/LOC-COUNTRY
+
+top/RANK 10/COUNT law/STREAM colleges/NONE in/NONE goa/LOC-STATE
+
+top/RANK 15/COUNT management/STREAM colleges/NONE in/NONE gujarat/LOC-STATE
+
+top/RANK 20/COUNT mass/STREAM communication/STREAM and/STREAM media/STREAM colleges/NONE in/NONE haryana/LOC-STATE
+
+top/RANK 25/COUNT medical/STREAM colleges/NONE in/NONE himachal/LOC-STATE pradesh/LOC-STATE
+
+top/RANK 50/COUNT paramedical/STREAM colleges/NONE in/NONE jammu/LOC-STATE and/LOC-STATE kashmir/LOC-STATE
+
+top/RANK 100/COUNT pharmacy/STREAM colleges/NONE in/NONE jharkhand/LOC-STATE
+
+top/RANK 200/COUNT veterinary/STREAM sciences/STREAM colleges/NONE in/NONE karnataka india/LOC-COUNTRY
+
+top/RANK 5/COUNT btech/SUBSTREAM colleges/NONE in/NONE kerala/LOC-STATE
+
+top/RANK 10/COUNT mtech/SUBSTREAM colleges/NONE in/NONE madhya/LOC-STATE pradesh/LOC-STATE
+
+top/RANK 15/COUNT mba/SUBSTREAM colleges/NONE in/NONE maharashtra/LOC-STATE
+
+top/RANK 20/COUNT bba/SUBSTREAM colleges/NONE in/NONE manipur/LOC-STATE
+
+top/RANK 25/COUNT llb/SUBSTREAM colleges/NONE in/NONE meghalaya/LOC-STATE
+
+top/RANK 50/COUNT llm/SUBSTREAM colleges/NONE in/NONE mizoram/LOC-STATE
+
+top/RANK 100/COUNT mbbs/SUBSTREAM colleges/NONE in/NONE nagaland india/LOC-COUNTRY
+
+top/RANK 200/COUNT ms/SUBSTREAM colleges/NONE in/NONE orissa/LOC-STATE
+
+top/RANK 5/COUNT md/SUBSTREAM colleges/NONE in/NONE puducherry/LOC-STATE
+
+top/RANK 10/COUNT bcom/SUBSTREAM colleges/NONE in/NONE punjab/LOC-STATE india/LOC-COUNTRY
+
+top/RANK 15/COUNT mcom/SUBSTREAM colleges/NONE in/NONE rajasthan/LOC-STATE
+
+top/RANK 20/COUNT bdes/SUBSTREAM colleges/NONE in/NONE sikkim/LOC-STATE
+
+top/RANK 25/COUNT mdes/SUBSTREAM colleges/NONE in/NONE tamil/LOC-STATE nadu/LOC-STATE
+
+top/RANK 50/COUNT ba/SUBSTREAM colleges/NONE in/NONE telangana/LOC-STATE
+
+top/RANK 100/COUNT ma/SUBSTREAM colleges/NONE in/NONE tripura/LOC-STATE
+
+top/RANK 200/COUNT bca/SUBSTREAM colleges/NONE in/NONE uttar/LOC-STATE pradesh/LOC-STATE
+
+top/RANK 5/COUNT mca/SUBSTREAM colleges/NONE in/NONE uttarakhand/LOC-STATE
+
+top/RANK 10/COUNT bds/SUBSTREAM colleges/NONE in/NONE west/LOC-STATE bengal/LOC-STATE
+
+top/RANK 15/COUNT mds/SUBSTREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+top/RANK 20/COUNT barch/SUBSTREAM colleges/NONE in/NONE andhra/LOC-STATE pradesh/LOC-STATE
+
+top/RANK 25/COUNT march/SUBSTREAM colleges/NONE in/NONE arunachal/LOC-STATE pradesh/LOC-STATE
+
+top/RANK 50/COUNT bmm/SUBSTREAM colleges/NONE in/NONE assam/LOC-STATE
+
+top/RANK 100/COUNT mmc/SUBSTREAM colleges/NONE in/NONE bihar/LOC-STATE
+
+top/RANK 200/COUNT bpharm/SUBSTREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+top/RANK 5/COUNT mpharm/SUBSTREAM colleges/NONE in/NONE chhattisgarh/LOC-STATE
+
+top/RANK 10/COUNT bvsc/SUBSTREAM colleges/NONE in/NONE daman/LOC-STATE and/LOC-STATE diu/LOC-STATE
+
+top/RANK 15/COUNT mvsc/SUBSTREAM colleges/NONE in/NONE delhi/LOC-STATE ncr/LOC-STATE
+
+top/RANK 20/COUNT bsc/SUBSTREAM colleges/NONE in/NONE goa/LOC-STATE
+
+top/RANK 25/COUNT msc/SUBSTREAM colleges/NONE in/NONE gujarat/LOC-STATE
+
+top/RANK 50/COUNT bed/SUBSTREAM colleges/NONE in/NONE haryana/LOC-STATE
+
+top/RANK 100/COUNT med/SUBSTREAM colleges/NONE in/NONE himachal/LOC-STATE pradesh/LOC-STATE
+
+btech/SUBSTREAM colleges/NONE in/NONE mumbai/LOC-CITY
+
+btech/SUBSTREAM colleges/NONE in/NONE rajasthan/LOC-STATE
+
+btech/SUBSTREAM colleges/NONE in/NONE punjab/LOC-STATE
+
+btech/SUBSTREAM colleges/NONE in/NONE gujarat/LOC-STATE
+
+top/RANK btech/SUBSTREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+top/RANK mtech/SUBSTREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+top/RANK bba/SUBSTREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+top/RANK 30/COUNT bdes/SUBSTREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+top/RANK 30/COUNT barch/SUBSTREAM colleges/NONE in/NONE india/LOC-COUNTRY
+
+top/RANK bds/SUBSTREAM colleges/NONE in/NONE india/LOC-COUNTRY

@@ -5,8 +5,8 @@ def db_config():
 
 	db = MySQLdb.connect(host='localhost',
 	                     user='root',
-	                     passwd='divya',
-	                     db='collegedunia_data',
+	                     passwd='',
+	                     db='',
 	                     charset='utf8',
 	                     use_unicode=True)
 	cur = db.cursor()

@@ -38,21 +38,21 @@
       },
       {
         "text": "TYPE",
-        "intent": "type",
+        "intent": "`type`",
         "rts": "COLLEGES is ",
         "query": " WHERE `college_name` = COLLEGE"
       },
       {
         "text": "ALL",
-        "intent": "*",
+        "intent": "college_name, affiliation, established, facilities, mhrd, reviews, `type`, city_name, state_name, substream_name,  stream_name, total, duration, course_time, exam_date, exam_name, last_application_date, min_score, seats",
         "rts": "Here are all the details of this college",
         "query": " WHERE `college_name` = COLLEGE"
       },
       {
-        "text": "SUBSTR FEE",
+        "text": "SUBSTREAM FEE",
         "intent": "total",
-        "rts": "SUBSTR annual fees in COLLEGE is ",
-        "query": " WHERE `substream_name`=SUBSTR and `college_name` = COLLEGE"
+        "rts": "SUBSTREAM annual fees in COLLEGE is ",
+        "query": " WHERE `substream_name`=SUBSTREAM and `college_name` = COLLEGE"
       },
       {
         "text": "STREAM FEE",
@@ -61,10 +61,10 @@
         "query": " WHERE `stream_name`=STREAM and `college_name` = COLLEGE"
       },
       {
-        "text": "SUBSTR SEATS",
+        "text": "SUBSTREAM SEATS",
         "intent": "seats",
-        "rts":  "SUBSTR seats in COLLEGE is ",
-        "query": " WHERE `substream_name`=SUBSTR and `college_name` = COLLEGE"
+        "rts":  "SUBSTREAM seats in COLLEGE is ",
+        "query": " WHERE `substream_name`=SUBSTREAM and `college_name` = COLLEGE"
       },
       {
         "text": "STREAM SEATS",

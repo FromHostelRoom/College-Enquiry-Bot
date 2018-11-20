@@ -30,7 +30,6 @@ def fetch_result():
 	message = message.lower()
 	x = query_validation(message)
 	return x
-	
 
 if __name__ == "__main__":
     app.run()

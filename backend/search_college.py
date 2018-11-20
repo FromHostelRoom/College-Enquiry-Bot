@@ -11,7 +11,9 @@ def get_college_name(col_name):
 	try:
 		tokens = word_tokenize(col_name)
 		for i in tokens:
-			cur.execute("SELECT `college_name` FROM credenc_college where college_name like '%%%s%%' order by `rank`" % (i))
+			print("printing tokens...")
+			print(i)
+			cur.execute("SELECT `college_name` FROM tbl_college where college_name like '%%%s%%' " % (i))
 			l = cur.fetchall()
 			res += list(l)
 

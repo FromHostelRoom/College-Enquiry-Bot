@@ -142,7 +142,7 @@ def classify(model,words,classes,sentence):
     # return tuple of intent and probability
     return return_list
 
-def response(model,words,classes,intents,sentence):
+def response(model,words,classes,intents,sentence, query_type):
     results = classify(model,words,classes,sentence)
     # if we have a classification then find the matching intent tag
     if results:
@@ -152,7 +152,11 @@ def response(model,words,classes,intents,sentence):
                 # find a tag matching the first result
                 if i['intent'] == results[0][0]:
                     # a random response from the intent
-                    return (i['query'])
+                    if(query_type == "general"):
+                    	return (i['query'])
+                    if(query_type == "specific"):
+                    	res = [i['query'],i['intent'],i['rts']]
+                    	return res
 
          
 
@@ -171,7 +175,7 @@ def load_model(train_x,train_y, model_file, model_save):
 	model.load('./'+model_save)
 	return model
 
-def form_query(text,sql_dataset, model_file, model_save, dump):
+def form_query(text,sql_dataset, model_file, model_save, dump, query_type):
 	#arr = preprocess_text(sql_dataset)
 	#save_model(arr, model_file, model_save, dump)
 	data = pickle.load( open( dump, "rb" ) )
@@ -183,9 +187,4 @@ def form_query(text,sql_dataset, model_file, model_save, dump):
 	with open(sql_dataset) as json_data:
 		intents = json.load(json_data)
 		
-	return (response(model,words,classes,intents,text))
- 
-
-#after response function, check for all arguments, if stream, substr, loc defined->add a function to extract loc using gpe and stream and substream using start and end position given in entities.
-#optional -> add the new training to json file
-
+	return (response(model,words,classes,intents,text, query_type))

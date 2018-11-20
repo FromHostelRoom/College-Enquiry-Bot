@@ -1,9 +1,10 @@
 from backend.classify_query import return_label
-from backend.general_query_func import get_sql
+from backend.ner import get_sql
 
 
-def query_validation(message):
+def query_validation(msg):
 	
+	message = (msg.replace(".","")).lower()
 	label = return_label(message)
 	print(label)
 	

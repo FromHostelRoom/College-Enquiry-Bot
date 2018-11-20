@@ -1,9 +1,16 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:800);
 
 body {
-  overflow: hidden;
+  overflow-y: scroll;
+  overflow-x: hidden; 
   background: #6cb9b9;
   color: #FFF;
+}
+
+.navbar{
+  width: 100%;
+  height: 80px;
+  background-color: #ffffff80;
 }
 
 .box-with-text {
@@ -32,20 +39,18 @@ body {
 
 
 .box-with-text {
-  position: absolute;
-  top: 2%;
-  left: 2%;
   white-space: nowrap;
-  text-align: center;
   text-transform: uppercase;
-  font: bold 10vmax/.8 Open Sans, Impact;
- 
+  font: bold 6vmax/.8 Open Sans, Impact;
+  margin:1%;
+
+
 }
 
 .subtext{
-  margin-top: 6.5%;
+  margin-top: 0%;
   margin-left: 14%;
-  color: azure;
+  color: #736b7b;
   font-size: 40px;
   
 }
@@ -195,4 +200,267 @@ border-color: #eea236;
   height: 60px;
   width: 60px;
   float: left;
+}
+
+
+/******RESULT*********************/
+.institute-listing{
+    margin-top: 15px;
+}
+.college-list-item .thumbnail, .college-list-item-2 .thumbnail {
+    border: none;
+    padding: 12px;
+    border-radius: 0;
+    border: solid 1px #dbd2ee;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    min-height: 392px;
+}
+.college-list-item:hover .thumbnail {
+    box-shadow: 0 0 15px 0 rgba(168, 147, 216, 0.4);
+}
+.college-list-item .list-image {
+    position: relative;
+}
+.college-list-item .title {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    left: 0;
+    padding: 8px 10px 7px 35px;
+    color: #fff;
+    font-weight: 300;
+    background: rgba(0, 0, 0, 0.79) url(../images/map-pin.svg) no-repeat 8px 6px;
+    background-size: 17px;
+}
+.college-list-item .thumbnail .caption {
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+}
+.college-list-item .thumbnail .caption .label-1, .college-list-item .thumbnail .caption .information-dis, .college-list-item .thumbnail .caption .college-status{
+    font-size: 12px;
+}
+.college-list-item .thumbnail .caption .label-1 {
+    margin: 8px 0px 9px 0px;
+}
+.college-list-item .thumbnail .caption .heading{
+    font-size: 20px;
+    font-weight: 300;
+    color: #535353;
+    margin-top: 5px;
+    margin-bottom: 4px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 80%;
+    white-space: nowrap;
+}
+.college-list-item .thumbnail .caption .heading a{
+    font-size: 20px;
+    font-weight: 300;
+    color: #535353;
+}
+.college-list-item .thumbnail .caption .heading a:hover{
+    text-decoration: none;
+    color: #f5a623;
+}
+
+.information-dis .inline {
+    display: inline;
+     color: #6a46c2;
+}
+.information-dis {
+    width: 45%;
+    float: left;
+}
+.marg-l10{
+    margin-left: 12px;
+}
+.college-status {
+    width: 53%;
+    float: left;
+    margin-left: 2%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    text-align: right;
+}
+.label-1{
+    margin-bottom: 3px;
+}
+.courses {
+    border-top: solid 1px #e5e5e5;
+    margin-top: 13px;
+    padding-top: 15px;
+}
+.courses-item {
+    border-radius: 6px;
+        background-color: #f7f2ff;
+    border: solid 1px #dbd2ee;
+    min-height: 50px;
+    display: inline-block;
+    width: 40%;
+    margin: 10px 3% 10px 0px;
+}
+.courses-item a{
+    color: #333;
+    display: block;
+    padding:10px 13px;
+}
+.courses-item a:hover{
+    text-decoration: none;
+}
+.courses-item h4 {
+    color: #fb8500;
+    padding: 0;
+    margin: 0;
+    font-size: 14px;
+    margin-bottom: 4px;
+}
+.label-2{
+    font-size: 11px;
+    margin-bottom: 2px;
+    font-weight: 600;
+}
+.label-2:last-child{
+    margin-bottom: 0px;
+}
+.abel-item{
+    display: inline;
+}
+.marg-l3{
+    margin-left: 3px;   
+}
+.courses-heading {
+    padding:1px 0px 3px 0px;
+    margin: 0;
+    color: #535353;
+    font-size: 16px;
+    font-weight: 300;
+}
+.college-list-item .more-details .btn {
+    background-color: #ffffff;
+    border-radius: 0;
+    border: none;
+    display: block;
+    color: #fb8500;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 300;
+    padding: 12px 10px;
+    margin-top: 7px;
+    border: solid 2px #fb8500;
+}
+.college-list-item .more-details .btn:hover, .college-list-item .more-details .btn.active{
+    background: #fb8500;
+    color: #fff;
+    box-shadow: none;
+}
+
+.showing-colleges-img {
+    background-color: #faf8ff;
+    padding: 8px 8px 10px 8px;
+    margin: 0;
+    float: left;
+}
+.showing-colleges-img a{
+  display: block;
+}
+.showing-colleges-img img{
+    width: 46px;
+}
+.showing-colleges .media-body{
+    padding: 0px 12px;
+}
+.showing-colleges .media-body .media-heading {
+    font-size: 18px;
+    font-weight: 300;
+    color: #535353;
+    margin-top: 5px;
+        margin-bottom: 8px;
+}
+.showing-colleges .media-body .media-heading a{
+    font-size: 18px;
+    color: #ff8e0c;
+}
+.showing-colleges .media-body .media-heading a:hover{
+    text-decoration: none;
+}
+.showing-colleges .media-body p {
+    font-size: 14px;
+    color: #535353;
+    font-weight: 500;
+    padding: 0px 0px 0px 0px;
+    margin-bottom: 4px;
+}
+.showing-colleges .media-body p.b-bottom {
+    margin-top: 10px;
+}
+.showing-colleges .media-body p.b-bottom span.right-filter {
+    margin-left: 16px;
+}
+
+/*.college-list-item:hover .btn{
+    background: #fb8500;
+    color: #fff;
+    }*/
+    
+/*.courses-item:hover{
+    box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.25);
+    background-color: #fff5e9;
+    border: solid 1px #ff8e0c;
+    }*/
+ .college-list-item:hover .courses-item{
+    box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.25);
+    background-color: #fff5e9;
+    border: solid 1px #ff8e0c;
+    }
+
+.showing-colleges {
+    background: #fff;
+    box-shadow: 0 0 15px 0 rgba(168, 147, 216, 0.4);
+    border: solid 1px #dbd2ee;
+    margin-top: 15px;
+    padding: 12px;
+}
+
+.no-filter-sticky{ position: relative; top: 0px;}
+
+.image-inner{background: #fff !important;}
+.pad-B5{padding-bottom: 5px !important;}
+.showing-colleges-img-big {background-color: #faf8ff;padding: 8px 8px 10px 8px;margin: 0;float: left;}
+.showing-colleges-img-big a {display: block;}
+.showing-colleges-img-big img {width: 290px;}
+
+.similar-colleges .marg-l10{    
+    /*margin-left: 2px;*/
+}
+.showing-colleges.college-details {
+    padding: 6px 8px;
+}
+
+.showing-colleges.college-details .media-body .media-heading{
+    font-size: 22px;
+    font-weight: 300;
+    color: #535353;
+    margin-top: 10px;
+
+}
+.showing-colleges.college-details .media-body p.b-bottom {
+    margin-top: 11px;
+    margin-bottom: 15px !important;
+    padding-bottom: 11px !important;
+}
+.showing-colleges .media-body p .college-facilities {
+    font-weight: 700;
+    padding-bottom: 5px;
+    display: block;
+}
+
+.b-bottom{
+  color: black;
+}
+
+.clg-review, .clg-review p{
+  color: black;
 }

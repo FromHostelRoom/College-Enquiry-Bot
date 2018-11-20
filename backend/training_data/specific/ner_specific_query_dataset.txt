@@ -1,753 +1,1506 @@
-Architecture/STREAM fee/FEE structure/NONE in/NONE Maulana Azad Institute of Dental Sciences - [MAIDS], New Delhi
+architecture/STREAM fees/FEES structure/NONE in/NONE maulana/Unk azad/Unk institute/Unk of/Unk dental/Unk sciences/Unk maids/Unk new/Unk delhi/Unk
 
-Arts/STREAM fee/FEE structure/NONE in/NONE Manipal College of Dental Sciences - [MCODS], Mangalore
+arts/STREAM fees/FEES structure/NONE in/NONE manipal/Unk college/Unk of/Unk dental/Unk sciences/Unk mcods/Unk mangalore/Unk
 
-Aviation/STREAM fee/FEE structure/NONE in/NONE SDM College of Dental Sciences and Hospital Sattur, Dharwad
+aviation/STREAM fees/FEES structure/NONE in/NONE sdm/Unk college/Unk of/Unk dental/Unk sciences/Unk and/Unk hospital/Unk sattur/Unk dharwad/Unk
 
-Commerce/STREAM fee/FEE structure/NONE in/NONE Dayananda Sagar College of Engineering - [DSCE], Bangalore
+commerce/STREAM fees/FEES structure/NONE in/NONE dayananda/Unk sagar/Unk college/Unk of/Unk engineering/Unk dsce/Unk bangalore/Unk
 
-Computer/STREAM Application/STREAM fee/FEE structure/NONE in/NONE Government Dental College & Hospital, Mumbai
+computer/STREAM application/STREAM fees/FEES structure/NONE in/NONE government/Unk dental/Unk college/Unk &/Unk hospital/Unk mumbai/Unk
 
-Dental/STREAM fee/FEE structure/NONE in/NONE Pt Bhagwat Dayal Sharma Post Graduate Institute of Medical Sciences - [PGIMS], Rohtak
+dental/STREAM fees/FEES structure/NONE in/NONE pt/Unk bhagwat/Unk dayal/Unk sharma/Unk post/Unk graduate/Unk institute/Unk of/Unk medical/Unk sciences/Unk pgims/Unk rohtak/Unk
 
-Design/STREAM fee/FEE structure/NONE in/NONE Sri Balaji Chockalingam Engineering College, Tiruvannamalai
+design/STREAM fees/FEES structure/NONE in/NONE sri/Unk balaji/Unk chockalingam/Unk engineering/Unk college/Unk tiruvannamalai/Unk
 
-Education/STREAM fee/FEE structure/NONE in/NONE Hindustan Institute of Technology and Science - [HITS], Chennai
+education/STREAM fees/FEES structure/NONE in/NONE hindustan/Unk institute/Unk of/Unk technology/Unk and/Unk science/Unk hits/Unk chennai/Unk
 
-Engineering/STREAM fee/FEE structure/NONE in/NONE Dr. R. Ahmed Dental College and Hospital, Kolkata
+engineering/STREAM fee/FEE structure/NONE in/NONE dr/Unk r/Unk ahmed/Unk dental/Unk college/Unk and/Unk hospital/Unk kolkata/Unk
 
-Law/STREAM fee/FEE structure/NONE in/NONE SRM Dental College, Chennai
+law/STREAM fee/FEE structure/NONE in/NONE srm/Unk dental/Unk college/Unk chennai/Unk
 
-Management/STREAM fee/FEE structure/NONE in/NONE Rukmini Devi Institute of Advanced Studies - [RDIAS], New Delhi
+management/STREAM fee/FEE structure/NONE in/NONE rukmini/Unk devi/Unk institute/Unk of/Unk advanced/Unk studies/Unk rdias/Unk new/Unk delhi/Unk
 
-Mass/STREAM Communication/STREAM and/STREAM Media/STREAM fee/FEE structure/NONE in/NONE Christian Medical College - [CMC], Vellore
+mass/STREAM communication/STREAM and/STREAM media/STREAM fee/FEE structure/NONE in/NONE christian/Unk medical/Unk college/Unk cmc/Unk vellore/Unk
 
-Medical/STREAM fee/FEE structure/NONE in/NONE Armed Forces Medical College - [AFMC], Pune
+medical/STREAM fee/FEE structure/NONE in/NONE armed/Unk forces/Unk medical/Unk college/Unk afmc/Unk pune/Unk
 
-Paramedical/STREAM fee/FEE structure/NONE in/NONE SRM University Kattankulathur Campus - [SRM], Kanchipuram
+paramedical/STREAM fee/FEE structure/NONE in/NONE srm/Unk university/Unk kattankulathur/Unk campus/Unk srm/Unk kanchipuram/Unk
 
-Pharmacy/STREAM fee/FEE structure/NONE in/NONE Acharya and BM Reddy College of Pharmacy, Bangalore
+pharmacy/STREAM fees/FEES structure/NONE in/NONE acharya/Unk and/Unk bm/Unk reddy/Unk college/Unk of/Unk pharmacy/Unk bangalore/Unk
 
-Veterinary/STREAM Sciences/STREAM fee/FEE structure/NONE in/NONE Indian Institute of Technology Madras - [IITM], Chennai
+veterinary/STREAM sciences/STREAM fee/FEE structure/NONE in/NONE indian/Unk institute/Unk of/Unk technology/Unk madras/Unk iitm/Unk chennai/Unk
 
-btech/SUBSTR fee/FEE structure/NONE in/NONE Indian Institute of Technology - [IIT], Mumbai
+btech/SUBSTREAM fee/FEE structure/NONE in/NONE indian/Unk institute/Unk of/Unk technology/Unk iit/Unk mumbai/Unk
 
-mtech/SUBSTR fee/FEE structure/NONE in/NONE International Institute of Information Technology - [IIIT], Hyderabad
+mtech/SUBSTREAM fee/FEE structure/NONE in/NONE international/Unk institute/Unk of/Unk information/Unk technology/Unk iiit/Unk hyderabad/Unk
 
-mba/SUBSTR fee/FEE structure/NONE in/NONE Punjab Engineering College University of Technology - [PEC], Chandigarh
+mba/SUBSTREAM fees/FEES structure/NONE in/NONE punjab/Unk engineering/Unk college/Unk university/Unk of/Unk technology/Unk pec/Unk chandigarh/Unk
 
-bba/SUBSTR fee/FEE structure/NONE in/NONE Indian Institute of Technology - [IIT], Bhubaneswar
+bba/SUBSTREAM fee/FEE structure/NONE in/NONE indian/Unk institute/Unk of/Unk technology/Unk iit/Unk bhubaneswar/Unk
 
-llb/SUBSTR fee/FEE structure/NONE in/NONE Indian Institute of Information Technology - [IIIT], Allahabad
+llb/SUBSTREAM fees/FEES structure/NONE in/NONE indian/Unk institute/Unk of/Unk information/Unk technology/Unk iiit/Unk allahabad/Unk
 
-llm/SUBSTR fee/FEE structure/NONE in/NONE MIT School Of Business - [MIT-SOB], Pune
+llm/SUBSTREAM fees/FEES structure/NONE in/NONE mit/Unk school/Unk of/Unk business/Unk misob/Unk pune/Unk
 
-mbbs/SUBSTR fee/FEE structure/NONE in/NONE Indian Institute of Technology - [IIT], Patna
+mbbs/SUBSTREAM fees/FEES structure/NONE in/NONE indian/Unk institute/Unk of/Unk technology/Unk iit/Unk patna/Unk
 
-ms/SUBSTR fee/FEE structure/NONE in/NONE Indian Institute of Technology - [IIT], Gandhi Nagar
+ms/SUBSTREAM fee/FEE structure/NONE in/NONE indian/Unk institute/Unk of/Unk technology/Unk iit/Unk gandhi/Unk nagar/Unk
 
-md/SUBSTR fee/FEE structure/NONE in/NONE Indian Institute of Technology - [IIT], Mandi
+md/SUBSTREAM fee/FEE structure/NONE in/NONE indian/Unk institute/Unk of/Unk technology/Unk iit/Unk mandi/Unk
 
-bcom/SUBSTR fee/FEE structure/NONE in/NONE Alagappa Chettiar College of Engineering and Technology, Karaikudi
+bcom/SUBSTREAM fee/FEE structure/NONE in/NONE alagappa/Unk chettiar/Unk college/Unk of/Unk engineering/Unk and/Unk technology/Unk karaikudi/Unk
 
-mcom/SUBSTR fee/FEE structure/NONE in/NONE ITM University, Gwalior
+mcom/SUBSTREAM fee/FEE structure/NONE in/NONE itm/Unk university/Unk gwalior/Unk
 
-bdes/SUBSTR fee/FEE structure/NONE in/NONE Indian Institute of Technology - [IIT], Indore
+bdes/SUBSTREAM fee/FEE structure/NONE in/NONE indian/Unk institute/Unk of/Unk technology/Unk iit/Unk indore/Unk
 
-mdes/SUBSTR fee/FEE structure/NONE in/NONE IES Management College and Research Centre - [IES MCRC], Mumbai
+mdes/SUBSTREAM fee/FEE structure/NONE in/NONE ies/Unk management/Unk college/Unk and/Unk research/Unk centre/Unk ies/Unk mcrc/Unk mumbai/Unk
 
-ba/SUBSTR fee/FEE structure/NONE in/NONE Dr. Ambedkar College of Law, Mumbai
+ba/SUBSTREAM fee/FEE structure/NONE in/NONE dr/Unk ambedkar/Unk college/Unk of/Unk law/Unk mumbai/Unk
 
-ma/SUBSTR fee/FEE structure/NONE in/NONE National Institute of Technology - [NITD], New Delhi
+ma/SUBSTREAM fee/FEE structure/NONE in/NONE national/Unk institute/Unk of/Unk technology/Unk nitd/Unk new/Unk delhi/Unk
 
-bca/SUBSTR fee/FEE structure/NONE in/NONE Pt. Ravishankar Shukla University - [PRSU], Raipur
+bca/SUBSTREAM fee/FEE structure/NONE in/NONE pt/Unk ravishankar/Unk shukla/Unk university/Unk prsu/Unk raipur/Unk
 
-mca/SUBSTR fee/FEE structure/NONE in/NONE Thapar Institute of Engineering and Technology University - [Thapar University], Patiala
+mca/SUBSTREAM fee/FEE structure/NONE in/NONE thapar/Unk institute/Unk of/Unk engineering/Unk and/Unk technology/Unk university/Unk thapar/Unk university/Unk patiala/Unk
 
-bds/SUBSTR fee/FEE structure/NONE in/NONE Erode Sengunthar Engineering College, Erode
+bds/SUBSTREAM fee/FEE structure/NONE in/NONE erode/Unk sengunthar/Unk engineering/Unk college/Unk erode/Unk
 
-mds/SUBSTR fee/FEE structure/NONE in/NONE Dr BR Ambedkar National Institute of Technology - [NIT], Jalandhar
+mds/SUBSTREAM fee/FEE structure/NONE in/NONE dr/Unk br/Unk ambedkar/Unk national/Unk institute/Unk of/Unk technology/Unk nit/Unk jalandhar/Unk
 
-barch/SUBSTR fee/FEE structure/NONE in/NONE Francis Xavier Engineering College, Tirunelveli
+barch/SUBSTREAM fee/FEE structure/NONE in/NONE francis/Unk xavier/Unk engineering/Unk college/Unk tirunelveli/Unk
 
-march/SUBSTR fee/FEE structure/NONE in/NONE Amrita Institute of Technology & Science, Bangalore
+march/SUBSTREAM fee/FEE structure/NONE in/NONE amrita/Unk institute/Unk of/Unk technology/Unk &/Unk science/Unk bangalore/Unk
 
-bmm/SUBSTR fee/FEE structure/NONE in/NONE Narula Institute of Technology - [NIT Agarpara], Kolkata
+bmm/SUBSTREAM fee/FEE structure/NONE in/NONE narula/Unk institute/Unk of/Unk technology/Unk nit/Unk agarpara/Unk kolkata/Unk
 
-mmc/SUBSTR fee/FEE structure/NONE in/NONE Muffakham Jah College of Engineering & Technology - [MJCET], Hyderabad
+mmc/SUBSTREAM fee/FEE structure/NONE in/NONE muffakham/Unk jah/Unk college/Unk of/Unk engineering/Unk &/Unk technology/Unk mjcet/Unk hyderabad/Unk
 
-bpharm/SUBSTR fee/FEE structure/NONE in/NONE Tamil Nadu Agricultural University - [TNAU], Coimbatore
+bpharm/SUBSTREAM fee/FEE structure/NONE in/NONE tamil/Unk nadu/Unk agricultural/Unk university/Unk tnau/Unk coimbatore/Unk
 
-mpharm/SUBSTR fee/FEE structure/NONE in/NONE Bangalore Institute of Technology - [BIT], Bangalore
+mpharm/SUBSTREAM fee/FEE structure/NONE in/NONE bangalore/Unk institute/Unk of/Unk technology/Unk bit/Unk bangalore/Unk
 
-bvsc/SUBSTR fee/FEE structure/NONE in/NONE Kolkata Medical College, Kolkata
+bvsc/SUBSTREAM fee/FEE structure/NONE in/NONE kolkata/Unk medical/Unk college/Unk kolkata/Unk
 
-mvsc/SUBSTR fee/FEE structure/NONE in/NONE National Institute of Technology - [NIT], Agartala
+mvsc/SUBSTREAM fee/FEE structure/NONE in/NONE national/Unk institute/Unk of/Unk technology/Unk nit/Unk agartala/Unk
 
-bsc/SUBSTR fee/FEE structure/NONE in/NONE K. J. Somaiya College of Engineering - [KJSCE], Mumbai
+bsc/SUBSTREAM fee/FEE structure/NONE in/NONE k/Unk j/Unk somaiya/Unk college/Unk of/Unk engineering/Unk kjsce/Unk mumbai/Unk
 
-msc/SUBSTR fee/FEE structure/NONE in/NONE National Institute of Technology - [NIT], Jamshedpur
+msc/SUBSTREAM fee/FEE structure/NONE in/NONE national/Unk institute/Unk of/Unk technology/Unk nit/Unk jamshedpur/Unk
 
-bed/SUBSTR fee/FEE structure/NONE in/NONE International Institute of Business Studies - [IIBS], Bangalore
+bed/SUBSTREAM fee/FEE structure/NONE in/NONE international/Unk institute/Unk of/Unk business/Unk studies/Unk iibs/Unk bangalore/Unk
 
-med/SUBSTR fee/FEE structure/NONE in/NONE Guru Tegh Bahadur Institute of Technology - [GTBIT], New Delhi
+med/SUBSTREAM fee/FEE structure/NONE in/NONE guru/Unk tegh/Unk bahadur/Unk institute/Unk of/Unk technology/Unk gtbit/Unk new/Unk delhi/Unk
 
-Architecture/STREAM eligibility/EXAM criteria/NONE in/NONE Paavai Engineering College (Autonomous), Namakkal
+architecture/STREAM eligibility/EXAM criteria/NONE in/NONE paavai/Unk engineering/Unk college/Unk (autonomous)/Unk namakkal/Unk
 
-Arts/STREAM eligibility/EXAM criteria/NONE in/NONE Maharaja Agrasen Institute of Technology - [MAIT], New Delhi
+arts/STREAM eligibility/EXAM criteria/NONE in/NONE maharaja/Unk agrasen/Unk institute/Unk of/Unk technology/Unk mait/Unk new/Unk delhi/Unk
 
-Aviation/STREAM eligibility/EXAM criteria/NONE in/NONE Ajay Kumar Garg Engineering College - [AKGEC], Ghaziabad
+aviation/STREAM eligibility/EXAM criteria/NONE in/NONE ajay/Unk kumar/Unk garg/Unk engineering/Unk college/Unk akgec/Unk ghaziabad/Unk
 
-Commerce/STREAM eligibility/EXAM criteria/NONE in/NONE Indian Institute of Technology - [IIT], Kharagpur
+commerce/STREAM eligibility/EXAM criteria/NONE in/NONE indian/Unk institute/Unk of/Unk technology/Unk iit/Unk kharagpur/Unk
 
-Computer/STREAM Application/STREAM eligibility/EXAM criteria/NONE in/NONE Inderprastha Engineering College - [IPEC], Ghaziabad
+computer/STREAM application/STREAM eligibility/EXAM criteria/NONE in/NONE inderprastha/Unk engineering/Unk college/Unk ipec/Unk ghaziabad/Unk
 
-Dental/STREAM eligibility/EXAM criteria/NONE in/NONE Indian Institute of Technology - [IIT], Roorkee
+dental/STREAM eligibility/EXAM criteria/NONE in/NONE indian/Unk institute/Unk of/Unk technology/Unk iit/Unk roorkee/Unk
 
-Design/STREAM eligibility/EXAM criteria/NONE in/NONE University Institute of Chemical Engineering and Technology, Panjab University - [UICTE], Chandigarh
+design/STREAM eligibility/EXAM criteria/NONE in/NONE university/Unk institute/Unk of/Unk chemical/Unk engineering/Unk and/Unk technology/Unk panjab/Unk university/Unk uicte/Unk chandigarh/Unk
 
-Education/STREAM eligibility/EXAM criteria/NONE in/NONE Sir JJ College of Architecture - [SJJCA], Mumbai
+education/STREAM eligibility/EXAM criteria/NONE in/NONE sir/Unk jj/Unk college/Unk of/Unk architecture/Unk sjjca/Unk mumbai/Unk
 
-Engineering/STREAM eligibility/EXAM criteria/NONE in/NONE Velammal Engineering College - [VEC], Chennai
+engineering/STREAM eligibility/EXAM criteria/NONE in/NONE velammal/Unk engineering/Unk college/Unk vec/Unk chennai/Unk
 
-Law/STREAM eligibility/EXAM criteria/NONE in/NONE IIMT Engineering College, Meerut
+law/STREAM eligibility/EXAM criteria/NONE in/NONE iimt/Unk engineering/Unk college/Unk meerut/Unk
 
-Management/STREAM eligibility/EXAM criteria/NONE in/NONE Birla Institute of Technology - [BIT Mesra], Ranchi
+management/STREAM eligibility/EXAM criteria/NONE in/NONE birla/Unk institute/Unk of/Unk technology/Unk bit/Unk mesra/Unk ranchi/Unk
 
-Mass/STREAM Communication/STREAM and/STREAM Media/STREAM eligibility/EXAM criteria/NONE in/NONE Gnanam School of Business - [GSB], Thanjavur
+mass/STREAM communication/STREAM and/STREAM media/STREAM eligibility/EXAM criteria/NONE in/NONE gnanam/Unk school/Unk of/Unk business/Unk gsb/Unk thanjavur/Unk
 
-Medical/STREAM eligibility/EXAM criteria/NONE in/NONE Chandigarh College of Architecture - [CCA], Chandigarh
+medical/STREAM eligibility/EXAM criteria/NONE in/NONE chandigarh/Unk college/Unk of/Unk architecture/Unk cca/Unk chandigarh/Unk
 
-Paramedical/STREAM eligibility/EXAM criteria/NONE in/NONE Noorul Islam University, Kanyakumari
+paramedical/STREAM eligibility/EXAM criteria/NONE in/NONE noorul/Unk islam/Unk university/Unk kanyakumari/Unk
 
-Pharmacy/STREAM eligibility/EXAM criteria/NONE in/NONE Sushant School of Art and Architecture - [SSAA], Gurgaon
+pharmacy/STREAM eligibility/EXAM criteria/NONE in/NONE sushant/Unk school/Unk of/Unk art/Unk and/Unk architecture/Unk ssaa/Unk gurgaon/Unk
 
-Veterinary/STREAM Sciences/STREAM eligibility/EXAM criteria/NONE in/NONE National Institute of Technology - [NITC], Calicut
+veterinary/STREAM sciences/STREAM eligibility/EXAM criteria/NONE in/NONE national/Unk institute/Unk of/Unk technology/Unk nitc/Unk calicut/Unk
 
-btech/SUBSTR eligibility/EXAM criteria/NONE in/NONE Madras Christian College - [MCC], Chennai
+btech/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE madras/Unk christian/Unk college/Unk mcc/Unk chennai/Unk
 
-mtech/SUBSTR eligibility/EXAM criteria/NONE in/NONE Indian Institute of Information Technology Design and Manufacturing - [IIITDM], Jabalpur
+mtech/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE indian/Unk institute/Unk of/Unk information/Unk technology/Unk design/Unk and/Unk manufacturing/Unk iiitdm/Unk jabalpur/Unk
 
-mba/SUBSTR eligibility/EXAM criteria/NONE in/NONE ICFAI Foundation for Higher Education - [IFHE], Hyderabad
+mba/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE icfai/Unk foundation/Unk for/Unk higher/Unk education/Unk ifhe/Unk hyderabad/Unk
 
-bba/SUBSTR eligibility/EXAM criteria/NONE in/NONE Sophia College for Women, Mumbai
+bba/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE sophia/Unk college/Unk for/Unk women/Unk mumbai/Unk
 
-llb/SUBSTR eligibility/EXAM criteria/NONE in/NONE Kishinchand Chellaram College - [KC College] Churchgate, Mumbai
+llb/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE kishinchand/Unk chellaram/Unk college/Unk kc/Unk college/Unk churchgate/Unk mumbai/Unk
 
-llm/SUBSTR eligibility/EXAM criteria/NONE in/NONE AISSMS Institute of Information Technology - [AISSMSIOT], Pune
+llm/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE aissms/Unk institute/Unk of/Unk information/Unk technology/Unk aissmsiot/Unk pune/Unk
 
-mbbs/SUBSTR eligibility/EXAM criteria/NONE in/NONE Vignan University - [VU], Guntur
+mbbs/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE vignan/Unk university/Unk vu/Unk guntur/Unk
 
-ms/SUBSTR eligibility/EXAM criteria/NONE in/NONE G. Pulla Reddy Engineering College - [GPREC], Kurnool
+ms/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE g/Unk pulla/Unk reddy/Unk engineering/Unk college/Unk gprec/Unk kurnool/Unk
 
-md/SUBSTR eligibility/EXAM criteria/NONE in/NONE Keshav Mahavidyalaya, New Delhi
+md/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE keshav/Unk mahavidyalaya/Unk new/Unk delhi/Unk
 
-bcom/SUBSTR eligibility/EXAM criteria/NONE in/NONE Government College of Engineering - [GECA], Aurangabad
+bcom/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE government/Unk college/Unk of/Unk engineering/Unk geca/Unk aurangabad/Unk
 
-mcom/SUBSTR eligibility/EXAM criteria/NONE in/NONE Maulana Azad Medical College - [MAMC], New Delhi
+mcom/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE maulana/Unk azad/Unk medical/Unk college/Unk mamc/Unk new/Unk delhi/Unk
 
-bdes/SUBSTR eligibility/EXAM criteria/NONE in/NONE Thiagarajar College of Engineering - [TCE], Madurai
+bdes/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE thiagarajar/Unk college/Unk of/Unk engineering/Unk tce/Unk madurai/Unk
 
-mdes/SUBSTR eligibility/EXAM criteria/NONE in/NONE Jawaharlal Nehru Technological University - [JNTUH], Hyderabad
+mdes/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE jawaharlal/Unk nehru/Unk technological/Unk university/Unk jntuh/Unk hyderabad/Unk
 
-ba/SUBSTR eligibility/EXAM criteria/NONE in/NONE Lady Hardinge Medical College - [LHMC], New Delhi
+ba/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE lady/Unk hardinge/Unk medical/Unk college/Unk lhmc/Unk new/Unk delhi/Unk
 
-ma/SUBSTR eligibility/EXAM criteria/NONE in/NONE Dwarkadas J Sanghvi College of Engineering - [DJSCE], Mumbai
+ma/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE dwarkadas/Unk j/Unk sanghvi/Unk college/Unk of/Unk engineering/Unk djsce/Unk mumbai/Unk
 
-bca/SUBSTR eligibility/EXAM criteria/NONE in/NONE Jawaharlal Nehru Technological University - [JNTU], Ananthapur
+bca/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE jawaharlal/Unk nehru/Unk technological/Unk university/Unk jntu/Unk ananthapur/Unk
 
-mca/SUBSTR eligibility/EXAM criteria/NONE in/NONE Seth GS Medical College - [GSMC], Mumbai
+mca/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE seth/Unk gs/Unk medical/Unk college/Unk gsmc/Unk mumbai/Unk
 
-bds/SUBSTR eligibility/EXAM criteria/NONE in/NONE Jamia Millia Islamia University-[JMI], New Delhi
+bds/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE jamia/Unk millia/Unk islamia/Unk universi/Unk jmi/Unk new/Unk delhi/Unk
 
-mds/SUBSTR eligibility/EXAM criteria/NONE in/NONE Christian Medical College - [CMC], Ludhiana
+mds/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE christian/Unk medical/Unk college/Unk cmc/Unk ludhiana/Unk
 
-barch/SUBSTR eligibility/EXAM criteria/NONE in/NONE Sir M Visvesvaraya Institute of Technology - [Sir MVIT], Bangalore
+barch/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE sir/Unk m/Unk visvesvaraya/Unk institute/Unk of/Unk technology/Unk sir/Unk mvit/Unk bangalore/Unk
 
-march/SUBSTR eligibility/EXAM criteria/NONE in/NONE Symbiosis Centre for Management and Human Resource Development - [SCMHRD], Pune
+march/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE symbiosis/Unk centre/Unk for/Unk management/Unk and/Unk human/Unk resource/Unk development/Unk scmhrd/Unk pune/Unk
 
-bmm/SUBSTR eligibility/EXAM criteria/NONE in/NONE Osmania Medical College - [OMC], Hyderabad
+bmm/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE osmania/Unk medical/Unk college/Unk omc/Unk hyderabad/Unk
 
-mmc/SUBSTR eligibility/EXAM criteria/NONE in/NONE Stanley Medical College, Chennai
+mmc/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE stanley/Unk medical/Unk college/Unk chennai/Unk
 
-bpharm/SUBSTR eligibility/EXAM criteria/NONE in/NONE Meenakshi Sundararajan Engineering College - [MSEC], Chennai
+bpharm/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE meenakshi/Unk sundararajan/Unk engineering/Unk college/Unk msec/Unk chennai/Unk
 
-mpharm/SUBSTR eligibility/EXAM criteria/NONE in/NONE M. Kumarasamy College of Engineering (Autonomous), Karur
+mpharm/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE m/Unk kumarasamy/Unk college/Unk of/Unk engineering/Unk (autonomous)/Unk karur/Unk
 
-bvsc/SUBSTR eligibility/EXAM criteria/NONE in/NONE Dharmsinh Desai University - [DDU], Nadiad
+bvsc/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE dharmsinh/Unk desai/Unk university/Unk ddu/Unk nadiad/Unk
 
-mvsc/SUBSTR eligibility/EXAM criteria/NONE in/NONE National Institute of Technology - [NIT], Shillong
+mvsc/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE national/Unk institute/Unk of/Unk technology/Unk nit/Unk shillong/Unk
 
-bsc/SUBSTR eligibility/EXAM criteria/NONE in/NONE RMK Engineering College - [RMKEC], Thiruvallur
+bsc/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE rmk/Unk engineering/Unk college/Unk rmkec/Unk thiruvallur/Unk
 
-msc/SUBSTR eligibility/EXAM criteria/NONE in/NONE Rajendra Mane College of Engineering and Technology - [RMCET], Ratnagiri
+msc/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE rajendra/Unk mane/Unk college/Unk of/Unk engineering/Unk and/Unk technology/Unk rmcet/Unk ratnagiri/Unk
 
-bed/SUBSTR eligibility/EXAM criteria/NONE in/NONE Institute of Management, Nirma university, Ahmedabad
+bed/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE institute/Unk of/Unk management/Unk nirma/Unk university/Unk ahmedabad/Unk
 
-med/SUBSTR eligibility/EXAM criteria/NONE in/NONE MVJ College of Engineering - [MVJCE], Bangalore
+med/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE mvj/Unk college/Unk of/Unk engineering/Unk mvjce/Unk bangalore/Unk
 
-Architecture/STREAM seats/SEATS in/NONE University College of Medical Sciences - [UCMS], New Delhi
+architecture/STREAM seats/SEATS in/NONE university/Unk college/Unk of/Unk medical/Unk sciences/Unk ucms/Unk new/Unk delhi/Unk
 
-Arts/STREAM seats/SEATS in/NONE Sardar Patel College of Engineering - [SPCE], Mumbai
+arts/STREAM seats/SEATS in/NONE sardar/Unk patel/Unk college/Unk of/Unk engineering/Unk spce/Unk mumbai/Unk
 
-Aviation/STREAM seats/SEATS in/NONE Shri Vaishnav Institute of Technology & Science - [SVITS], Indore
+aviation/STREAM seats/SEATS in/NONE shri/Unk vaishnav/Unk institute/Unk of/Unk technology/Unk &/Unk science/Unk svits/Unk indore/Unk
 
-Commerce/STREAM seats/SEATS in/NONE Army Institute of Management and Technology - [AIMT], Greater Noida
+commerce/STREAM seats/SEATS in/NONE army/Unk institute/Unk of/Unk management/Unk and/Unk technology/Unk aimt/Unk greater/Unk noida/Unk
 
-Computer/STREAM Application/STREAM seats/SEATS in/NONE Sree Vidyanikethan Engineering College - [SVEC], Tirupati
+computer/STREAM application/STREAM seats/SEATS in/NONE sree/Unk vidyanikethan/Unk engineering/Unk college/Unk svec/Unk tirupati/Unk
 
-Dental/STREAM seats/SEATS in/NONE Sri Jayachamarajendra College of Engineering - [SJCE], Mysore
+dental/STREAM seats/SEATS in/NONE sri/Unk jayachamarajendra/Unk college/Unk of/Unk engineering/Unk sjce/Unk mysore/Unk
 
-Design/STREAM seats/SEATS in/NONE M.O.P. Vaishnav College for Women, Chennai
+design/STREAM seats/SEATS in/NONE mop/Unk vaishnav/Unk college/Unk for/Unk women/Unk chennai/Unk
 
-Education/STREAM seats/SEATS in/NONE Sri Venkateswara College of Engineering - [SVCE], Tirupati
+education/STREAM seats/SEATS in/NONE sri/Unk venkateswara/Unk college/Unk of/Unk engineering/Unk svce/Unk tirupati/Unk
 
-Engineering/STREAM seats/SEATS in/NONE The IIS University - [IISU], Jaipur
+engineering/STREAM seats/SEATS in/NONE the/Unk iis/Unk university/Unk iisu/Unk jaipur/Unk
 
-Law/STREAM seats/SEATS in/NONE Vasavi College of Engineering - [VCE], Hyderabad
+law/STREAM seats/SEATS in/NONE vasavi/Unk college/Unk of/Unk engineering/Unk vce/Unk hyderabad/Unk
 
-Management/STREAM seats/SEATS in/NONE Sacred Heart College - [SH] Thevara , Ernakulam
+management/STREAM seats/SEATS in/NONE sacred/Unk heart/Unk college/Unk sh/Unk thevara/Unk /Unk ernakulam/Unk
 
-Mass/STREAM Communication/STREAM and/STREAM Media/STREAM seats/SEATS in/NONE Loyola College, Chennai
+mass/STREAM communication/STREAM and/STREAM media/STREAM seats/SEATS in/NONE loyola/Unk college/Unk chennai/Unk
 
-Medical/STREAM seats/SEATS in/NONE Prakasam Engineering College - [PEC], Kandukur
+medical/STREAM seats/SEATS in/NONE prakasam/Unk engineering/Unk college/Unk pec/Unk kandukur/Unk
 
-Paramedical/STREAM seats/SEATS in/NONE MKSSS's Cummins College of Engineering for Women, Pune
+paramedical/STREAM seats/SEATS in/NONE mksss's/Unk cummins/Unk college/Unk of/Unk engineering/Unk for/Unk women/Unk pune/Unk
 
-Pharmacy/STREAM seats/SEATS in/NONE Institute of Technology, Nirma University, Ahmedabad
+pharmacy/STREAM seats/SEATS in/NONE institute/Unk of/Unk technology/Unk nirma/Unk university/Unk ahmedabad/Unk
 
-Veterinary/STREAM Sciences/STREAM seats/SEATS in/NONE Indira Gandhi Institute of Technology- [IGIT], Dhenkanal
+veterinary/STREAM sciences/STREAM seats/SEATS in/NONE indira/Unk gandhi/Unk institute/Unk of/Unk technolog/Unk igit/Unk dhenkanal/Unk
 
-btech/SUBSTR seats/SEATS in/NONE Saintgits College of Engineering, Kottayam
+btech/SUBSTREAM seats/SEATS in/NONE saintgits/Unk college/Unk of/Unk engineering/Unk kottayam/Unk
 
-mtech/SUBSTR seats/SEATS in/NONE Banarsidas Chandiwala Institute of Professional Studies - [BCIPS], New Delhi
+mtech/SUBSTREAM seats/SEATS in/NONE banarsidas/Unk chandiwala/Unk institute/Unk of/Unk professional/Unk studies/Unk bcips/Unk new/Unk delhi/Unk
 
-mba/SUBSTR seats/SEATS in/NONE SSN College of Engineering - [SSNCE], Chennai
+mba/SUBSTREAM seats/SEATS in/NONE ssn/Unk college/Unk of/Unk engineering/Unk ssnce/Unk chennai/Unk
 
-bba/SUBSTR seats/SEATS in/NONE Musaliar College of Engineering and Technology, Pathanamthitta
+bba/SUBSTREAM seats/SEATS in/NONE musaliar/Unk college/Unk of/Unk engineering/Unk and/Unk technology/Unk pathanamthitta/Unk
 
-llb/SUBSTR seats/SEATS in/NONE Government College of Technology - [GCT], Coimbatore
+llb/SUBSTREAM seats/SEATS in/NONE government/Unk college/Unk of/Unk technology/Unk gct/Unk coimbatore/Unk
 
-llm/SUBSTR seats/SEATS in/NONE Bhagwant Institute of Technology - [BIT], Ghaziabad
+llm/SUBSTREAM seats/SEATS in/NONE bhagwant/Unk institute/Unk of/Unk technology/Unk bit/Unk ghaziabad/Unk
 
-mbbs/SUBSTR seats/SEATS in/NONE Amity School of Engineering - [ASE], Noida
+mbbs/SUBSTREAM seats/SEATS in/NONE amity/Unk school/Unk of/Unk engineering/Unk ase/Unk noida/Unk
 
-ms/SUBSTR seats/SEATS in/NONE Ram Meghe Institute of Technology and Research - [RMITR], Amravati
+ms/SUBSTREAM seats/SEATS in/NONE ram/Unk meghe/Unk institute/Unk of/Unk technology/Unk and/Unk research/Unk rmitr/Unk amravati/Unk
 
-md/SUBSTR seats/SEATS in/NONE LR Institute of Pharmacy, Solan
+md/SUBSTREAM seats/SEATS in/NONE lr/Unk institute/Unk of/Unk pharmacy/Unk solan/Unk
 
-bcom/SUBSTR seats/SEATS in/NONE ICFAI Business School - [IBS], Hyderabad
+bcom/SUBSTREAM seats/SEATS in/NONE icfai/Unk business/Unk school/Unk ibs/Unk hyderabad/Unk
 
-mcom/SUBSTR seats/SEATS in/NONE University Institute of Pharmaceutical Sciences, Chandigarh
+mcom/SUBSTREAM seats/SEATS in/NONE university/Unk institute/Unk of/Unk pharmaceutical/Unk sciences/Unk chandigarh/Unk
 
-bdes/SUBSTR seats/SEATS in/NONE Mallige College of Pharmacy, Bangalore
+bdes/SUBSTREAM seats/SEATS in/NONE mallige/Unk college/Unk of/Unk pharmacy/Unk bangalore/Unk
 
-mdes/SUBSTR seats/SEATS in/NONE Dr. Mahalingam College of Engineering & Technology - [MCET], Coimbatore
+mdes/SUBSTREAM seats/SEATS in/NONE dr/Unk mahalingam/Unk college/Unk of/Unk engineering/Unk &/Unk technology/Unk mcet/Unk coimbatore/Unk
 
-ba/SUBSTR seats/SEATS in/NONE Manipal College of Pharmaceutical Sciences - [MCOPS], Manipal
+ba/SUBSTREAM seats/SEATS in/NONE manipal/Unk college/Unk of/Unk pharmaceutical/Unk sciences/Unk mcops/Unk manipal/Unk
 
-ma/SUBSTR seats/SEATS in/NONE Fergusson College, Pune
+ma/SUBSTREAM seats/SEATS in/NONE fergusson/Unk college/Unk pune/Unk
 
-bca/SUBSTR seats/SEATS in/NONE Bombay College of Pharmacy - [BCP], Mumbai
+bca/SUBSTREAM seats/SEATS in/NONE bombay/Unk college/Unk of/Unk pharmacy/Unk bcp/Unk mumbai/Unk
 
-mca/SUBSTR seats/SEATS in/NONE G H Patel College of Engineering & Technology - [GCET], Vallabh Vidyanagar
+mca/SUBSTREAM seats/SEATS in/NONE g/Unk h/Unk patel/Unk college/Unk of/Unk engineering/Unk &/Unk technology/Unk gcet/Unk vallabh/Unk vidyanagar/Unk
 
-bds/SUBSTR seats/SEATS in/NONE LM College of Pharmacy - [LMCP], Ahmedabad
+bds/SUBSTREAM seats/SEATS in/NONE lm/Unk college/Unk of/Unk pharmacy/Unk lmcp/Unk ahmedabad/Unk
 
-mds/SUBSTR seats/SEATS in/NONE Rajasthan Institute of Engineering and Technology - [RIET], Jaipur
+mds/SUBSTREAM seats/SEATS in/NONE rajasthan/Unk institute/Unk of/Unk engineering/Unk and/Unk technology/Unk riet/Unk jaipur/Unk
 
-barch/SUBSTR seats/SEATS in/NONE NRI Institute of Information Science and Technology - [NIIST], Bhopal
+barch/SUBSTREAM seats/SEATS in/NONE nri/Unk institute/Unk of/Unk information/Unk science/Unk and/Unk technology/Unk niist/Unk bhopal/Unk
 
-march/SUBSTR seats/SEATS in/NONE Goa College of Pharmacy, Panji
+march/SUBSTREAM seats/SEATS in/NONE goa/Unk college/Unk of/Unk pharmacy/Unk panji/Unk
 
-bmm/SUBSTR seats/SEATS in/NONE Nandha College of Pharmacy - [NCP], Erode
+bmm/SUBSTREAM seats/SEATS in/NONE nandha/Unk college/Unk of/Unk pharmacy/Unk ncp/Unk erode/Unk
 
-mmc/SUBSTR seats/SEATS in/NONE Poona College of Pharmacy, Pune
+mmc/SUBSTREAM seats/SEATS in/NONE poona/Unk college/Unk of/Unk pharmacy/Unk pune/Unk
 
-bpharm/SUBSTR seats/SEATS in/NONE Sethu Institute of Technology, Villupuram
+bpharm/SUBSTREAM seats/SEATS in/NONE sethu/Unk institute/Unk of/Unk technology/Unk villupuram/Unk
 
-mpharm/SUBSTR seats/SEATS in/NONE Indian Institute of Management - [IIM], Raipur
+mpharm/SUBSTREAM seats/SEATS in/NONE indian/Unk institute/Unk of/Unk management/Unk iim/Unk raipur/Unk
 
-bvsc/SUBSTR seats/SEATS in/NONE Al- Ameen College of Pharmacy, Bangalore
+bvsc/SUBSTREAM seats/SEATS in/NONE a/Unk ameen/Unk college/Unk of/Unk pharmacy/Unk bangalore/Unk
 
-mvsc/SUBSTR seats/SEATS in/NONE Chirala Engineering College - [CECC], Prakasam
+mvsc/SUBSTREAM seats/SEATS in/NONE chirala/Unk engineering/Unk college/Unk cecc/Unk prakasam/Unk
 
-bsc/SUBSTR seats/SEATS in/NONE Amrita School of Medicine, Kochi
+bsc/SUBSTREAM seats/SEATS in/NONE amrita/Unk school/Unk of/Unk medicine/Unk kochi/Unk
 
-msc/SUBSTR seats/SEATS in/NONE Kristu Jayanti College - [KJC], Bangalore
+msc/SUBSTREAM seats/SEATS in/NONE kristu/Unk jayanti/Unk college/Unk kjc/Unk bangalore/Unk
 
-bed/SUBSTR seats/SEATS in/NONE Jamia Hamdard University, New Delhi
+bed/SUBSTREAM seats/SEATS in/NONE jamia/Unk hamdard/Unk university/Unk new/Unk delhi/Unk
 
-med/SUBSTR seats/SEATS in/NONE Madras Medical College - [MMC], Chennai
+med/SUBSTREAM seats/SEATS in/NONE madras/Unk medical/Unk college/Unk mmc/Unk chennai/Unk
 
-facilities/FACILITY in/NONE Indian Institute of Management - [IIM], Ahmedabad
+facilities/FACILITY in/NONE indian/Unk institute/Unk of/Unk management/Unk iim/Unk ahmedabad/Unk
 
-facilities/FACILITY in/NONE Indian Institute of Management - [IIM], Shillong
+facilities/FACILITY in/NONE indian/Unk institute/Unk of/Unk management/Unk iim/Unk shillong/Unk
 
-facilities/FACILITY in/NONE Sinhgad Institute of Pharmacy - [SIOP] Narhe, Pune
+facilities/FACILITY in/NONE sinhgad/Unk institute/Unk of/Unk pharmacy/Unk siop/Unk narhe/Unk pune/Unk
 
-facilities/FACILITY in/NONE Indian Institute of Management - [IIMB], Bangalore
+facilities/FACILITY in/NONE indian/Unk institute/Unk of/Unk management/Unk iimb/Unk bangalore/Unk
 
-facilities/FACILITY in/NONE Indian Institute of Management - [IIMU], Udaipur
+facilities/FACILITY in/NONE indian/Unk institute/Unk of/Unk management/Unk iimu/Unk udaipur/Unk
 
-facilities/FACILITY in/NONE Amrita School of Pharmacy, Kochi
+facilities/FACILITY in/NONE amrita/Unk school/Unk of/Unk pharmacy/Unk kochi/Unk
 
-facilities/FACILITY in/NONE Indian Institute of Management - [IIM], Thiruchirapalli
+facilities/FACILITY in/NONE indian/Unk institute/Unk of/Unk management/Unk iim/Unk thiruchirapalli/Unk
 
-facilities/FACILITY in/NONE Cambridge Institute of Technology - [CIT], Ranchi
+facilities/FACILITY in/NONE cambridge/Unk institute/Unk of/Unk technology/Unk cit/Unk ranchi/Unk
 
-facilities/FACILITY in/NONE PSG College of Pharmacy - [PSGCP], Coimbatore
+facilities/FACILITY in/NONE psg/Unk college/Unk of/Unk pharmacy/Unk psgcp/Unk coimbatore/Unk
 
-facilities/FACILITY in/NONE MIT Academy of Engineering - [MITAOE] Alandi , Pune
+facilities/FACILITY in/NONE mit/Unk academy/Unk of/Unk engineering/Unk mitaoe/Unk alandi/Unk /Unk pune/Unk
 
-facilities/FACILITY in/NONE Indian Institute of Management - [IIM], Lucknow
+facilities/FACILITY in/NONE indian/Unk institute/Unk of/Unk management/Unk iim/Unk lucknow/Unk
 
-facilities/FACILITY in/NONE Xavier Labour Relations Institute - [XLRI], Jamshedpur
+facilities/FACILITY in/NONE xavier/Unk labour/Unk relations/Unk institute/Unk xlri/Unk jamshedpur/Unk
 
-facilities/FACILITY in/NONE Indian Institute of Management - [IIMK], Kozhikode
+facilities/FACILITY in/NONE indian/Unk institute/Unk of/Unk management/Unk iimk/Unk kozhikode/Unk
 
-facilities/FACILITY in/NONE Jamnalal Bajaj Institute of Management Studies -[JBIMS], Mumbai
+facilities/FACILITY in/NONE jamnalal/Unk bajaj/Unk institute/Unk of/Unk management/Unk studie/Unk jbims/Unk mumbai/Unk
 
-facilities/FACILITY in/NONE Bharati Vidyapeeth College of Pharmacy, Kolhapur
+facilities/FACILITY in/NONE bharati/Unk vidyapeeth/Unk college/Unk of/Unk pharmacy/Unk kolhapur/Unk
 
-facilities/FACILITY in/NONE Shailesh J. Mehta School of Management, IIT Bombay - [SJMSOM], Mumbai
+facilities/FACILITY in/NONE shailesh/Unk j/Unk mehta/Unk school/Unk of/Unk management/Unk iit/Unk bombay/Unk sjmsom/Unk mumbai/Unk
 
-facilities/FACILITY in/NONE SSM College of Engineering, Namakkal
+facilities/FACILITY in/NONE ssm/Unk college/Unk of/Unk engineering/Unk namakkal/Unk
 
-facilities/FACILITY in/NONE National Institute of Industrial Engineering - [NITIE], Mumbai
+facilities/FACILITY in/NONE national/Unk institute/Unk of/Unk industrial/Unk engineering/Unk nitie/Unk mumbai/Unk
 
-facilities/FACILITY in/NONE Dr. B.C. Roy Engineering College - [BCREC], Durgapur
+facilities/FACILITY in/NONE dr/Unk bc/Unk roy/Unk engineering/Unk college/Unk bcrec/Unk durgapur/Unk
 
-facilities/FACILITY in/NONE Delhi School of Professional Studies and Research - [DSPSR], New Delhi
+facilities/FACILITY in/NONE delhi/Unk school/Unk of/Unk professional/Unk studies/Unk and/Unk research/Unk dspsr/Unk new/Unk delhi/Unk
 
-facilities/FACILITY in/NONE Management Development Institute - [MDI], Gurgaon
+facilities/FACILITY in/NONE management/Unk development/Unk institute/Unk mdi/Unk gurgaon/Unk
 
-reviews/REVIEWS of/NONE Sri Venkateswara College of Engineering - [SVCE], Kanchipuram
+reviews/REVIEWS of/Unk sri/Unk venkateswara/Unk college/Unk of/Unk engineering/Unk svce/Unk kanchipuram/Unk
 
-reviews/REVIEWS of/NONE Indian Institute of Foreign Trade - [IIFT], New Delhi
+reviews/REVIEWS of/Unk indian/Unk institute/Unk of/Unk foreign/Unk trade/Unk iift/Unk new/Unk delhi/Unk
 
-reviews/REVIEWS of/NONE Institute of Management Technology - [IMT], Ghaziabad
+reviews/REVIEWS of/Unk institute/Unk of/Unk management/Unk technology/Unk imt/Unk ghaziabad/Unk
 
-reviews/REVIEWS of/NONE International Management Institute - [IMI], New Delhi
+reviews/REVIEWS of/Unk international/Unk management/Unk institute/Unk imi/Unk new/Unk delhi/Unk
 
-reviews/REVIEWS of/NONE Department of Management Studies, IIT Madras - [DoMS IIT Madras], Chennai
+reviews/REVIEWS of/Unk department/Unk of/Unk management/Unk studies/Unk iit/Unk madras/Unk doms/Unk iit/Unk madras/Unk chennai/Unk
 
-reviews/REVIEWS of/NONE Vinod Gupta School of Management - [VGSoM], Kharagpur
+reviews/REVIEWS of/Unk vinod/Unk gupta/Unk school/Unk of/Unk management/Unk vgsom/Unk kharagpur/Unk
 
-reviews/REVIEWS of/NONE Department of Management Studies IIT Delhi - [DMS IITD], New Delhi
+reviews/REVIEWS of/Unk department/Unk of/Unk management/Unk studies/Unk iit/Unk delhi/Unk dms/Unk iitd/Unk new/Unk delhi/Unk
 
-reviews/REVIEWS of/NONE Vinayaka Missions College of Pharmacy - [VMCP], Salem
+reviews/REVIEWS of/Unk vinayaka/Unk missions/Unk college/Unk of/Unk pharmacy/Unk vmcp/Unk salem/Unk
 
-reviews/REVIEWS of/NONE Jeppiaar Maamallan Institute of Technology, Sriperumbudur
+reviews/REVIEWS of/Unk jeppiaar/Unk maamallan/Unk institute/Unk of/Unk technology/Unk sriperumbudur/Unk
 
-reviews/REVIEWS of/NONE ITM University, School of Business, Gwalior
+reviews/REVIEWS of/Unk itm/Unk university/Unk school/Unk of/Unk business/Unk gwalior/Unk
 
-reviews/REVIEWS of/NONE Sydenham Institute of Management Studies, Research & Entrepreneurship Education - [SIMSREE], Mumbai
+reviews/REVIEWS of/Unk sydenham/Unk institute/Unk of/Unk management/Unk studies/Unk research/Unk &/Unk entrepreneurship/Unk education/Unk simsree/Unk mumbai/Unk
 
-reviews/REVIEWS of/NONE Jabalpur Engineering College - [JEC], Jabalpur
+reviews/REVIEWS of/Unk jabalpur/Unk engineering/Unk college/Unk jec/Unk jabalpur/Unk
 
-reviews/REVIEWS of/NONE Symbiosis Institute of Business Management - [SIBM], Pune
+reviews/REVIEWS of/Unk symbiosis/Unk institute/Unk of/Unk business/Unk management/Unk sibm/Unk pune/Unk
 
-reviews/REVIEWS of/NONE Malla Reddy Engineering College - [MREC], Hyderabad
+reviews/REVIEWS of/Unk malla/Unk reddy/Unk engineering/Unk college/Unk mrec/Unk hyderabad/Unk
 
-reviews/REVIEWS of/NONE Eastern Academy of Science & Technology - [EAST], Bhubaneswar
+reviews/REVIEWS of/Unk eastern/Unk academy/Unk of/Unk science/Unk &/Unk technology/Unk east/Unk bhubaneswar/Unk
 
-reviews/REVIEWS of/NONE Dr Rajendra Prasad Government Medical College - [RPGMC], Kangra
+reviews/REVIEWS of/Unk dr/Unk rajendra/Unk prasad/Unk government/Unk medical/Unk college/Unk rpgmc/Unk kangra/Unk
 
-reviews/REVIEWS of/NONE MICA - The School of Ideas, Ahmedabad
+reviews/REVIEWS of/Unk mica/Unk the/Unk school/Unk of/Unk ideas/Unk ahmedabad/Unk
 
-reviews/REVIEWS of/NONE Shree Dhanvantary Pharmacy College - [SDPC], Surat
+reviews/REVIEWS of/Unk shree/Unk dhanvantary/Unk pharmacy/Unk college/Unk sdpc/Unk surat/Unk
 
-reviews/REVIEWS of/NONE T. A. Pai Management Institute - [TAPMI], Manipal
+reviews/REVIEWS of/Unk t/Unk a/Unk pai/Unk management/Unk institute/Unk tapmi/Unk manipal/Unk
 
-reviews/REVIEWS of/NONE Great Lakes Institute of Management, Kanchipuram
+reviews/REVIEWS of/Unk great/Unk lakes/Unk institute/Unk of/Unk management/Unk kanchipuram/Unk
 
-reviews/REVIEWS of/NONE GITAM School of International Business - [GSIB], Visakhapatnam
+reviews/REVIEWS of/Unk gitam/Unk school/Unk of/Unk international/Unk business/Unk gsib/Unk visakhapatnam/Unk
 
-affiliation/AFFILIATION of/NONE Institute of Rural Management - [IRMA], Anand
+affiliation/AFFILIATION of/Unk institute/Unk of/Unk rural/Unk management/Unk irma/Unk anand/Unk
 
-affiliation/AFFILIATION of/NONE Maratha Mandal College of Pharmacy, Belgaum
+affiliation/AFFILIATION of/Unk maratha/Unk mandal/Unk college/Unk of/Unk pharmacy/Unk belgaum/Unk
 
-affiliation/AFFILIATION of/NONE Pragati Engineering College, East Godavari
+affiliation/AFFILIATION of/Unk pragati/Unk engineering/Unk college/Unk east/Unk godavari/Unk
 
-affiliation/AFFILIATION of/NONE IILM Institute for Higher Education Lodhi Road, New Delhi
+affiliation/AFFILIATION of/Unk iilm/Unk institute/Unk for/Unk higher/Unk education/Unk lodhi/Unk road/Unk new/Unk delhi/Unk
 
-affiliation/AFFILIATION of/NONE Bharathidasan Institute of Management - [BIM], Thiruchirapalli
+affiliation/AFFILIATION of/Unk bharathidasan/Unk institute/Unk of/Unk management/Unk bim/Unk thiruchirapalli/Unk
 
-affiliation/AFFILIATION of/NONE NET Pharmacy College, Raichur
+affiliation/AFFILIATION of/Unk net/Unk pharmacy/Unk college/Unk raichur/Unk
 
-affiliation/AFFILIATION of/NONE RMD Engineering College - [RMDEC], Thiruvallur
+affiliation/AFFILIATION of/Unk rmd/Unk engineering/Unk college/Unk rmdec/Unk thiruvallur/Unk
 
-affiliation/AFFILIATION of/NONE Sri Ramachandra University, Chennai
+affiliation/AFFILIATION of/Unk sri/Unk ramachandra/Unk university/Unk chennai/Unk
 
-affiliation/AFFILIATION of/NONE Rajagiri College of Social Sciences - [RCSS], Cochin
+affiliation/AFFILIATION of/Unk rajagiri/Unk college/Unk of/Unk social/Unk sciences/Unk rcss/Unk cochin/Unk
 
-affiliation/AFFILIATION of/NONE Xavier Institute of Management - [XIMB], Bhubaneswar
+affiliation/AFFILIATION of/Unk xavier/Unk institute/Unk of/Unk management/Unk ximb/Unk bhubaneswar/Unk
 
-affiliation/AFFILIATION of/NONE KIET Group of Institutions - [KIET], Ghaziabad
+affiliation/AFFILIATION of/Unk kiet/Unk group/Unk of/Unk institutions/Unk kiet/Unk ghaziabad/Unk
 
-affiliation/AFFILIATION of/NONE Rajasthan College of engineering for Women - [RCEW], Jaipur
+affiliation/AFFILIATION of/Unk rajasthan/Unk college/Unk of/Unk engineering/Unk for/Unk women/Unk rcew/Unk jaipur/Unk
 
-affiliation/AFFILIATION of/NONE Prin. L. N. Welingkar Institute of Management Development & Research - [We School], Mumbai
+affiliation/AFFILIATION of/Unk prin/Unk l/Unk n/Unk welingkar/Unk institute/Unk of/Unk management/Unk development/Unk &/Unk research/Unk we/Unk school/Unk mumbai/Unk
 
-affiliation/AFFILIATION of/NONE Manipal Institute of Technology - [MIT], Manipal
+affiliation/AFFILIATION of/Unk manipal/Unk institute/Unk of/Unk technology/Unk mit/Unk manipal/Unk
 
-affiliation/AFFILIATION of/NONE National Institute of Agricultural Extension Management - [MANAGE], Hyderabad
+affiliation/AFFILIATION of/Unk national/Unk institute/Unk of/Unk agricultural/Unk extension/Unk management/Unk manage/Unk hyderabad/Unk
 
-affiliation/AFFILIATION of/NONE K.J. Somaiya Medical College & Research Centre - [KJSMC], Mumbai
+affiliation/AFFILIATION of/Unk kj/Unk somaiya/Unk medical/Unk college/Unk &/Unk research/Unk centre/Unk kjsmc/Unk mumbai/Unk
 
-affiliation/AFFILIATION of/NONE Indian Institute of Management - [IIMR], Ranchi
+affiliation/AFFILIATION of/Unk indian/Unk institute/Unk of/Unk management/Unk iimr/Unk ranchi/Unk
 
-affiliation/AFFILIATION of/NONE FORE School of Management - [FSM], New Delhi
+affiliation/AFFILIATION of/Unk fore/Unk school/Unk of/Unk management/Unk fsm/Unk new/Unk delhi/Unk
 
-affiliation/AFFILIATION of/NONE Indian Institute of Management - [IIM], Rohtak
+affiliation/AFFILIATION of/Unk indian/Unk institute/Unk of/Unk management/Unk iim/Unk rohtak/Unk
 
-affiliation/AFFILIATION of/NONE Institute for Financial Management & Research - [IFMR], Chittoor
+affiliation/AFFILIATION of/Unk institute/Unk for/Unk financial/Unk management/Unk &/Unk research/Unk ifmr/Unk chittoor/Unk
 
-affiliation/AFFILIATION of/NONE Gitam Institute of Management - [GIM], Visakhapatnam
+affiliation/AFFILIATION of/Unk gitam/Unk institute/Unk of/Unk management/Unk gim/Unk visakhapatnam/Unk
 
-location/CITY of/NONE Kasturba Medical College - [KMC], Manipal
+location/CITY of/Unk kasturba/Unk medical/Unk college/Unk kmc/Unk manipal/Unk
 
-location/CITY of/NONE Goa Institute of Management - [GIM], North Goa
+location/CITY of/Unk goa/Unk institute/Unk of/Unk management/Unk gim/Unk north/Unk goa/Unk
 
-location/CITY of/NONE Jadavpur University, Kolkata
+location/CITY of/Unk jadavpur/Unk university/Unk kolkata/Unk
 
-location/CITY of/NONE Manipal University - [MU], Manipal
+location/CITY of/Unk manipal/Unk university/Unk mu/Unk manipal/Unk
 
-location/CITY of/NONE Saveetha Engineering College - [SEC], Chennai
+location/CITY of/Unk saveetha/Unk engineering/Unk college/Unk sec/Unk chennai/Unk
 
-location/CITY of/NONE Lal Bahadur Shastri Institute of Management - [LBSIM], New Delhi
+location/CITY of/Unk lal/Unk bahadur/Unk shastri/Unk institute/Unk of/Unk management/Unk lbsim/Unk new/Unk delhi/Unk
 
-location/CITY of/NONE ABES Engineering College, Ghaziabad
+location/CITY of/Unk abes/Unk engineering/Unk college/Unk ghaziabad/Unk
 
-location/CITY of/NONE Fortune Institute of International Business - [FIIB], New Delhi
+location/CITY of/Unk fortune/Unk institute/Unk of/Unk international/Unk business/Unk fiib/Unk new/Unk delhi/Unk
 
-location/CITY of/NONE L.D. College of Engineering - [LDCE], Ahmedabad
+location/CITY of/Unk ld/Unk college/Unk of/Unk engineering/Unk ldce/Unk ahmedabad/Unk
 
-location/CITY of/NONE International Institute of Information Technology- [IIIT], Pune
+location/CITY of/Unk international/Unk institute/Unk of/Unk information/Unk technolog/Unk iiit/Unk pune/Unk
 
-location/CITY of/NONE Shri Vishnu Engineering College for Women - [SVECW], Bhimavaram
+location/CITY of/Unk shri/Unk vishnu/Unk engineering/Unk college/Unk for/Unk women/Unk svecw/Unk bhimavaram/Unk
 
-location/CITY of/NONE Sri Venkateswara College, New Delhi
+location/CITY of/Unk sri/Unk venkateswara/Unk college/Unk new/Unk delhi/Unk
 
-location/CITY of/NONE Loyola Academy Degree and PG College, Secunderabad
+location/CITY of/Unk loyola/Unk academy/Unk degree/Unk and/Unk pg/Unk college/Unk secunderabad/Unk
 
-location/CITY of/NONE B.R. Nahata College of Pharmacy - [BRNCP], Mandsaur
+location/CITY of/Unk br/Unk nahata/Unk college/Unk of/Unk pharmacy/Unk brncp/Unk mandsaur/Unk
 
-location/CITY of/NONE Sona College of Technology, Salem
+location/CITY of/Unk sona/Unk college/Unk of/Unk technology/Unk salem/Unk
 
-location/CITY of/NONE Sri Ramakrishna Engineering College - [SREC], Coimbatore
+location/CITY of/Unk sri/Unk ramakrishna/Unk engineering/Unk college/Unk srec/Unk coimbatore/Unk
 
-location/CITY of/NONE Jaipuria Institute of Management - [JIM], Lucknow
+location/CITY of/Unk jaipuria/Unk institute/Unk of/Unk management/Unk jim/Unk lucknow/Unk
 
-location/CITY of/NONE HL College of Commerce - [HLCC], Ahmedabad
+location/CITY of/Unk hl/Unk college/Unk of/Unk commerce/Unk hlcc/Unk ahmedabad/Unk
 
-location/CITY of/NONE M.S. Ramaiah Institute of Management - [MSRIM], Bangalore
+location/CITY of/Unk ms/Unk ramaiah/Unk institute/Unk of/Unk management/Unk msrim/Unk bangalore/Unk
 
-location/CITY of/NONE Sri Sukhmani Institute of Engineering and Technology - [SSIET], Mohali
+location/CITY of/Unk sri/Unk sukhmani/Unk institute/Unk of/Unk engineering/Unk and/Unk technology/Unk ssiet/Unk mohali/Unk
 
-location/CITY of/NONE Sri Balaji Society, Balaji Institute of Modern Management - [BIMM], Pune
+location/CITY of/Unk sri/Unk balaji/Unk society/Unk balaji/Unk institute/Unk of/Unk modern/Unk management/Unk bimm/Unk pune/Unk
 
-is/NONE TKR College of Engineering and Technology - [TKRCET], Hyderabad private/TYPE public/TYPE or deemed/TYPE
+is/NONE tkr/Unk college/Unk of/Unk engineering/Unk and/Unk technology/Unk tkrcet/Unk hyderabad/Unk private/type/Unk public/type/Unk or/NONE deemed/type/Unk
 
-is/NONE Amrita School of Business - [ASB], Coimbatore private/TYPE public/TYPE or deemed/TYPE
+is/NONE amrita/Unk school/Unk of/Unk business/Unk asb/Unk coimbatore/Unk private/type/Unk public/type/Unk or/NONE deemed/type/Unk
 
-is/NONE PSG Institute of Management - [PSGIM], Coimbatore private/TYPE public/TYPE or deemed/TYPE
+is/NONE psg/Unk institute/Unk of/Unk management/Unk psgim/Unk coimbatore/Unk private/type/Unk public/type/Unk or/NONE deemed/type/Unk
 
-is/NONE National Institute of Technology - [NIT] Meghalaya, Shillong private/TYPE public/TYPE or deemed/TYPE
+is/NONE national/Unk institute/Unk of/Unk technology/Unk nit/Unk meghalaya/Unk shillong/Unk private/type/Unk public/type/Unk or/NONE deemed/type/Unk
 
-is/NONE Hallmark Business School - [HBS], Thiruchirapalli private/TYPE public/TYPE or deemed/TYPE
+is/NONE hallmark/Unk business/Unk school/Unk hbs/Unk thiruchirapalli/Unk private/type/Unk public/type/Unk or/NONE deemed/type/Unk
 
-is/NONE Xavier Institute of Social Service - [XISS], Ranchi private/TYPE public/TYPE or deemed/TYPE
+is/NONE xavier/Unk institute/Unk of/Unk social/Unk service/Unk xiss/Unk ranchi/Unk private/type/Unk public/type/Unk or/NONE deemed/type/Unk
 
-is/NONE Walchand Institute of Technology - [WIT], Solapur private/TYPE public/TYPE or deemed/TYPE
+is/NONE walchand/Unk institute/Unk of/Unk technology/Unk wit/Unk solapur/Unk private/type/Unk public/type/Unk or/NONE deemed/type/Unk
 
-is/NONE SCMS Cochin/NONE School of Business, Cochin/NONE private/TYPE public/TYPE or deemed/TYPE
+is/NONE scms/Unk cochin/Unk school/Unk of/Unk business/Unk cochin/Unk private/type/Unk public/type/Unk or/NONE deemed/type/Unk
 
-is/NONE Ramjas College, New Delhi private/TYPE public/TYPE or deemed/TYPE
+is/NONE ramjas/Unk college/Unk new/Unk delhi/Unk private/type/Unk public/type/Unk or/NONE deemed/type/Unk
 
-is/NONE National Law School of India University - [NLSIU], Bangalore private/TYPE public/TYPE or deemed/TYPE
+is/NONE national/Unk law/Unk school/Unk of/Unk india/Unk university/Unk nlsiu/Unk bangalore/Unk private/type/Unk public/type/Unk or/NONE deemed/type/Unk
 
-is/NONE AR College of Pharmacy, Vallabh Vidyanagar private/TYPE public/TYPE or deemed/TYPE
+is/NONE ar/Unk college/Unk of/Unk pharmacy/Unk vallabh/Unk vidyanagar/Unk private/type/Unk public/type/Unk or/NONE deemed/type/Unk
 
-is/NONE VNR Vignana Jyothi Institute of Engineering and Technology - [VNRVJIET], Hyderabad private/TYPE public/TYPE or deemed/TYPE
+is/NONE vnr/Unk vignana/Unk jyothi/Unk institute/Unk of/Unk engineering/Unk and/Unk technology/Unk vnrvjiet/Unk hyderabad/Unk private/type/Unk public/type/Unk or/NONE deemed/type/Unk
 
-is/NONE Faculty of Law, University of Delhi, New Delhi private/TYPE public/TYPE or deemed/TYPE
+is/NONE faculty/Unk of/Unk law/Unk university/Unk of/Unk delhi/Unk new/Unk delhi/Unk private/type/Unk public/type/Unk or/NONE deemed/type/Unk
 
-is/NONE The West Bengal National University of Juridical Sciences - [NUJS], Kolkata private/TYPE public/TYPE or deemed/TYPE
+is/NONE the/Unk west/Unk bengal/Unk national/Unk university/Unk of/Unk juridical/Unk sciences/Unk nujs/Unk kolkata/Unk private/type/Unk public/type/Unk or/NONE deemed/type/Unk
 
-is/NONE Manipal University,  Faculty of Architecture, Manipal private/TYPE public/TYPE or deemed/TYPE
+is/NONE manipal/Unk university/Unk /Unk faculty/Unk of/Unk architecture/Unk manipal/Unk private/type/Unk public/type/Unk or/NONE deemed/type/Unk
 
-is/NONE Shri Govindram Seksaria Institute of Technology and Science- [SGSITS], Indore private/TYPE public/TYPE or deemed/TYPE
+is/NONE shri/Unk govindram/Unk seksaria/Unk institute/Unk of/Unk technology/Unk and/Unk scienc/Unk sgsits/Unk indore/Unk private/type/Unk public/type/Unk or/NONE deemed/type/Unk
 
-is/NONE The National Law Institute University - [NLIU], Bhopal private/TYPE public/TYPE or deemed/TYPE
+is/NONE the/Unk national/Unk law/Unk institute/Unk university/Unk nliu/Unk bhopal/Unk private/type/Unk public/type/Unk or/NONE deemed/type/Unk
 
-is/NONE Jaipuria Institute of Management - [JIM], Noida private/TYPE public/TYPE or deemed/TYPE
+is/NONE jaipuria/Unk institute/Unk of/Unk management/Unk jim/Unk noida/Unk private/type/Unk public/type/Unk or/NONE deemed/type/Unk
 
-is/NONE ILS Law College - [ILS], Pune private/TYPE public/TYPE or deemed/TYPE
+is/NONE ils/Unk law/Unk college/Unk ils/Unk pune/Unk private/type/Unk public/type/Unk or/NONE deemed/type/Unk
 
-is/NONE Faculty of Law, Banaras Hindu University, Varanasi private/TYPE public/TYPE or deemed/TYPE
+is/NONE faculty/Unk of/Unk law/Unk banaras/Unk hindu/Unk university/Unk varanasi/Unk private/type/Unk public/type/Unk or/NONE deemed/type/Unk
 
-is/NONE National Law University - [NLUD], New Delhi private/TYPE public/TYPE or deemed/TYPE
+is/NONE national/Unk law/Unk university/Unk nlud/Unk new/Unk delhi/Unk private/type/Unk public/type/Unk or/NONE deemed/type/Unk
 
-when/NONE was/NONE Amity Law School - [ALS], Noida established/ESTD
+when/NONE was/NONE amity/Unk law/Unk school/Unk als/Unk noida/Unk established/estd/Unk
 
-when/NONE was/NONE The Nitte Gulabi Shetty Memorial Institute of Pharmaceutical Sciences - [NGSMIPS], Mangalore established/ESTD
+when/NONE was/NONE the/Unk nitte/Unk gulabi/Unk shetty/Unk memorial/Unk institute/Unk of/Unk pharmaceutical/Unk sciences/Unk ngsmips/Unk mangalore/Unk established/estd/Unk
 
-when/NONE was/NONE Ratnavel Subrahmaniam College of Engineering and Technology, Dindigul established/ESTD
+when/NONE was/NONE ratnavel/Unk subrahmaniam/Unk college/Unk of/Unk engineering/Unk and/Unk technology/Unk dindigul/Unk established/estd/Unk
 
-when/NONE was/NONE Rajiv Gandhi National University of Law - [RGNUL], Patiala established/ESTD
+when/NONE was/NONE rajiv/Unk gandhi/Unk national/Unk university/Unk of/Unk law/Unk rgnul/Unk patiala/Unk established/estd/Unk
 
-when/NONE was/NONE Tatyasaheb Kore Institute of Engineering and Technology - [TKIET], Kolhapur established/ESTD
+when/NONE was/NONE tatyasaheb/Unk kore/Unk institute/Unk of/Unk engineering/Unk and/Unk technology/Unk tkiet/Unk kolhapur/Unk established/estd/Unk
 
-when/NONE was/NONE Jagannath International Management School - [JIMS] Kalkaji, New Delhi established/ESTD
+when/NONE was/NONE jagannath/Unk international/Unk management/Unk school/Unk jims/Unk kalkaji/Unk new/Unk delhi/Unk established/estd/Unk
 
-when/NONE was/NONE Hidayatullah National Law University - [HNLU], Raipur established/ESTD
+when/NONE was/NONE hidayatullah/Unk national/Unk law/Unk university/Unk hnlu/Unk raipur/Unk established/estd/Unk
 
-when/NONE was/NONE Army Institute of Law - [AIL], Mohali established/ESTD
+when/NONE was/NONE army/Unk institute/Unk of/Unk law/Unk ail/Unk mohali/Unk established/estd/Unk
 
-when/NONE was/NONE Dhirubhai Ambani Institute of Information and Communication Technology - [DA-IICT], Gandhi Nagar established/ESTD
+when/NONE was/NONE dhirubhai/Unk ambani/Unk institute/Unk of/Unk information/Unk and/Unk communication/Unk technology/Unk diict/Unk gandhi/Unk nagar/Unk established/estd/Unk
 
-when/NONE was/NONE Chanderprabhu Jain/NONE College of Higher Studies & School of Law, New Delhi established/ESTD
+when/NONE was/NONE chanderprabhu/Unk jain/Unk college/Unk of/Unk higher/Unk studies/Unk &/Unk school/Unk of/Unk law/Unk new/Unk delhi/Unk established/estd/Unk
 
-when/NONE was/NONE University college of Law, Osmania University, Hyderabad established/ESTD
+when/NONE was/NONE university/Unk college/Unk of/Unk law/Unk osmania/Unk university/Unk hyderabad/Unk established/estd/Unk
 
-when/NONE was/NONE Faculty of Law University of Calcutta, Kolkata established/ESTD
+when/NONE was/NONE faculty/Unk of/Unk law/Unk university/Unk of/Unk calcutta/Unk kolkata/Unk established/estd/Unk
 
-when/NONE was/NONE Pondicherry Engineering College - [PEC], Pondicherry established/ESTD
+when/NONE was/NONE pondicherry/Unk engineering/Unk college/Unk pec/Unk pondicherry/Unk established/estd/Unk
 
-when/NONE was/NONE University College of Law Bangalore University, Bangalore established/ESTD
+when/NONE was/NONE university/Unk college/Unk of/Unk law/Unk bangalore/Unk university/Unk bangalore/Unk established/estd/Unk
 
-when/NONE was/NONE Indian Institute of Information Technology Design & Manufacturing - [IIITDM], Chennai established/ESTD
+when/NONE was/NONE indian/Unk institute/Unk of/Unk information/Unk technology/Unk design/Unk &/Unk manufacturing/Unk iiitdm/Unk chennai/Unk established/estd/Unk
 
-when/NONE was/NONE Asian Business School - [ABS], Noida established/ESTD
+when/NONE was/NONE asian/Unk business/Unk school/Unk abs/Unk noida/Unk established/estd/Unk
 
-when/NONE was/NONE Tontadarya College of Engineering, Gadag established/ESTD
+when/NONE was/NONE tontadarya/Unk college/Unk of/Unk engineering/Unk gadag/Unk established/estd/Unk
 
-when/NONE was/NONE RC Patel Institute of Pharmacutical Education and Research - [RCPIPER], Dhule established/ESTD
+when/NONE was/NONE rc/Unk patel/Unk institute/Unk of/Unk pharmacutical/Unk education/Unk and/Unk research/Unk rcpiper/Unk dhule/Unk established/estd/Unk
 
-when/NONE was/NONE North Maharashtra University Institute of Chemical Technology - [UICT], Jalgaon established/ESTD
+when/NONE was/NONE north/Unk maharashtra/Unk university/Unk institute/Unk of/Unk chemical/Unk technology/Unk uict/Unk jalgaon/Unk established/estd/Unk
 
-when/NONE was/NONE Bangalore Institute of Legal Studies - [BILS], Bangalore established/ESTD
+when/NONE was/NONE bangalore/Unk institute/Unk of/Unk legal/Unk studies/Unk bils/Unk bangalore/Unk established/estd/Unk
 
-when/NONE was/NONE Sri Sai Ram Engineering College - [SSEC], Chennai established/ESTD
+when/NONE was/NONE sri/Unk sai/Unk ram/Unk engineering/Unk college/Unk ssec/Unk chennai/Unk established/estd/Unk
 
-is/NONE Yeshwantrao Chavan College of Engineering - [YCCE], Nagpur ugc/AFFILIATION granted/AFFILIATION or approved/AFFILIATION
+is/NONE yeshwantrao/Unk chavan/Unk college/Unk of/Unk engineering/Unk ycce/Unk nagpur/Unk ugc/AFFILIATION granted/AFFILIATION or/NONE approved/AFFILIATION/Unk
 
-is/NONE University of Petroleum and Energy Studies - [UPES], Dehradun ugc/AFFILIATION granted/AFFILIATION or approved/AFFILIATION
+is/NONE university/Unk of/Unk petroleum/Unk and/Unk energy/Unk studies/Unk upes/Unk dehradun/Unk ugc/AFFILIATION granted/AFFILIATION or/NONE approved/AFFILIATION/Unk
 
-is/NONE Shri Vishnu College of Pharmacy - [SVCP], Bhimavaram ugc/AFFILIATION granted/AFFILIATION or approved/AFFILIATION
+is/NONE shri/Unk vishnu/Unk college/Unk of/Unk pharmacy/Unk svcp/Unk bhimavaram/Unk ugc/AFFILIATION granted/AFFILIATION or/NONE approved/AFFILIATION/Unk
 
-is/NONE South Calcutta Law College, Kolkata ugc/AFFILIATION granted/AFFILIATION or approved/AFFILIATION
+is/NONE south/Unk calcutta/Unk law/Unk college/Unk kolkata/Unk ugc/AFFILIATION granted/AFFILIATION or/NONE approved/AFFILIATION/Unk
 
-is/NONE Army Institute of Technology - [AIT], Pune ugc/AFFILIATION granted/AFFILIATION or approved/AFFILIATION
+is/NONE army/Unk institute/Unk of/Unk technology/Unk ait/Unk pune/Unk ugc/AFFILIATION granted/AFFILIATION or/NONE approved/AFFILIATION/Unk
 
-is/NONE SCMS School of Engineering and Technology, Ernakulam ugc/AFFILIATION granted/AFFILIATION or approved/AFFILIATION
+is/NONE scms/Unk school/Unk of/Unk engineering/Unk and/Unk technology/Unk ernakulam/Unk ugc/AFFILIATION granted/AFFILIATION or/NONE approved/AFFILIATION/Unk
 
-is/NONE GRG School of Management Studies - [GRGSMS], Coimbatore ugc/AFFILIATION granted/AFFILIATION or approved/AFFILIATION
+is/NONE grg/Unk school/Unk of/Unk management/Unk studies/Unk grgsms/Unk coimbatore/Unk ugc/AFFILIATION granted/AFFILIATION or/NONE approved/AFFILIATION/Unk
 
-is/NONE Abeda Inamdar Senior College, Pune ugc/AFFILIATION granted/AFFILIATION or approved/AFFILIATION
+is/NONE abeda/Unk inamdar/Unk senior/Unk college/Unk pune/Unk ugc/AFFILIATION granted/AFFILIATION or/NONE approved/AFFILIATION/Unk
 
-is/NONE IILM Graduate School of Management, Greater Noida ugc/AFFILIATION granted/AFFILIATION or approved/AFFILIATION
+is/NONE iilm/Unk graduate/Unk school/Unk of/Unk management/Unk greater/Unk noida/Unk ugc/AFFILIATION granted/AFFILIATION or/NONE approved/AFFILIATION/Unk
 
-is/NONE Indus Business Academy - [IBA], Bangalore ugc/AFFILIATION granted/AFFILIATION or approved/AFFILIATION
+is/NONE indus/Unk business/Unk academy/Unk iba/Unk bangalore/Unk ugc/AFFILIATION granted/AFFILIATION or/NONE approved/AFFILIATION/Unk
 
-is/NONE Vishwakarma Institute of Technology - [VIT] Bibwewadi, Pune ugc/AFFILIATION granted/AFFILIATION or approved/AFFILIATION
+is/NONE vishwakarma/Unk institute/Unk of/Unk technology/Unk vit/Unk bibwewadi/Unk pune/Unk ugc/AFFILIATION granted/AFFILIATION or/NONE approved/AFFILIATION/Unk
 
-is/NONE GH Raisoni College of Engineering - [GHRCE], Nagpur ugc/AFFILIATION granted/AFFILIATION or approved/AFFILIATION
+is/NONE gh/Unk raisoni/Unk college/Unk of/Unk engineering/Unk ghrce/Unk nagpur/Unk ugc/AFFILIATION granted/AFFILIATION or/NONE approved/AFFILIATION/Unk
 
-is/NONE Acharya Institute of Technology - [AIT], Bangalore ugc/AFFILIATION granted/AFFILIATION or approved/AFFILIATION
+is/NONE acharya/Unk institute/Unk of/Unk technology/Unk ait/Unk bangalore/Unk ugc/AFFILIATION granted/AFFILIATION or/NONE approved/AFFILIATION/Unk
 
-is/NONE Rajagiri Business School - [RBS], Kochi ugc/AFFILIATION granted/AFFILIATION or approved/AFFILIATION
+is/NONE rajagiri/Unk business/Unk school/Unk rbs/Unk kochi/Unk ugc/AFFILIATION granted/AFFILIATION or/NONE approved/AFFILIATION/Unk
 
-is/NONE Shri Ramdeo Baba Kamla Nehru Engineering College, Nagpur ugc/AFFILIATION granted/AFFILIATION or approved/AFFILIATION
+is/NONE shri/Unk ramdeo/Unk baba/Unk kamla/Unk nehru/Unk engineering/Unk college/Unk nagpur/Unk ugc/AFFILIATION granted/AFFILIATION or/NONE approved/AFFILIATION/Unk
 
-is/NONE VSB Engineering College - [VSBEC], Karur ugc/AFFILIATION granted/AFFILIATION or approved/AFFILIATION
+is/NONE vsb/Unk engineering/Unk college/Unk vsbec/Unk karur/Unk ugc/AFFILIATION granted/AFFILIATION or/NONE approved/AFFILIATION/Unk
 
-is/NONE Jagan Institute of Management Studies - [JIMS] Sector-5 Rohini, New Delhi ugc/AFFILIATION granted/AFFILIATION or approved/AFFILIATION
+is/NONE jagan/Unk institute/Unk of/Unk management/Unk studies/Unk jims/Unk secto5/Unk rohini/Unk new/Unk delhi/Unk ugc/AFFILIATION granted/AFFILIATION or/NONE approved/AFFILIATION/Unk
 
-is/NONE Seemanta Institute of Pharmaceutical Sciences - [SIPS], Mayurbhanj ugc/AFFILIATION granted/AFFILIATION or approved/AFFILIATION
+is/NONE seemanta/Unk institute/Unk of/Unk pharmaceutical/Unk sciences/Unk sips/Unk mayurbhanj/Unk ugc/AFFILIATION granted/AFFILIATION or/NONE approved/AFFILIATION/Unk
 
-is/NONE Ghousia College of Engineering - [GCE], Ramanagar ugc/AFFILIATION granted/AFFILIATION or approved/AFFILIATION
+is/NONE ghousia/Unk college/Unk of/Unk engineering/Unk gce/Unk ramanagar/Unk ugc/AFFILIATION granted/AFFILIATION or/NONE approved/AFFILIATION/Unk
 
-is/NONE Sikkim Manipal Institute of Technology - [SMIT], East Sikkim ugc/AFFILIATION granted/AFFILIATION or approved/AFFILIATION
+is/NONE sikkim/Unk manipal/Unk institute/Unk of/Unk technology/Unk smit/Unk east/Unk sikkim/Unk ugc/AFFILIATION granted/AFFILIATION or/NONE approved/AFFILIATION/Unk
 
-is/NONE Adi Shankara Institute of Engineering and Technology - [ASIET] Kalady, Ernakulam ugc/AFFILIATION granted/AFFILIATION or approved/AFFILIATION
+is/NONE adi/Unk shankara/Unk institute/Unk of/Unk engineering/Unk and/Unk technology/Unk asiet/Unk kalady/Unk ernakulam/Unk ugc/AFFILIATION granted/AFFILIATION or/NONE approved/AFFILIATION/Unk
 
-rank/RANK of/NONE Laljibhai Chaturbhai Institute of Technology - [LCIT], Ahmedabad
+rank/RANK of/Unk laljibhai/Unk chaturbhai/Unk institute/Unk of/Unk technology/Unk lcit/Unk ahmedabad/Unk
 
-rank/RANK of/NONE VVP Engineering College - [VVPEC], Rajkot
+rank/RANK of/Unk vvp/Unk engineering/Unk college/Unk vvpec/Unk rajkot/Unk
 
-rank/RANK of/NONE Anand Institute of Higher Technology - [AIHT], Chennai
+rank/RANK of/Unk anand/Unk institute/Unk of/Unk higher/Unk technology/Unk aiht/Unk chennai/Unk
 
-rank/RANK of/NONE Patel College of Science and Technology - [PCST], Bhopal
+rank/RANK of/Unk patel/Unk college/Unk of/Unk science/Unk and/Unk technology/Unk pcst/Unk bhopal/Unk
 
-rank/RANK of/NONE Global Business School - [GBS], Hubli
+rank/RANK of/Unk global/Unk business/Unk school/Unk gbs/Unk hubli/Unk
 
-rank/RANK of/NONE Entrepreneurship Development Institute of India - [EDI], Gandhi Nagar
+rank/RANK of/Unk entrepreneurship/Unk development/Unk institute/Unk of/Unk india/Unk edi/Unk gandhi/Unk nagar/Unk
 
-rank/RANK of/NONE National University of Advanced Legal Studies - [NUALS], Ernakulam
+rank/RANK of/Unk national/Unk university/Unk of/Unk advanced/Unk legal/Unk studies/Unk nuals/Unk ernakulam/Unk
 
-rank/RANK of/NONE Indus Business Academy - [IBA], Greater Noida
+rank/RANK of/Unk indus/Unk business/Unk academy/Unk iba/Unk greater/Unk noida/Unk
 
-college/ALL details/ALL Indian Institute of Management - [IIM], Ahmedabad
+college/ALL details/ALL indian/Unk institute/Unk of/Unk management/Unk iim/Unk ahmedabad/Unk
 
-college/ALL details/ALL National Law School of India University - [NLSIU], Bangalore
+college/ALL details/ALL national/Unk law/Unk school/Unk of/Unk india/Unk university/Unk nlsiu/Unk bangalore/Unk
 
-college/ALL details/ALL Armed Forces Medical College - [AFMC], Pune
+college/ALL details/ALL armed/Unk forces/Unk medical/Unk college/Unk afmc/Unk pune/Unk
 
-college/ALL details/ALL Aligarh Muslim University - [AMU], Aligarh
+college/ALL details/ALL aligarh/Unk muslim/Unk university/Unk amu/Unk aligarh/Unk
 
-college/ALL details/ALL Christian Medical College - [CMC], Vellore
+college/ALL details/ALL christian/Unk medical/Unk college/Unk cmc/Unk vellore/Unk
 
-college/ALL details/ALL Indian Institute of Management - [IIMB], Bangalore
+college/ALL details/ALL indian/Unk institute/Unk of/Unk management/Unk iimb/Unk bangalore/Unk
 
-college/ALL details/ALL The West Bengal National University of Juridical Sciences - [NUJS], Kolkata
+college/ALL details/ALL the/Unk west/Unk bengal/Unk national/Unk university/Unk of/Unk juridical/Unk sciences/Unk nujs/Unk kolkata/Unk
 
-college/ALL details/ALL Maulana Azad Medical College - [MAMC], New Delhi
+college/ALL details/ALL maulana/Unk azad/Unk medical/Unk college/Unk mamc/Unk new/Unk delhi/Unk
 
-college/ALL details/ALL Hans Raj College - [HRC], New Delhi
+college/ALL details/ALL hans/Unk raj/Unk college/Unk hrc/Unk new/Unk delhi/Unk
 
-college/ALL details/ALL Christ University, Science, Bangalore
+college/ALL details/ALL christ/Unk university/Unk science/Unk bangalore/Unk
 
-college/ALL details/ALL Christ University, Bangalore
+college/ALL details/ALL christ/Unk university/Unk bangalore/Unk
 
-college/ALL details/ALL Christ University, Commerce And Management, Bangalore
+college/ALL details/ALL christ/Unk university/Unk commerce/Unk and/Unk management/Unk bangalore/Unk
 
-college/ALL details/ALL Management Development Institute - [MDI], Gurgaon
+college/ALL details/ALL management/Unk development/Unk institute/Unk mdi/Unk gurgaon/Unk
 
-college/ALL details/ALL Sri Ramachandra University, Chennai
+college/ALL details/ALL sri/Unk ramachandra/Unk university/Unk chennai/Unk
 
-college/ALL details/ALL School of Law, Christ University, Bangalore
+college/ALL details/ALL school/Unk of/Unk law/Unk christ/Unk university/Unk bangalore/Unk
 
-college/ALL details/ALL Christ University, Faculty of Engineering, Bangalore
+college/ALL details/ALL christ/Unk university/Unk faculty/Unk of/Unk engineering/Unk bangalore/Unk
 
-college/ALL details/ALL Christ University, Business Studies and Social Science, Bangalore
+college/ALL details/ALL christ/Unk university/Unk business/Unk studies/Unk and/Unk social/Unk science/Unk bangalore/Unk
 
-college/ALL details/ALL Shri Ram College of Commerce - [SRCC], New Delhi
+college/ALL details/ALL shri/Unk ram/Unk college/Unk of/Unk commerce/Unk srcc/Unk new/Unk delhi/Unk
 
-college/ALL details/ALL Symbiosis Law School - [SLS], Noida
+college/ALL details/ALL symbiosis/Unk law/Unk school/Unk sls/Unk noida/Unk
 
-college/ALL details/ALL Madurai Diraviyam Thayumanavar Hindu College, Tirunelveli
+college/ALL details/ALL madurai/Unk diraviyam/Unk thayumanavar/Unk hindu/Unk college/Unk tirunelveli/Unk
 
-Hindu College, Moradabad college/ALL details/ALL
+hindu/Unk college/Unk moradabad/Unk college/ALL details/ALL/Unk
 
-Hindu College of Education, Guntur college/ALL details/ALL
+hindu/Unk college/Unk of/Unk education/Unk guntur/Unk college/ALL details/ALL/Unk
 
-Hindu College of Education, Hisar college/ALL details/ALL
+hindu/Unk college/Unk of/Unk education/Unk hisar/Unk college/ALL details/ALL/Unk
 
-South Travancore Hindu College Nagercoil, Kanchipuram college/ALL details/ALL
+south/Unk travancore/Unk hindu/Unk college/Unk nagercoil/Unk kanchipuram/Unk college/ALL details/ALL/Unk
 
-NSS Hindu College, Changanacherry college/ALL details/ALL
+nss/Unk hindu/Unk college/Unk changanacherry/Unk college/ALL details/ALL/Unk
 
-S.T. Hindu College of Education, Kanyakumari college/ALL details/ALL
+st/Unk hindu/Unk college/Unk of/Unk education/Unk kanyakumari/Unk college/ALL details/ALL/Unk
 
-Gobardanga Hindu College, North 24 Parganas college/ALL details/ALL
+gobardanga/Unk hindu/Unk college/Unk north/Unk 24/Unk parganas/Unk college/ALL details/ALL/Unk
 
-Hindu College of Pharmacy, Guntur college/ALL details/ALL
+hindu/Unk college/Unk of/Unk pharmacy/Unk guntur/Unk college/ALL details/ALL/Unk
 
-Indian Institute of Management - [IIMK], Kozhikode college/ALL details/ALL
+indian/Unk institute/Unk of/Unk management/Unk iimk/Unk kozhikode/Unk college/ALL details/ALL/Unk
 
-Hindu College of Engineering and Techonology, Guntur college/ALL details/ALL
+hindu/Unk college/Unk of/Unk engineering/Unk and/Unk techonology/Unk guntur/Unk college/ALL details/ALL/Unk
 
-The M.D.T.Hindu College, Tirunelveli college/ALL details/ALL
+the/Unk mdthindu/Unk college/Unk tirunelveli/Unk college/ALL details/ALL/Unk
 
-Hindu College of Pharmacy, Sonepat college/ALL details/ALL
+hindu/Unk college/Unk of/Unk pharmacy/Unk sonepat/Unk college/ALL details/ALL/Unk
 
-Sh. L.N Hindu College, Rohtak college/ALL details/ALL
+sh/Unk ln/Unk hindu/Unk college/Unk rohtak/Unk college/ALL details/ALL/Unk
 
-ILS Law College - [ILS], Pune college/ALL details/ALL
+ils/Unk law/Unk college/Unk ils/Unk pune/Unk college/ALL details/ALL/Unk
 
-Hindu College, Guntur college/ALL details/ALL
+hindu/Unk college/Unk guntur/Unk college/ALL details/ALL/Unk
 
-Hindu College, Amritsar college/ALL details/ALL
+hindu/Unk college/Unk amritsar/Unk college/ALL details/ALL/Unk
 
-Daita Sriramulu Hindu College of Law, Machilipatnam college/ALL details/ALL
+daita/Unk sriramulu/Unk hindu/Unk college/Unk of/Unk law/Unk machilipatnam/Unk college/ALL details/ALL/Unk
 
-Dharmamurthi Rao Bahadur Calavala Cunnan Chettys Hindu College - [DRBCCC], Chennai college/ALL details/ALL
+dharmamurthi/Unk rao/Unk bahadur/Unk calavala/Unk cunnan/Unk chettys/Unk hindu/Unk college/Unk drbccc/Unk chennai/Unk college/ALL details/ALL/Unk
 
-Ramjas College, New Delhi college/ALL details/ALL
+ramjas/Unk college/Unk new/Unk delhi/Unk college/ALL details/ALL/Unk
 
-Thapar Institute of Engineering and Technology University - [Thapar University], Patiala college/ALL details/ALL
+thapar/Unk institute/Unk of/Unk engineering/Unk and/Unk technology/Unk university/Unk thapar/Unk university/Unk patiala/Unk college/ALL details/ALL/Unk
 
-Madras Christian College - [MCC], Chennai facilities/FACILITY
+madras/Unk christian/Unk college/Unk mcc/Unk chennai/Unk facilities/FACILITY/Unk
 
-International Management Institute - [IMI], New Delhi facilities/FACILITY
+international/Unk management/Unk institute/Unk imi/Unk new/Unk delhi/Unk facilities/FACILITY/Unk
 
-Army Institute of Law - [AIL], Mohali facilities/FACILITY
+army/Unk institute/Unk of/Unk law/Unk ail/Unk mohali/Unk facilities/FACILITY/Unk
 
-Government Medical College and Hospital - [GMCH], Chandigarh facilities/FACILITY
+government/Unk medical/Unk college/Unk and/Unk hospital/Unk gmch/Unk chandigarh/Unk facilities/FACILITY/Unk
 
-Indian Institute of Information Technology - [IIIT], Allahabad facilities/FACILITY
+indian/Unk institute/Unk of/Unk information/Unk technology/Unk iiit/Unk allahabad/Unk facilities/FACILITY/Unk
 
-Goa Medical College and Hospital, Bicholim facilities/FACILITY
+goa/Unk medical/Unk college/Unk and/Unk hospital/Unk bicholim/Unk facilities/FACILITY/Unk
 
-Shri Vasantrao Naik Government Medical College and Hospital - [SVNGMC], Yavatmal facilities/FACILITY
+shri/Unk vasantrao/Unk naik/Unk government/Unk medical/Unk college/Unk and/Unk hospital/Unk svngmc/Unk yavatmal/Unk facilities/FACILITY/Unk
 
-Mahatma Gandhi Medical College and Hospital, Jaipur facilities/FACILITY
+mahatma/Unk gandhi/Unk medical/Unk college/Unk and/Unk hospital/Unk jaipur/Unk facilities/FACILITY/Unk
 
-Pacific Medical College and Hospital - [PMCH], Udaipur facilities/FACILITY
+pacific/Unk medical/Unk college/Unk and/Unk hospital/Unk pmch/Unk udaipur/Unk facilities/FACILITY/Unk
 
-Pt. Jawahar Lal Nehru Government Medical College and Hospital - [GMCH], Chamba facilities/FACILITY
+pt/Unk jawahar/Unk lal/Unk nehru/Unk government/Unk medical/Unk college/Unk and/Unk hospital/Unk gmch/Unk chamba/Unk facilities/FACILITY/Unk
 
-SLN Medical College and Hospital, Koraput facilities/FACILITY
+sln/Unk medical/Unk college/Unk and/Unk hospital/Unk koraput/Unk facilities/FACILITY/Unk
 
-JSS Medical College and Hospital, Mysore facilities/FACILITY
+jss/Unk medical/Unk college/Unk and/Unk hospital/Unk mysore/Unk facilities/FACILITY/Unk
 
-Vinayaka Missions Medical College and Hospital - [VMMCH], Karaikal facilities/FACILITY
+vinayaka/Unk missions/Unk medical/Unk college/Unk and/Unk hospital/Unk vmmch/Unk karaikal/Unk facilities/FACILITY/Unk
 
-Bharati Vidyapeeth Deemed University Medical College and Hospital, Sangli facilities/FACILITY
+bharati/Unk vidyapeeth/Unk deemed/Unk university/Unk medical/Unk college/Unk and/Unk hospital/Unk sangli/Unk facilities/FACILITY/Unk
 
-Maharaja Krishna Chandra Gajapati Medical College and Hospital - [MKCG], Berhampur facilities/FACILITY
+maharaja/Unk krishna/Unk chandra/Unk gajapati/Unk medical/Unk college/Unk and/Unk hospital/Unk mkcg/Unk berhampur/Unk facilities/FACILITY/Unk
 
-Katuri Medical College and Hospital, Guntur facilities/FACILITY
+katuri/Unk medical/Unk college/Unk and/Unk hospital/Unk guntur/Unk facilities/FACILITY/Unk
 
-Bakson Homoeopathic Medical College and Hospital - [BHMCH], Greater Noida facilities/FACILITY
+bakson/Unk homoeopathic/Unk medical/Unk college/Unk and/Unk hospital/Unk bhmch/Unk greater/Unk noida/Unk facilities/FACILITY/Unk
 
-Anugrah Narayan Magadh Medical College and Hospital - [ANMMCH], Gaya facilities/FACILITY
+anugrah/Unk narayan/Unk magadh/Unk medical/Unk college/Unk and/Unk hospital/Unk anmmch/Unk gaya/Unk facilities/FACILITY/Unk
 
-District Homoeopathic Medical College and Hospital - [DHMCH], Ratlam facilities/FACILITY
+district/Unk homoeopathic/Unk medical/Unk college/Unk and/Unk hospital/Unk dhmch/Unk ratlam/Unk facilities/FACILITY/Unk
 
-Sree Balaji Medical College and Hospital - [SBMCH], Chennai facilities/FACILITY
+sree/Unk balaji/Unk medical/Unk college/Unk and/Unk hospital/Unk sbmch/Unk chennai/Unk facilities/FACILITY/Unk
 
-Gauhati Medical College and Hospital - [GMCH], Guwahati facilities/FACILITY
+gauhati/Unk medical/Unk college/Unk and/Unk hospital/Unk gmch/Unk guwahati/Unk facilities/FACILITY/Unk
 
-Chirayu Medical College and Hospital - [CMCH], Bhopal facilities/FACILITY
+chirayu/Unk medical/Unk college/Unk and/Unk hospital/Unk cmch/Unk bhopal/Unk facilities/FACILITY/Unk
 
-Annapoorna Medical College and Hospital, Salem facilities/FACILITY
+annapoorna/Unk medical/Unk college/Unk and/Unk hospital/Unk salem/Unk facilities/FACILITY/Unk
 
-Basaveshwara Medical College and Hospital - [BMCH], Chitradurga facilities/FACILITY
+basaveshwara/Unk medical/Unk college/Unk and/Unk hospital/Unk bmch/Unk chitradurga/Unk facilities/FACILITY/Unk
 
-Z.V.M. Unani Medical College and Hospital, Pune facilities/FACILITY
+zvm/Unk unani/Unk medical/Unk college/Unk and/Unk hospital/Unk pune/Unk facilities/FACILITY/Unk
 
-Dr. Somervell Memorial CSI Medical College and Hospital - [Dr. SMCSI], Thiruvananthapuram facilities/FACILITY
+dr/Unk somervell/Unk memorial/Unk csi/Unk medical/Unk college/Unk and/Unk hospital/Unk dr/Unk smcsi/Unk thiruvananthapuram/Unk facilities/FACILITY/Unk
 
-JSS Ayurvedic Medical College and Hospital - [JSSAMC], Mysore facilities/FACILITY
+jss/Unk ayurvedic/Unk medical/Unk college/Unk and/Unk hospital/Unk jssamc/Unk mysore/Unk facilities/FACILITY/Unk
 
-Sri Shivayogeeshwar Rural Ayurvedic Medical College and Hospital facilities/FACILITY
+sri/Unk shivayogeeshwar/Unk rural/Unk ayurvedic/Unk medical/Unk college/Unk and/Unk hospital/Unk facilities/FACILITY/Unk
 
-, Belgaum facilities/FACILITY
+/Unk belgaum/Unk facilities/FACILITY/Unk
 
-KVG Medical College and Hospital, Sullia facilities/FACILITY
+kvg/Unk medical/Unk college/Unk and/Unk hospital/Unk sullia/Unk facilities/FACILITY/Unk
 
-Sri Ram Chandra Bhanj Medical College and Hospital - [SCBMCH], Cuttack facilities/FACILITY
+sri/Unk ram/Unk chandra/Unk bhanj/Unk medical/Unk college/Unk and/Unk hospital/Unk scbmch/Unk cuttack/Unk facilities/FACILITY/Unk
 
-MES Medical College and Hospital, Malappuram facilities/FACILITY
+mes/Unk medical/Unk college/Unk and/Unk hospital/Unk malappuram/Unk facilities/FACILITY/Unk
 
-Narayana Medical College and Hospital, Nellore facilities/FACILITY
+narayana/Unk medical/Unk college/Unk and/Unk hospital/Unk nellore/Unk facilities/FACILITY/Unk
 
-Sri Manakula Vinayagar Medical College and Hospital - [SMVMCH], Pondicherry facilities/FACILITY
+sri/Unk manakula/Unk vinayagar/Unk medical/Unk college/Unk and/Unk hospital/Unk smvmch/Unk pondicherry/Unk facilities/FACILITY/Unk
 
-Government Medical College and Hospital, Aurangabad facilities/FACILITY
+government/Unk medical/Unk college/Unk and/Unk hospital/Unk aurangabad/Unk facilities/FACILITY/Unk
 
-Government Sivagangai Medical College and Hospital, Sivaganga facilities/FACILITY
+government/Unk sivagangai/Unk medical/Unk college/Unk and/Unk hospital/Unk sivaganga/Unk facilities/FACILITY/Unk
 
-Government Villupuram Medical College and Hospital, Villupuram facilities/FACILITY
+government/Unk villupuram/Unk medical/Unk college/Unk and/Unk hospital/Unk villupuram/Unk facilities/FACILITY/Unk
 
-GMERS Medical College and Hospital, Ahmedabad facilities/FACILITY
+gmers/Unk medical/Unk college/Unk and/Unk hospital/Unk ahmedabad/Unk facilities/FACILITY/Unk
 
-A.C.S. Medical College and Hospital, Chennai facilities/FACILITY
+acs/Unk medical/Unk college/Unk and/Unk hospital/Unk chennai/Unk facilities/FACILITY/Unk
 
-R. G. Kar Medical College and Hospital - [RGKMCH], Kolkata facilities/FACILITY
+r/Unk g/Unk kar/Unk medical/Unk college/Unk and/Unk hospital/Unk rgkmch/Unk kolkata/Unk facilities/FACILITY/Unk
 
-Bangalore Medical College and Research Institute - [BMCRI], Bangalore facilities/FACILITY
+bangalore/Unk medical/Unk college/Unk and/Unk research/Unk institute/Unk bmcri/Unk bangalore/Unk facilities/FACILITY/Unk
+
+architecture/STREAM fees/FEES structure/NONE in/NONE maulana/Unk azad/Unk institute/Unk of/Unk dental/Unk sciences/Unk maids/Unk new/Unk delhi/Unk
+
+arts/STREAM fees/FEES structure/NONE in/NONE manipal/Unk college/Unk of/Unk dental/Unk sciences/Unk mcods/Unk mangalore/Unk
+
+aviation/STREAM fees/FEES structure/NONE in/NONE sdm/Unk college/Unk of/Unk dental/Unk sciences/Unk and/Unk hospital/Unk sattur/Unk dharwad/Unk
+
+commerce/STREAM fees/FEES structure/NONE in/NONE dayananda/Unk sagar/Unk college/Unk of/Unk engineering/Unk dsce/Unk bangalore/Unk
+
+computer/STREAM application/STREAM fees/FEES structure/NONE in/NONE government/Unk dental/Unk college/Unk &/Unk hospital/Unk mumbai/Unk
+
+dental/STREAM fees/FEES structure/NONE in/NONE pt/Unk bhagwat/Unk dayal/Unk sharma/Unk post/Unk graduate/Unk institute/Unk of/Unk medical/Unk sciences/Unk pgims/Unk rohtak/Unk
+
+design/STREAM fees/FEES structure/NONE in/NONE sri/Unk balaji/Unk chockalingam/Unk engineering/Unk college/Unk tiruvannamalai/Unk
+
+education/STREAM fees/FEES structure/NONE in/NONE hindustan/Unk institute/Unk of/Unk technology/Unk and/Unk science/Unk hits/Unk chennai/Unk
+
+engineering/STREAM fee/FEE structure/NONE in/NONE dr/Unk r/Unk ahmed/Unk dental/Unk college/Unk and/Unk hospital/Unk kolkata/Unk
+
+law/STREAM fee/FEE structure/NONE in/NONE srm/Unk dental/Unk college/Unk chennai/Unk
+
+management/STREAM fee/FEE structure/NONE in/NONE rukmini/Unk devi/Unk institute/Unk of/Unk advanced/Unk studies/Unk rdias/Unk new/Unk delhi/Unk
+
+mass/STREAM communication/STREAM and/STREAM media/STREAM fee/FEE structure/NONE in/NONE christian/Unk medical/Unk college/Unk cmc/Unk vellore/Unk
+
+medical/STREAM fee/FEE structure/NONE in/NONE armed/Unk forces/Unk medical/Unk college/Unk afmc/Unk pune/Unk
+
+paramedical/STREAM fee/FEE structure/NONE in/NONE srm/Unk university/Unk kattankulathur/Unk campus/Unk srm/Unk kanchipuram/Unk
+
+pharmacy/STREAM fees/FEES structure/NONE in/NONE acharya/Unk and/Unk bm/Unk reddy/Unk college/Unk of/Unk pharmacy/Unk bangalore/Unk
+
+veterinary/STREAM sciences/STREAM fee/FEE structure/NONE in/NONE indian/Unk institute/Unk of/Unk technology/Unk madras/Unk iitm/Unk chennai/Unk
+
+btech/SUBSTREAM fee/FEE structure/NONE in/NONE indian/Unk institute/Unk of/Unk technology/Unk iit/Unk mumbai/Unk
+
+mtech/SUBSTREAM fee/FEE structure/NONE in/NONE international/Unk institute/Unk of/Unk information/Unk technology/Unk iiit/Unk hyderabad/Unk
+
+mba/SUBSTREAM fees/FEES structure/NONE in/NONE punjab/Unk engineering/Unk college/Unk university/Unk of/Unk technology/Unk pec/Unk chandigarh/Unk
+
+bba/SUBSTREAM fee/FEE structure/NONE in/NONE indian/Unk institute/Unk of/Unk technology/Unk iit/Unk bhubaneswar/Unk
+
+llb/SUBSTREAM fees/FEES structure/NONE in/NONE indian/Unk institute/Unk of/Unk information/Unk technology/Unk iiit/Unk allahabad/Unk
+
+llm/SUBSTREAM fees/FEES structure/NONE in/NONE mit/Unk school/Unk of/Unk business/Unk misob/Unk pune/Unk
+
+mbbs/SUBSTREAM fees/FEES structure/NONE in/NONE indian/Unk institute/Unk of/Unk technology/Unk iit/Unk patna/Unk
+
+ms/SUBSTREAM fee/FEE structure/NONE in/NONE indian/Unk institute/Unk of/Unk technology/Unk iit/Unk gandhi/Unk nagar/Unk
+
+md/SUBSTREAM fee/FEE structure/NONE in/NONE indian/Unk institute/Unk of/Unk technology/Unk iit/Unk mandi/Unk
+
+bcom/SUBSTREAM fee/FEE structure/NONE in/NONE alagappa/Unk chettiar/Unk college/Unk of/Unk engineering/Unk and/Unk technology/Unk karaikudi/Unk
+
+mcom/SUBSTREAM fee/FEE structure/NONE in/NONE itm/Unk university/Unk gwalior/Unk
+
+bdes/SUBSTREAM fee/FEE structure/NONE in/NONE indian/Unk institute/Unk of/Unk technology/Unk iit/Unk indore/Unk
+
+mdes/SUBSTREAM fee/FEE structure/NONE in/NONE ies/Unk management/Unk college/Unk and/Unk research/Unk centre/Unk ies/Unk mcrc/Unk mumbai/Unk
+
+ba/SUBSTREAM fee/FEE structure/NONE in/NONE dr/Unk ambedkar/Unk college/Unk of/Unk law/Unk mumbai/Unk
+
+ma/SUBSTREAM fee/FEE structure/NONE in/NONE national/Unk institute/Unk of/Unk technology/Unk nitd/Unk new/Unk delhi/Unk
+
+bca/SUBSTREAM fee/FEE structure/NONE in/NONE pt/Unk ravishankar/Unk shukla/Unk university/Unk prsu/Unk raipur/Unk
+
+mca/SUBSTREAM fee/FEE structure/NONE in/NONE thapar/Unk institute/Unk of/Unk engineering/Unk and/Unk technology/Unk university/Unk thapar/Unk university/Unk patiala/Unk
+
+bds/SUBSTREAM fee/FEE structure/NONE in/NONE erode/Unk sengunthar/Unk engineering/Unk college/Unk erode/Unk
+
+mds/SUBSTREAM fee/FEE structure/NONE in/NONE dr/Unk br/Unk ambedkar/Unk national/Unk institute/Unk of/Unk technology/Unk nit/Unk jalandhar/Unk
+
+barch/SUBSTREAM fee/FEE structure/NONE in/NONE francis/Unk xavier/Unk engineering/Unk college/Unk tirunelveli/Unk
+
+march/SUBSTREAM fee/FEE structure/NONE in/NONE amrita/Unk institute/Unk of/Unk technology/Unk &/Unk science/Unk bangalore/Unk
+
+bmm/SUBSTREAM fee/FEE structure/NONE in/NONE narula/Unk institute/Unk of/Unk technology/Unk nit/Unk agarpara/Unk kolkata/Unk
+
+mmc/SUBSTREAM fee/FEE structure/NONE in/NONE muffakham/Unk jah/Unk college/Unk of/Unk engineering/Unk &/Unk technology/Unk mjcet/Unk hyderabad/Unk
+
+bpharm/SUBSTREAM fee/FEE structure/NONE in/NONE tamil/Unk nadu/Unk agricultural/Unk university/Unk tnau/Unk coimbatore/Unk
+
+mpharm/SUBSTREAM fee/FEE structure/NONE in/NONE bangalore/Unk institute/Unk of/Unk technology/Unk bit/Unk bangalore/Unk
+
+bvsc/SUBSTREAM fee/FEE structure/NONE in/NONE kolkata/Unk medical/Unk college/Unk kolkata/Unk
+
+mvsc/SUBSTREAM fee/FEE structure/NONE in/NONE national/Unk institute/Unk of/Unk technology/Unk nit/Unk agartala/Unk
+
+bsc/SUBSTREAM fee/FEE structure/NONE in/NONE k/Unk j/Unk somaiya/Unk college/Unk of/Unk engineering/Unk kjsce/Unk mumbai/Unk
+
+msc/SUBSTREAM fee/FEE structure/NONE in/NONE national/Unk institute/Unk of/Unk technology/Unk nit/Unk jamshedpur/Unk
+
+bed/SUBSTREAM fee/FEE structure/NONE in/NONE international/Unk institute/Unk of/Unk business/Unk studies/Unk iibs/Unk bangalore/Unk
+
+med/SUBSTREAM fee/FEE structure/NONE in/NONE guru/Unk tegh/Unk bahadur/Unk institute/Unk of/Unk technology/Unk gtbit/Unk new/Unk delhi/Unk
+
+architecture/STREAM eligibility/EXAM criteria/NONE in/NONE paavai/Unk engineering/Unk college/Unk (autonomous)/Unk namakkal/Unk
+
+arts/STREAM eligibility/EXAM criteria/NONE in/NONE maharaja/Unk agrasen/Unk institute/Unk of/Unk technology/Unk mait/Unk new/Unk delhi/Unk
+
+aviation/STREAM eligibility/EXAM criteria/NONE in/NONE ajay/Unk kumar/Unk garg/Unk engineering/Unk college/Unk akgec/Unk ghaziabad/Unk
+
+commerce/STREAM eligibility/EXAM criteria/NONE in/NONE indian/Unk institute/Unk of/Unk technology/Unk iit/Unk kharagpur/Unk
+
+computer/STREAM application/STREAM eligibility/EXAM criteria/NONE in/NONE inderprastha/Unk engineering/Unk college/Unk ipec/Unk ghaziabad/Unk
+
+dental/STREAM eligibility/EXAM criteria/NONE in/NONE indian/Unk institute/Unk of/Unk technology/Unk iit/Unk roorkee/Unk
+
+design/STREAM eligibility/EXAM criteria/NONE in/NONE university/Unk institute/Unk of/Unk chemical/Unk engineering/Unk and/Unk technology/Unk panjab/Unk university/Unk uicte/Unk chandigarh/Unk
+
+education/STREAM eligibility/EXAM criteria/NONE in/NONE sir/Unk jj/Unk college/Unk of/Unk architecture/Unk sjjca/Unk mumbai/Unk
+
+engineering/STREAM eligibility/EXAM criteria/NONE in/NONE velammal/Unk engineering/Unk college/Unk vec/Unk chennai/Unk
+
+law/STREAM eligibility/EXAM criteria/NONE in/NONE iimt/Unk engineering/Unk college/Unk meerut/Unk
+
+management/STREAM eligibility/EXAM criteria/NONE in/NONE birla/Unk institute/Unk of/Unk technology/Unk bit/Unk mesra/Unk ranchi/Unk
+
+mass/STREAM communication/STREAM and/STREAM media/STREAM eligibility/EXAM criteria/NONE in/NONE gnanam/Unk school/Unk of/Unk business/Unk gsb/Unk thanjavur/Unk
+
+medical/STREAM eligibility/EXAM criteria/NONE in/NONE chandigarh/Unk college/Unk of/Unk architecture/Unk cca/Unk chandigarh/Unk
+
+paramedical/STREAM eligibility/EXAM criteria/NONE in/NONE noorul/Unk islam/Unk university/Unk kanyakumari/Unk
+
+pharmacy/STREAM eligibility/EXAM criteria/NONE in/NONE sushant/Unk school/Unk of/Unk art/Unk and/Unk architecture/Unk ssaa/Unk gurgaon/Unk
+
+veterinary/STREAM sciences/STREAM eligibility/EXAM criteria/NONE in/NONE national/Unk institute/Unk of/Unk technology/Unk nitc/Unk calicut/Unk
+
+btech/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE madras/Unk christian/Unk college/Unk mcc/Unk chennai/Unk
+
+mtech/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE indian/Unk institute/Unk of/Unk information/Unk technology/Unk design/Unk and/Unk manufacturing/Unk iiitdm/Unk jabalpur/Unk
+
+mba/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE icfai/Unk foundation/Unk for/Unk higher/Unk education/Unk ifhe/Unk hyderabad/Unk
+
+bba/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE sophia/Unk college/Unk for/Unk women/Unk mumbai/Unk
+
+llb/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE kishinchand/Unk chellaram/Unk college/Unk kc/Unk college/Unk churchgate/Unk mumbai/Unk
+
+llm/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE aissms/Unk institute/Unk of/Unk information/Unk technology/Unk aissmsiot/Unk pune/Unk
+
+mbbs/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE vignan/Unk university/Unk vu/Unk guntur/Unk
+
+ms/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE g/Unk pulla/Unk reddy/Unk engineering/Unk college/Unk gprec/Unk kurnool/Unk
+
+md/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE keshav/Unk mahavidyalaya/Unk new/Unk delhi/Unk
+
+bcom/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE government/Unk college/Unk of/Unk engineering/Unk geca/Unk aurangabad/Unk
+
+mcom/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE maulana/Unk azad/Unk medical/Unk college/Unk mamc/Unk new/Unk delhi/Unk
+
+bdes/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE thiagarajar/Unk college/Unk of/Unk engineering/Unk tce/Unk madurai/Unk
+
+mdes/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE jawaharlal/Unk nehru/Unk technological/Unk university/Unk jntuh/Unk hyderabad/Unk
+
+ba/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE lady/Unk hardinge/Unk medical/Unk college/Unk lhmc/Unk new/Unk delhi/Unk
+
+ma/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE dwarkadas/Unk j/Unk sanghvi/Unk college/Unk of/Unk engineering/Unk djsce/Unk mumbai/Unk
+
+bca/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE jawaharlal/Unk nehru/Unk technological/Unk university/Unk jntu/Unk ananthapur/Unk
+
+mca/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE seth/Unk gs/Unk medical/Unk college/Unk gsmc/Unk mumbai/Unk
+
+bds/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE jamia/Unk millia/Unk islamia/Unk universi/Unk jmi/Unk new/Unk delhi/Unk
+
+mds/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE christian/Unk medical/Unk college/Unk cmc/Unk ludhiana/Unk
+
+barch/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE sir/Unk m/Unk visvesvaraya/Unk institute/Unk of/Unk technology/Unk sir/Unk mvit/Unk bangalore/Unk
+
+march/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE symbiosis/Unk centre/Unk for/Unk management/Unk and/Unk human/Unk resource/Unk development/Unk scmhrd/Unk pune/Unk
+
+bmm/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE osmania/Unk medical/Unk college/Unk omc/Unk hyderabad/Unk
+
+mmc/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE stanley/Unk medical/Unk college/Unk chennai/Unk
+
+bpharm/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE meenakshi/Unk sundararajan/Unk engineering/Unk college/Unk msec/Unk chennai/Unk
+
+mpharm/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE m/Unk kumarasamy/Unk college/Unk of/Unk engineering/Unk (autonomous)/Unk karur/Unk
+
+bvsc/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE dharmsinh/Unk desai/Unk university/Unk ddu/Unk nadiad/Unk
+
+mvsc/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE national/Unk institute/Unk of/Unk technology/Unk nit/Unk shillong/Unk
+
+bsc/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE rmk/Unk engineering/Unk college/Unk rmkec/Unk thiruvallur/Unk
+
+msc/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE rajendra/Unk mane/Unk college/Unk of/Unk engineering/Unk and/Unk technology/Unk rmcet/Unk ratnagiri/Unk
+
+bed/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE institute/Unk of/Unk management/Unk nirma/Unk university/Unk ahmedabad/Unk
+
+med/SUBSTREAM eligibility/EXAM criteria/NONE in/NONE mvj/Unk college/Unk of/Unk engineering/Unk mvjce/Unk bangalore/Unk
+
+architecture/STREAM seats/SEATS in/NONE university/Unk college/Unk of/Unk medical/Unk sciences/Unk ucms/Unk new/Unk delhi/Unk
+
+arts/STREAM seats/SEATS in/NONE sardar/Unk patel/Unk college/Unk of/Unk engineering/Unk spce/Unk mumbai/Unk
+
+aviation/STREAM seats/SEATS in/NONE shri/Unk vaishnav/Unk institute/Unk of/Unk technology/Unk &/Unk science/Unk svits/Unk indore/Unk
+
+commerce/STREAM seats/SEATS in/NONE army/Unk institute/Unk of/Unk management/Unk and/Unk technology/Unk aimt/Unk greater/Unk noida/Unk
+
+computer/STREAM application/STREAM seats/SEATS in/NONE sree/Unk vidyanikethan/Unk engineering/Unk college/Unk svec/Unk tirupati/Unk
+
+dental/STREAM seats/SEATS in/NONE sri/Unk jayachamarajendra/Unk college/Unk of/Unk engineering/Unk sjce/Unk mysore/Unk
+
+design/STREAM seats/SEATS in/NONE mop/Unk vaishnav/Unk college/Unk for/Unk women/Unk chennai/Unk
+
+education/STREAM seats/SEATS in/NONE sri/Unk venkateswara/Unk college/Unk of/Unk engineering/Unk svce/Unk tirupati/Unk
+
+engineering/STREAM seats/SEATS in/NONE the/Unk iis/Unk university/Unk iisu/Unk jaipur/Unk
+
+law/STREAM seats/SEATS in/NONE vasavi/Unk college/Unk of/Unk engineering/Unk vce/Unk hyderabad/Unk
+
+management/STREAM seats/SEATS in/NONE sacred/Unk heart/Unk college/Unk sh/Unk thevara/Unk /Unk ernakulam/Unk
+
+mass/STREAM communication/STREAM and/STREAM media/STREAM seats/SEATS in/NONE loyola/Unk college/Unk chennai/Unk
+
+medical/STREAM seats/SEATS in/NONE prakasam/Unk engineering/Unk college/Unk pec/Unk kandukur/Unk
+
+paramedical/STREAM seats/SEATS in/NONE mksss's/Unk cummins/Unk college/Unk of/Unk engineering/Unk for/Unk women/Unk pune/Unk
+
+pharmacy/STREAM seats/SEATS in/NONE institute/Unk of/Unk technology/Unk nirma/Unk university/Unk ahmedabad/Unk
+
+veterinary/STREAM sciences/STREAM seats/SEATS in/NONE indira/Unk gandhi/Unk institute/Unk of/Unk technolog/Unk igit/Unk dhenkanal/Unk
+
+btech/SUBSTREAM seats/SEATS in/NONE saintgits/Unk college/Unk of/Unk engineering/Unk kottayam/Unk
+
+mtech/SUBSTREAM seats/SEATS in/NONE banarsidas/Unk chandiwala/Unk institute/Unk of/Unk professional/Unk studies/Unk bcips/Unk new/Unk delhi/Unk
+
+mba/SUBSTREAM seats/SEATS in/NONE ssn/Unk college/Unk of/Unk engineering/Unk ssnce/Unk chennai/Unk
+
+bba/SUBSTREAM seats/SEATS in/NONE musaliar/Unk college/Unk of/Unk engineering/Unk and/Unk technology/Unk pathanamthitta/Unk
+
+llb/SUBSTREAM seats/SEATS in/NONE government/Unk college/Unk of/Unk technology/Unk gct/Unk coimbatore/Unk
+
+llm/SUBSTREAM seats/SEATS in/NONE bhagwant/Unk institute/Unk of/Unk technology/Unk bit/Unk ghaziabad/Unk
+
+mbbs/SUBSTREAM seats/SEATS in/NONE amity/Unk school/Unk of/Unk engineering/Unk ase/Unk noida/Unk
+
+ms/SUBSTREAM seats/SEATS in/NONE ram/Unk meghe/Unk institute/Unk of/Unk technology/Unk and/Unk research/Unk rmitr/Unk amravati/Unk
+
+md/SUBSTREAM seats/SEATS in/NONE lr/Unk institute/Unk of/Unk pharmacy/Unk solan/Unk
+
+bcom/SUBSTREAM seats/SEATS in/NONE icfai/Unk business/Unk school/Unk ibs/Unk hyderabad/Unk
+
+mcom/SUBSTREAM seats/SEATS in/NONE university/Unk institute/Unk of/Unk pharmaceutical/Unk sciences/Unk chandigarh/Unk
+
+bdes/SUBSTREAM seats/SEATS in/NONE mallige/Unk college/Unk of/Unk pharmacy/Unk bangalore/Unk
+
+mdes/SUBSTREAM seats/SEATS in/NONE dr/Unk mahalingam/Unk college/Unk of/Unk engineering/Unk &/Unk technology/Unk mcet/Unk coimbatore/Unk
+
+ba/SUBSTREAM seats/SEATS in/NONE manipal/Unk college/Unk of/Unk pharmaceutical/Unk sciences/Unk mcops/Unk manipal/Unk
+
+ma/SUBSTREAM seats/SEATS in/NONE fergusson/Unk college/Unk pune/Unk
+
+bca/SUBSTREAM seats/SEATS in/NONE bombay/Unk college/Unk of/Unk pharmacy/Unk bcp/Unk mumbai/Unk
+
+mca/SUBSTREAM seats/SEATS in/NONE g/Unk h/Unk patel/Unk college/Unk of/Unk engineering/Unk &/Unk technology/Unk gcet/Unk vallabh/Unk vidyanagar/Unk
+
+bds/SUBSTREAM seats/SEATS in/NONE lm/Unk college/Unk of/Unk pharmacy/Unk lmcp/Unk ahmedabad/Unk
+
+mds/SUBSTREAM seats/SEATS in/NONE rajasthan/Unk institute/Unk of/Unk engineering/Unk and/Unk technology/Unk riet/Unk jaipur/Unk
+
+barch/SUBSTREAM seats/SEATS in/NONE nri/Unk institute/Unk of/Unk information/Unk science/Unk and/Unk technology/Unk niist/Unk bhopal/Unk
+
+march/SUBSTREAM seats/SEATS in/NONE goa/Unk college/Unk of/Unk pharmacy/Unk panji/Unk
+
+bmm/SUBSTREAM seats/SEATS in/NONE nandha/Unk college/Unk of/Unk pharmacy/Unk ncp/Unk erode/Unk
+
+mmc/SUBSTREAM seats/SEATS in/NONE poona/Unk college/Unk of/Unk pharmacy/Unk pune/Unk
+
+bpharm/SUBSTREAM seats/SEATS in/NONE sethu/Unk institute/Unk of/Unk technology/Unk villupuram/Unk
+
+mpharm/SUBSTREAM seats/SEATS in/NONE indian/Unk institute/Unk of/Unk management/Unk iim/Unk raipur/Unk
+
+bvsc/SUBSTREAM seats/SEATS in/NONE a/Unk ameen/Unk college/Unk of/Unk pharmacy/Unk bangalore/Unk
+
+mvsc/SUBSTREAM seats/SEATS in/NONE chirala/Unk engineering/Unk college/Unk cecc/Unk prakasam/Unk
+
+bsc/SUBSTREAM seats/SEATS in/NONE amrita/Unk school/Unk of/Unk medicine/Unk kochi/Unk
+
+msc/SUBSTREAM seats/SEATS in/NONE kristu/Unk jayanti/Unk college/Unk kjc/Unk bangalore/Unk
+
+bed/SUBSTREAM seats/SEATS in/NONE jamia/Unk hamdard/Unk university/Unk new/Unk delhi/Unk
+
+med/SUBSTREAM seats/SEATS in/NONE madras/Unk medical/Unk college/Unk mmc/Unk chennai/Unk
+
+facilities/FACILITY in/NONE indian/Unk institute/Unk of/Unk management/Unk iim/Unk ahmedabad/Unk
+
+facilities/FACILITY in/NONE indian/Unk institute/Unk of/Unk management/Unk iim/Unk shillong/Unk
+
+facilities/FACILITY in/NONE sinhgad/Unk institute/Unk of/Unk pharmacy/Unk siop/Unk narhe/Unk pune/Unk
+
+facilities/FACILITY in/NONE indian/Unk institute/Unk of/Unk management/Unk iimb/Unk bangalore/Unk
+
+facilities/FACILITY in/NONE indian/Unk institute/Unk of/Unk management/Unk iimu/Unk udaipur/Unk
+
+facilities/FACILITY in/NONE amrita/Unk school/Unk of/Unk pharmacy/Unk kochi/Unk
+
+facilities/FACILITY in/NONE indian/Unk institute/Unk of/Unk management/Unk iim/Unk thiruchirapalli/Unk
+
+facilities/FACILITY in/NONE cambridge/Unk institute/Unk of/Unk technology/Unk cit/Unk ranchi/Unk
+
+facilities/FACILITY in/NONE psg/Unk college/Unk of/Unk pharmacy/Unk psgcp/Unk coimbatore/Unk
+
+facilities/FACILITY in/NONE mit/Unk academy/Unk of/Unk engineering/Unk mitaoe/Unk alandi/Unk /Unk pune/Unk
+
+facilities/FACILITY in/NONE indian/Unk institute/Unk of/Unk management/Unk iim/Unk lucknow/Unk
+
+facilities/FACILITY in/NONE xavier/Unk labour/Unk relations/Unk institute/Unk xlri/Unk jamshedpur/Unk
+
+facilities/FACILITY in/NONE indian/Unk institute/Unk of/Unk management/Unk iimk/Unk kozhikode/Unk
+
+facilities/FACILITY in/NONE jamnalal/Unk bajaj/Unk institute/Unk of/Unk management/Unk studie/Unk jbims/Unk mumbai/Unk
+
+facilities/FACILITY in/NONE bharati/Unk vidyapeeth/Unk college/Unk of/Unk pharmacy/Unk kolhapur/Unk
+
+facilities/FACILITY in/NONE shailesh/Unk j/Unk mehta/Unk school/Unk of/Unk management/Unk iit/Unk bombay/Unk sjmsom/Unk mumbai/Unk
+
+facilities/FACILITY in/NONE ssm/Unk college/Unk of/Unk engineering/Unk namakkal/Unk
+
+facilities/FACILITY in/NONE national/Unk institute/Unk of/Unk industrial/Unk engineering/Unk nitie/Unk mumbai/Unk
+
+facilities/FACILITY in/NONE dr/Unk bc/Unk roy/Unk engineering/Unk college/Unk bcrec/Unk durgapur/Unk
+
+facilities/FACILITY in/NONE delhi/Unk school/Unk of/Unk professional/Unk studies/Unk and/Unk research/Unk dspsr/Unk new/Unk delhi/Unk
+
+facilities/FACILITY in/NONE management/Unk development/Unk institute/Unk mdi/Unk gurgaon/Unk
+
+reviews/REVIEWS of/Unk sri/Unk venkateswara/Unk college/Unk of/Unk engineering/Unk svce/Unk kanchipuram/Unk
+
+reviews/REVIEWS of/Unk indian/Unk institute/Unk of/Unk foreign/Unk trade/Unk iift/Unk new/Unk delhi/Unk
+
+reviews/REVIEWS of/Unk institute/Unk of/Unk management/Unk technology/Unk imt/Unk ghaziabad/Unk
+
+reviews/REVIEWS of/Unk international/Unk management/Unk institute/Unk imi/Unk new/Unk delhi/Unk
+
+reviews/REVIEWS of/Unk department/Unk of/Unk management/Unk studies/Unk iit/Unk madras/Unk doms/Unk iit/Unk madras/Unk chennai/Unk
+
+reviews/REVIEWS of/Unk vinod/Unk gupta/Unk school/Unk of/Unk management/Unk vgsom/Unk kharagpur/Unk
+
+reviews/REVIEWS of/Unk department/Unk of/Unk management/Unk studies/Unk iit/Unk delhi/Unk dms/Unk iitd/Unk new/Unk delhi/Unk
+
+reviews/REVIEWS of/Unk vinayaka/Unk missions/Unk college/Unk of/Unk pharmacy/Unk vmcp/Unk salem/Unk
+
+reviews/REVIEWS of/Unk jeppiaar/Unk maamallan/Unk institute/Unk of/Unk technology/Unk sriperumbudur/Unk
+
+reviews/REVIEWS of/Unk itm/Unk university/Unk school/Unk of/Unk business/Unk gwalior/Unk
+
+reviews/REVIEWS of/Unk sydenham/Unk institute/Unk of/Unk management/Unk studies/Unk research/Unk &/Unk entrepreneurship/Unk education/Unk simsree/Unk mumbai/Unk
+
+reviews/REVIEWS of/Unk jabalpur/Unk engineering/Unk college/Unk jec/Unk jabalpur/Unk
+
+reviews/REVIEWS of/Unk symbiosis/Unk institute/Unk of/Unk business/Unk management/Unk sibm/Unk pune/Unk
+
+reviews/REVIEWS of/Unk malla/Unk reddy/Unk engineering/Unk college/Unk mrec/Unk hyderabad/Unk
+
+reviews/REVIEWS of/Unk eastern/Unk academy/Unk of/Unk science/Unk &/Unk technology/Unk east/Unk bhubaneswar/Unk
+
+reviews/REVIEWS of/Unk dr/Unk rajendra/Unk prasad/Unk government/Unk medical/Unk college/Unk rpgmc/Unk kangra/Unk
+
+reviews/REVIEWS of/Unk mica/Unk the/Unk school/Unk of/Unk ideas/Unk ahmedabad/Unk
+
+reviews/REVIEWS of/Unk shree/Unk dhanvantary/Unk pharmacy/Unk college/Unk sdpc/Unk surat/Unk
+
+reviews/REVIEWS of/Unk t/Unk a/Unk pai/Unk management/Unk institute/Unk tapmi/Unk manipal/Unk
+
+reviews/REVIEWS of/Unk great/Unk lakes/Unk institute/Unk of/Unk management/Unk kanchipuram/Unk
+
+reviews/REVIEWS of/Unk gitam/Unk school/Unk of/Unk international/Unk business/Unk gsib/Unk visakhapatnam/Unk
+
+affiliation/AFFILIATION of/Unk institute/Unk of/Unk rural/Unk management/Unk irma/Unk anand/Unk
+
+affiliation/AFFILIATION of/Unk maratha/Unk mandal/Unk college/Unk of/Unk pharmacy/Unk belgaum/Unk
+
+affiliation/AFFILIATION of/Unk pragati/Unk engineering/Unk college/Unk east/Unk godavari/Unk
+
+affiliation/AFFILIATION of/Unk iilm/Unk institute/Unk for/Unk higher/Unk education/Unk lodhi/Unk road/Unk new/Unk delhi/Unk
+
+affiliation/AFFILIATION of/Unk bharathidasan/Unk institute/Unk of/Unk management/Unk bim/Unk thiruchirapalli/Unk
+
+affiliation/AFFILIATION of/Unk net/Unk pharmacy/Unk college/Unk raichur/Unk
+
+affiliation/AFFILIATION of/Unk rmd/Unk engineering/Unk college/Unk rmdec/Unk thiruvallur/Unk
+
+affiliation/AFFILIATION of/Unk sri/Unk ramachandra/Unk university/Unk chennai/Unk
+
+affiliation/AFFILIATION of/Unk rajagiri/Unk college/Unk of/Unk social/Unk sciences/Unk rcss/Unk cochin/Unk
+
+affiliation/AFFILIATION of/Unk xavier/Unk institute/Unk of/Unk management/Unk ximb/Unk bhubaneswar/Unk
+
+affiliation/AFFILIATION of/Unk kiet/Unk group/Unk of/Unk institutions/Unk kiet/Unk ghaziabad/Unk
+
+affiliation/AFFILIATION of/Unk rajasthan/Unk college/Unk of/Unk engineering/Unk for/Unk women/Unk rcew/Unk jaipur/Unk
+
+affiliation/AFFILIATION of/Unk prin/Unk l/Unk n/Unk welingkar/Unk institute/Unk of/Unk management/Unk development/Unk &/Unk research/Unk we/Unk school/Unk mumbai/Unk
+
+affiliation/AFFILIATION of/Unk manipal/Unk institute/Unk of/Unk technology/Unk mit/Unk manipal/Unk
+
+affiliation/AFFILIATION of/Unk national/Unk institute/Unk of/Unk agricultural/Unk extension/Unk management/Unk manage/Unk hyderabad/Unk
+
+affiliation/AFFILIATION of/Unk kj/Unk somaiya/Unk medical/Unk college/Unk &/Unk research/Unk centre/Unk kjsmc/Unk mumbai/Unk
+
+affiliation/AFFILIATION of/Unk indian/Unk institute/Unk of/Unk management/Unk iimr/Unk ranchi/Unk
+
+affiliation/AFFILIATION of/Unk fore/Unk school/Unk of/Unk management/Unk fsm/Unk new/Unk delhi/Unk
+
+affiliation/AFFILIATION of/Unk indian/Unk institute/Unk of/Unk management/Unk iim/Unk rohtak/Unk
+
+affiliation/AFFILIATION of/Unk institute/Unk for/Unk financial/Unk management/Unk &/Unk research/Unk ifmr/Unk chittoor/Unk
+
+affiliation/AFFILIATION of/Unk gitam/Unk institute/Unk of/Unk management/Unk gim/Unk visakhapatnam/Unk
+
+location/CITY of/Unk kasturba/Unk medical/Unk college/Unk kmc/Unk manipal/Unk
+
+location/CITY of/Unk goa/Unk institute/Unk of/Unk management/Unk gim/Unk north/Unk goa/Unk
+
+location/CITY of/Unk jadavpur/Unk university/Unk kolkata/Unk
+
+location/CITY of/Unk manipal/Unk university/Unk mu/Unk manipal/Unk
+
+location/CITY of/Unk saveetha/Unk engineering/Unk college/Unk sec/Unk chennai/Unk
+
+location/CITY of/Unk lal/Unk bahadur/Unk shastri/Unk institute/Unk of/Unk management/Unk lbsim/Unk new/Unk delhi/Unk
+
+location/CITY of/Unk abes/Unk engineering/Unk college/Unk ghaziabad/Unk
+
+location/CITY of/Unk fortune/Unk institute/Unk of/Unk international/Unk business/Unk fiib/Unk new/Unk delhi/Unk
+
+location/CITY of/Unk ld/Unk college/Unk of/Unk engineering/Unk ldce/Unk ahmedabad/Unk
+
+location/CITY of/Unk international/Unk institute/Unk of/Unk information/Unk technolog/Unk iiit/Unk pune/Unk
+
+location/CITY of/Unk shri/Unk vishnu/Unk engineering/Unk college/Unk for/Unk women/Unk svecw/Unk bhimavaram/Unk
+
+location/CITY of/Unk sri/Unk venkateswara/Unk college/Unk new/Unk delhi/Unk
+
+location/CITY of/Unk loyola/Unk academy/Unk degree/Unk and/Unk pg/Unk college/Unk secunderabad/Unk
+
+location/CITY of/Unk br/Unk nahata/Unk college/Unk of/Unk pharmacy/Unk brncp/Unk mandsaur/Unk
+
+location/CITY of/Unk sona/Unk college/Unk of/Unk technology/Unk salem/Unk
+
+location/CITY of/Unk sri/Unk ramakrishna/Unk engineering/Unk college/Unk srec/Unk coimbatore/Unk
+
+location/CITY of/Unk jaipuria/Unk institute/Unk of/Unk management/Unk jim/Unk lucknow/Unk
+
+location/CITY of/Unk hl/Unk college/Unk of/Unk commerce/Unk hlcc/Unk ahmedabad/Unk
+
+location/CITY of/Unk ms/Unk ramaiah/Unk institute/Unk of/Unk management/Unk msrim/Unk bangalore/Unk
+
+location/CITY of/Unk sri/Unk sukhmani/Unk institute/Unk of/Unk engineering/Unk and/Unk technology/Unk ssiet/Unk mohali/Unk
+
+location/CITY of/Unk sri/Unk balaji/Unk society/Unk balaji/Unk institute/Unk of/Unk modern/Unk management/Unk bimm/Unk pune/Unk
+
+rank/RANK of/Unk laljibhai/Unk chaturbhai/Unk institute/Unk of/Unk technology/Unk lcit/Unk ahmedabad/Unk
+
+rank/RANK of/Unk vvp/Unk engineering/Unk college/Unk vvpec/Unk rajkot/Unk
+
+rank/RANK of/Unk anand/Unk institute/Unk of/Unk higher/Unk technology/Unk aiht/Unk chennai/Unk
+
+rank/RANK of/Unk patel/Unk college/Unk of/Unk science/Unk and/Unk technology/Unk pcst/Unk bhopal/Unk
+
+rank/RANK of/Unk global/Unk business/Unk school/Unk gbs/Unk hubli/Unk
+
+rank/RANK of/Unk entrepreneurship/Unk development/Unk institute/Unk of/Unk india/Unk edi/Unk gandhi/Unk nagar/Unk
+
+rank/RANK of/Unk national/Unk university/Unk of/Unk advanced/Unk legal/Unk studies/Unk nuals/Unk ernakulam/Unk
+
+rank/RANK of/Unk indus/Unk business/Unk academy/Unk iba/Unk greater/Unk noida/Unk
+
+college/ALL details/ALL indian/Unk institute/Unk of/Unk management/Unk iim/Unk ahmedabad/Unk
+
+college/ALL details/ALL national/Unk law/Unk school/Unk of/Unk india/Unk university/Unk nlsiu/Unk bangalore/Unk
+
+college/ALL details/ALL armed/Unk forces/Unk medical/Unk college/Unk afmc/Unk pune/Unk
+
+college/ALL details/ALL aligarh/Unk muslim/Unk university/Unk amu/Unk aligarh/Unk
+
+college/ALL details/ALL christian/Unk medical/Unk college/Unk cmc/Unk vellore/Unk
+
+college/ALL details/ALL indian/Unk institute/Unk of/Unk management/Unk iimb/Unk bangalore/Unk
+
+college/ALL details/ALL the/Unk west/Unk bengal/Unk national/Unk university/Unk of/Unk juridical/Unk sciences/Unk nujs/Unk kolkata/Unk
+
+college/ALL details/ALL maulana/Unk azad/Unk medical/Unk college/Unk mamc/Unk new/Unk delhi/Unk
+
+college/ALL details/ALL hans/Unk raj/Unk college/Unk hrc/Unk new/Unk delhi/Unk
+
+college/ALL details/ALL christ/Unk university/Unk science/Unk bangalore/Unk
+
+college/ALL details/ALL christ/Unk university/Unk bangalore/Unk
+
+college/ALL details/ALL christ/Unk university/Unk commerce/Unk and/Unk management/Unk bangalore/Unk
+
+college/ALL details/ALL management/Unk development/Unk institute/Unk mdi/Unk gurgaon/Unk
+
+college/ALL details/ALL sri/Unk ramachandra/Unk university/Unk chennai/Unk
+
+college/ALL details/ALL school/Unk of/Unk law/Unk christ/Unk university/Unk bangalore/Unk
+
+college/ALL details/ALL christ/Unk university/Unk faculty/Unk of/Unk engineering/Unk bangalore/Unk
+
+college/ALL details/ALL christ/Unk university/Unk business/Unk studies/Unk and/Unk social/Unk science/Unk bangalore/Unk
+
+college/ALL details/ALL shri/Unk ram/Unk college/Unk of/Unk commerce/Unk srcc/Unk new/Unk delhi/Unk
+
+college/ALL details/ALL symbiosis/Unk law/Unk school/Unk sls/Unk noida/Unk
+
+college/ALL details/ALL madurai/Unk diraviyam/Unk thayumanavar/Unk hindu/Unk college/Unk tirunelveli/Unk
+
+hindu/Unk college/Unk moradabad/Unk college/ALL details/ALL
+
+hindu/Unk college/Unk of/Unk education/Unk guntur/Unk college/ALL details/ALL
+
+hindu/Unk college/Unk of/Unk education/Unk hisar/Unk college/ALL details/ALL
+
+south/Unk travancore/Unk hindu/Unk college/Unk nagercoil/Unk kanchipuram/Unk college/ALL details/ALL
+
+nss/Unk hindu/Unk college/Unk changanacherry/Unk college/ALL details/ALL
+
+st/Unk hindu/Unk college/Unk of/Unk education/Unk kanyakumari/Unk college/ALL details/ALL
+
+gobardanga/Unk hindu/Unk college/Unk north/Unk 24/Unk parganas/Unk college/ALL details/ALL
+
+hindu/Unk college/Unk of/Unk pharmacy/Unk guntur/Unk college/ALL details/ALL
+
+indian/Unk institute/Unk of/Unk management/Unk iimk/Unk kozhikode/Unk college/ALL details/ALL
+
+hindu/Unk college/Unk of/Unk engineering/Unk and/Unk techonology/Unk guntur/Unk college/ALL details/ALL
+
+the/Unk mdthindu/Unk college/Unk tirunelveli/Unk college/ALL details/ALL
+
+hindu/Unk college/Unk of/Unk pharmacy/Unk sonepat/Unk college/ALL details/ALL
+
+sh/Unk ln/Unk hindu/Unk college/Unk rohtak/Unk college/ALL details/ALL
+
+ils/Unk law/Unk college/Unk ils/Unk pune/Unk college/ALL details/ALL
+
+hindu/Unk college/Unk guntur/Unk college/ALL details/ALL
+
+hindu/Unk college/Unk amritsar/Unk college/ALL details/ALL
+
+daita/Unk sriramulu/Unk hindu/Unk college/Unk of/Unk law/Unk machilipatnam/Unk college/ALL details/ALL
+
+dharmamurthi/Unk rao/Unk bahadur/Unk calavala/Unk cunnan/Unk chettys/Unk hindu/Unk college/Unk drbccc/Unk chennai/Unk college/ALL details/ALL
+
+ramjas/Unk college/Unk new/Unk delhi/Unk college/ALL details/ALL
+
+thapar/Unk institute/Unk of/Unk engineering/Unk and/Unk technology/Unk university/Unk thapar/Unk university/Unk patiala/Unk college/ALL details/ALL
+
+madras/Unk christian/Unk college/Unk mcc/Unk chennai/Unk facilities/FACILITY
+
+international/Unk management/Unk institute/Unk imi/Unk new/Unk delhi/Unk facilities/FACILITY
+
+army/Unk institute/Unk of/Unk law/Unk ail/Unk mohali/Unk facilities/FACILITY
+
+government/Unk medical/Unk college/Unk and/Unk hospital/Unk gmch/Unk chandigarh/Unk facilities/FACILITY
+
+indian/Unk institute/Unk of/Unk information/Unk technology/Unk iiit/Unk allahabad/Unk facilities/FACILITY
+
+goa/Unk medical/Unk college/Unk and/Unk hospital/Unk bicholim/Unk facilities/FACILITY
+
+shri/Unk vasantrao/Unk naik/Unk government/Unk medical/Unk college/Unk and/Unk hospital/Unk svngmc/Unk yavatmal/Unk facilities/FACILITY
+
+mahatma/Unk gandhi/Unk medical/Unk college/Unk and/Unk hospital/Unk jaipur/Unk facilities/FACILITY
+
+pacific/Unk medical/Unk college/Unk and/Unk hospital/Unk pmch/Unk udaipur/Unk facilities/FACILITY
+
+pt/Unk jawahar/Unk lal/Unk nehru/Unk government/Unk medical/Unk college/Unk and/Unk hospital/Unk gmch/Unk chamba/Unk facilities/FACILITY
+
+sln/Unk medical/Unk college/Unk and/Unk hospital/Unk koraput/Unk facilities/FACILITY
+
+jss/Unk medical/Unk college/Unk and/Unk hospital/Unk mysore/Unk facilities/FACILITY
+
+vinayaka/Unk missions/Unk medical/Unk college/Unk and/Unk hospital/Unk vmmch/Unk karaikal/Unk facilities/FACILITY
+
+bharati/Unk vidyapeeth/Unk deemed/Unk university/Unk medical/Unk college/Unk and/Unk hospital/Unk sangli/Unk facilities/FACILITY
+
+maharaja/Unk krishna/Unk chandra/Unk gajapati/Unk medical/Unk college/Unk and/Unk hospital/Unk mkcg/Unk berhampur/Unk facilities/FACILITY
+
+katuri/Unk medical/Unk college/Unk and/Unk hospital/Unk guntur/Unk facilities/FACILITY
+
+bakson/Unk homoeopathic/Unk medical/Unk college/Unk and/Unk hospital/Unk bhmch/Unk greater/Unk noida/Unk facilities/FACILITY
+
+anugrah/Unk narayan/Unk magadh/Unk medical/Unk college/Unk and/Unk hospital/Unk anmmch/Unk gaya/Unk facilities/FACILITY
+
+district/Unk homoeopathic/Unk medical/Unk college/Unk and/Unk hospital/Unk dhmch/Unk ratlam/Unk facilities/FACILITY
+
+sree/Unk balaji/Unk medical/Unk college/Unk and/Unk hospital/Unk sbmch/Unk chennai/Unk facilities/FACILITY
+
+gauhati/Unk medical/Unk college/Unk and/Unk hospital/Unk gmch/Unk guwahati/Unk facilities/FACILITY
+
+chirayu/Unk medical/Unk college/Unk and/Unk hospital/Unk cmch/Unk bhopal/Unk facilities/FACILITY
+
+annapoorna/Unk medical/Unk college/Unk and/Unk hospital/Unk salem/Unk facilities/FACILITY
+
+basaveshwara/Unk medical/Unk college/Unk and/Unk hospital/Unk bmch/Unk chitradurga/Unk facilities/FACILITY
+
+zvm/Unk unani/Unk medical/Unk college/Unk and/Unk hospital/Unk pune/Unk facilities/FACILITY
+
+dr/Unk somervell/Unk memorial/Unk csi/Unk medical/Unk college/Unk and/Unk hospital/Unk dr/Unk smcsi/Unk thiruvananthapuram/Unk facilities/FACILITY
+
+jss/Unk ayurvedic/Unk medical/Unk college/Unk and/Unk hospital/Unk jssamc/Unk mysore/Unk facilities/FACILITY
+
+sri/Unk shivayogeeshwar/Unk rural/Unk ayurvedic/Unk medical/Unk college/Unk and/Unk hospital/Unk facilities/FACILITY
+
+kvg/Unk medical/Unk college/Unk and/Unk hospital/Unk sullia/Unk facilities/FACILITY
+
+sri/Unk ram/Unk chandra/Unk bhanj/Unk medical/Unk college/Unk and/Unk hospital/Unk scbmch/Unk cuttack/Unk facilities/FACILITY
+
+mes/Unk medical/Unk college/Unk and/Unk hospital/Unk malappuram/Unk facilities/FACILITY
+
+narayana/Unk medical/Unk college/Unk and/Unk hospital/Unk nellore/Unk facilities/FACILITY
+
+sri/Unk manakula/Unk vinayagar/Unk medical/Unk college/Unk and/Unk hospital/Unk smvmch/Unk pondicherry/Unk facilities/FACILITY
+
+government/Unk medical/Unk college/Unk and/Unk hospital/Unk aurangabad/Unk facilities/FACILITY
+
+government/Unk sivagangai/Unk medical/Unk college/Unk and/Unk hospital/Unk sivaganga/Unk facilities/FACILITY
+
+government/Unk villupuram/Unk medical/Unk college/Unk and/Unk hospital/Unk villupuram/Unk facilities/FACILITY
+
+gmers/Unk medical/Unk college/Unk and/Unk hospital/Unk ahmedabad/Unk facilities/FACILITY
+
+acs/Unk medical/Unk college/Unk and/Unk hospital/Unk chennai/Unk facilities/FACILITY
+
+r/Unk g/Unk kar/Unk medical/Unk college/Unk and/Unk hospital/Unk rgkmch/Unk kolkata/Unk facilities/FACILITY
+
+bangalore/Unk medical/Unk college/Unk and/Unk research/Unk institute/Unk bmcri/Unk bangalore/Unk facilities/FACILITY
+
+
+is/NONE tkr/Unk college/Unk of/Unk engineering/Unk and/Unk technology/Unk tkrcet/Unk hyderabad/Unk private/TYPE public/TYPE or/NONE deemed/TYPE
+
+is/NONE amrita/Unk school/Unk of/Unk business/Unk asb/Unk coimbatore/Unk private/TYPE public/TYPE or/NONE deemed/TYPE
+
+is/NONE psg/Unk institute/Unk of/Unk management/Unk psgim/Unk coimbatore/Unk private/TYPE public/TYPE or/NONE deemed/TYPE
+
+is/NONE national/Unk institute/Unk of/Unk technology/Unk nit/Unk meghalaya/Unk shillong/Unk private/TYPE public/TYPE or/NONE deemed/TYPE
+
+is/NONE hallmark/Unk business/Unk school/Unk hbs/Unk thiruchirapalli/Unk private/TYPE public/TYPE or/NONE deemed/TYPE
+
+is/NONE xavier/Unk institute/Unk of/Unk social/Unk service/Unk xiss/Unk ranchi/Unk private/TYPE public/TYPE or/NONE deemed/TYPE
+
+is/NONE walchand/Unk institute/Unk of/Unk technology/Unk wit/Unk solapur/Unk private/TYPE public/TYPE or/NONE deemed/TYPE
+
+is/NONE scms/Unk cochin/Unk school/Unk of/Unk business/Unk cochin/Unk private/TYPE public/TYPE or/NONE deemed/TYPE
+
+is/NONE ramjas/Unk college/Unk new/Unk delhi/Unk private/TYPE public/TYPE or/NONE deemed/TYPE
+
+is/NONE national/Unk law/Unk school/Unk of/Unk india/Unk university/Unk nlsiu/Unk bangalore/Unk private/TYPE public/TYPE or/NONE deemed/TYPE
+
+is/NONE ar/Unk college/Unk of/Unk pharmacy/Unk vallabh/Unk vidyanagar/Unk private/TYPE public/TYPE or/NONE deemed/TYPE
+
+is/NONE vnr/Unk vignana/Unk jyothi/Unk institute/Unk of/Unk engineering/Unk and/Unk technology/Unk vnrvjiet/Unk hyderabad/Unk private/TYPE public/TYPE or/NONE deemed/TYPE
+
+is/NONE faculty/Unk of/Unk law/Unk university/Unk of/Unk delhi/Unk new/Unk delhi/Unk private/TYPE public/TYPE or/NONE deemed/TYPE
+
+is/NONE the/Unk west/Unk bengal/Unk national/Unk university/Unk of/Unk juridical/Unk sciences/Unk nujs/Unk kolkata/Unk private/TYPE public/TYPE or/NONE deemed/TYPE
+
+is/NONE manipal/Unk university/Unk /Unk faculty/Unk of/Unk architecture/Unk manipal/Unk private/TYPE public/TYPE or/NONE deemed/TYPE
+
+is/NONE shri/Unk govindram/Unk seksaria/Unk institute/Unk of/Unk technology/Unk and/Unk scienc/Unk sgsits/Unk indore/Unk private/TYPE public/TYPE or/NONE deemed/TYPE
+
+is/NONE the/Unk national/Unk law/Unk institute/Unk university/Unk nliu/Unk bhopal/Unk private/TYPE public/TYPE or/NONE deemed/TYPE
+
+is/NONE jaipuria/Unk institute/Unk of/Unk management/Unk jim/Unk noida/Unk private/TYPE public/TYPE or/NONE deemed/TYPE
+
+is/NONE ils/Unk law/Unk college/Unk ils/Unk pune/Unk private/TYPE public/TYPE or/NONE deemed/TYPE
+
+is/NONE faculty/Unk of/Unk law/Unk banaras/Unk hindu/Unk university/Unk varanasi/Unk private/TYPE public/TYPE or/NONE deemed/TYPE
+
+is/NONE national/Unk law/Unk university/Unk nlud/Unk new/Unk delhi/Unk private/TYPE public/TYPE or/NONE deemed/TYPE
+
+when/NONE was/NONE amity/Unk law/Unk school/Unk als/Unk noida/Unk established/ESTD
+
+when/NONE was/NONE the/Unk nitte/Unk gulabi/Unk shetty/Unk memorial/Unk institute/Unk of/Unk pharmaceutical/Unk sciences/Unk ngsmips/Unk mangalore/Unk established/ESTD
+
+when/NONE was/NONE ratnavel/Unk subrahmaniam/Unk college/Unk of/Unk engineering/Unk and/Unk technology/Unk dindigul/Unk established/ESTD
+
+when/NONE was/NONE rajiv/Unk gandhi/Unk national/Unk university/Unk of/Unk law/Unk rgnul/Unk patiala/Unk established/ESTD
+
+when/NONE was/NONE tatyasaheb/Unk kore/Unk institute/Unk of/Unk engineering/Unk and/Unk technology/Unk tkiet/Unk kolhapur/Unk established/ESTD
+
+when/NONE was/NONE jagannath/Unk international/Unk management/Unk school/Unk jims/Unk kalkaji/Unk new/Unk delhi/Unk established/ESTD
+
+when/NONE was/NONE hidayatullah/Unk national/Unk law/Unk university/Unk hnlu/Unk raipur/Unk established/ESTD
+
+when/NONE was/NONE army/Unk institute/Unk of/Unk law/Unk ail/Unk mohali/Unk established/ESTD
+
+when/NONE was/NONE dhirubhai/Unk ambani/Unk institute/Unk of/Unk information/Unk and/Unk communication/Unk technology/Unk diict/Unk gandhi/Unk nagar/Unk established/ESTD
+
+when/NONE was/NONE chanderprabhu/Unk jain/Unk college/Unk of/Unk higher/Unk studies/Unk &/Unk school/Unk of/Unk law/Unk new/Unk delhi/Unk established/ESTD
+
+when/NONE was/NONE university/Unk college/Unk of/Unk law/Unk osmania/Unk university/Unk hyderabad/Unk established/ESTD
+
+when/NONE was/NONE faculty/Unk of/Unk law/Unk university/Unk of/Unk calcutta/Unk kolkata/Unk established/ESTD
+
+when/NONE was/NONE pondicherry/Unk engineering/Unk college/Unk pec/Unk pondicherry/Unk established/ESTD
+
+when/NONE was/NONE university/Unk college/Unk of/Unk law/Unk bangalore/Unk university/Unk bangalore/Unk established/ESTD
+
+when/NONE was/NONE indian/Unk institute/Unk of/Unk information/Unk technology/Unk design/Unk &/Unk manufacturing/Unk iiitdm/Unk chennai/Unk established/ESTD
+
+when/NONE was/NONE asian/Unk business/Unk school/Unk abs/Unk noida/Unk established/ESTD
+
+when/NONE was/NONE tontadarya/Unk college/Unk of/Unk engineering/Unk gadag/Unk established/ESTD
+
+when/NONE was/NONE rc/Unk patel/Unk institute/Unk of/Unk pharmacutical/Unk education/Unk and/Unk research/Unk rcpiper/Unk dhule/Unk established/ESTD
+
+when/NONE was/NONE north/Unk maharashtra/Unk university/Unk institute/Unk of/Unk chemical/Unk technology/Unk uict/Unk jalgaon/Unk established/ESTD
+
+when/NONE was/NONE bangalore/Unk institute/Unk of/Unk legal/Unk studies/Unk bils/Unk bangalore/Unk established/ESTD
+
+when/NONE was/NONE sri/Unk sai/Unk ram/Unk engineering/Unk college/Unk ssec/Unk chennai/Unk established/ESTD
+
+is/NONE yeshwantrao/Unk chavan/Unk college/Unk of/Unk engineering/Unk ycce/Unk nagpur/Unk ugc/AFFILIATION granted/AFFILIATION or/NONE approved/AFFILIATION
+
+is/NONE university/Unk of/Unk petroleum/Unk and/Unk energy/Unk studies/Unk upes/Unk dehradun/Unk ugc/AFFILIATION granted/AFFILIATION or/NONE approved/AFFILIATION
+
+is/NONE shri/Unk vishnu/Unk college/Unk of/Unk pharmacy/Unk svcp/Unk bhimavaram/Unk ugc/AFFILIATION granted/AFFILIATION or/NONE approved/AFFILIATION
+
+is/NONE south/Unk calcutta/Unk law/Unk college/Unk kolkata/Unk ugc/AFFILIATION granted/AFFILIATION or/NONE approved/AFFILIATION
+
+is/NONE army/Unk institute/Unk of/Unk technology/Unk ait/Unk pune/Unk ugc/AFFILIATION granted/AFFILIATION or/NONE approved/AFFILIATION
+
+is/NONE scms/Unk school/Unk of/Unk engineering/Unk and/Unk technology/Unk ernakulam/Unk ugc/AFFILIATION granted/AFFILIATION or/NONE approved/AFFILIATION
+
+is/NONE grg/Unk school/Unk of/Unk management/Unk studies/Unk grgsms/Unk coimbatore/Unk ugc/AFFILIATION granted/AFFILIATION or/NONE approved/AFFILIATION
+
+is/NONE abeda/Unk inamdar/Unk senior/Unk college/Unk pune/Unk ugc/AFFILIATION granted/AFFILIATION or/NONE approved/AFFILIATION
+
+is/NONE iilm/Unk graduate/Unk school/Unk of/Unk management/Unk greater/Unk noida/Unk ugc/AFFILIATION granted/AFFILIATION or/NONE approved/AFFILIATION
+
+is/NONE indus/Unk business/Unk academy/Unk iba/Unk bangalore/Unk ugc/AFFILIATION granted/AFFILIATION or/NONE approved/AFFILIATION
+
+is/NONE vishwakarma/Unk institute/Unk of/Unk technology/Unk vit/Unk bibwewadi/Unk pune/Unk ugc/AFFILIATION granted/AFFILIATION or/NONE approved/AFFILIATION
+
+is/NONE gh/Unk raisoni/Unk college/Unk of/Unk engineering/Unk ghrce/Unk nagpur/Unk ugc/AFFILIATION granted/AFFILIATION or/NONE approved/AFFILIATION
+
+is/NONE acharya/Unk institute/Unk of/Unk technology/Unk ait/Unk bangalore/Unk ugc/AFFILIATION granted/AFFILIATION or/NONE approved/AFFILIATION
+
+is/NONE rajagiri/Unk business/Unk school/Unk rbs/Unk kochi/Unk ugc/AFFILIATION granted/AFFILIATION or/NONE approved/AFFILIATION
+
+is/NONE shri/Unk ramdeo/Unk baba/Unk kamla/Unk nehru/Unk engineering/Unk college/Unk nagpur/Unk ugc/AFFILIATION granted/AFFILIATION or/NONE approved/AFFILIATION
+
+is/NONE vsb/Unk engineering/Unk college/Unk vsbec/Unk karur/Unk ugc/AFFILIATION granted/AFFILIATION or/NONE approved/AFFILIATION
+
+is/NONE jagan/Unk institute/Unk of/Unk management/Unk studies/Unk jims/Unk secto5/Unk rohini/Unk new/Unk delhi/Unk ugc/AFFILIATION granted/AFFILIATION or/NONE approved/AFFILIATION
+
+is/NONE seemanta/Unk institute/Unk of/Unk pharmaceutical/Unk sciences/Unk sips/Unk mayurbhanj/Unk ugc/AFFILIATION granted/AFFILIATION or/NONE approved/AFFILIATION
+
+is/NONE ghousia/Unk college/Unk of/Unk engineering/Unk gce/Unk ramanagar/Unk ugc/AFFILIATION granted/AFFILIATION or/NONE approved/AFFILIATION
+
+is/NONE sikkim/Unk manipal/Unk institute/Unk of/Unk technology/Unk smit/Unk east/Unk sikkim/Unk ugc/AFFILIATION granted/AFFILIATION or/NONE approved/AFFILIATION
+
+is/NONE adi/Unk shankara/Unk institute/Unk of/Unk engineering/Unk and/Unk technology/Unk asiet/Unk kalady/Unk ernakulam/Unk ugc/AFFILIATION granted/AFFILIATION or/NONE approved/AFFILIATION

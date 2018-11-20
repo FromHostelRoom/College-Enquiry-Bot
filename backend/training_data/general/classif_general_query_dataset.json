@@ -1,200 +1,1382 @@
 {
-    "entity_examples": [
-      {
-        "text": "ORDER STREAM LOC-CITY",
-        "intent": "order_str_city",
-        "query": " where `stream_name`= STREAM, `city_name` = LOC-CITY ORDER BY `mhrd`*1"
-      },
-      {
-        "text": "ORDER STREAM LOC-COUNTRY",
-        "intent": "order_str_india",
-        "query": " where `stream_name`= STREAM, `country_name` = 'India' ORDER BY `mhrd`*1"
-      },
-      {
-        "text": "ORDER STREAM LOC-STATE",
-        "intent": "order_str_state",
-        "query": " where `stream_name`= STREAM, `state_name` = LOC-STATE ORDER BY `mhrd`*1"
-      },
-      {
-        "text": "ORDER SUBSTREAM LOC-CITY",
-        "intent": "order_substr_city",
-        "query": " where `substream_name`= SUBSTREAM, `city_name` = LOC-CITY ORDER BY `mhrd`*1"
-      },
-      {
-        "text": "ORDER SUBSTREAM LOC-COUNTRY",
-        "intent": "order_substr_india",
-        "query": " where `substream_name`= SUBSTREAM, `country_name` = 'India' ORDER BY `mhrd`*1"
-      },
-      {
-        "text": "ORDER SUBSTREAM LOC-STATE",
-        "intent": "order_substr_state",
-        "query": " where `substream_name`= SUBSTREAM, `city_name` = LOC-STATE ORDER BY `mhrd`*1"
-      },
-      {
-        "text": "ORDER LOC-CITY STREAM",
-        "intent": "order_str_city",
-        "query": " where `stream_name`= STREAM, `city_name` = LOC-CITY ORDER BY `mhrd`*1"
-      },
-      {
-        "text": "ORDER LOC-CITY SUBSTREAM",
-        "intent": "order_substr_city",
-        "query": " where `substream_name`= SUBSTREAM, `city_name` = LOC-CITY ORDER BY `mhrd`*1"
-      },
-      {
-        "text": "ORDER LOC-COUNTRY STREAM",
-        "intent": "order_str_india",
-        "query": " where `stream_name`= STREAM, `country_name` = LOC-CITY ORDER BY `mhrd`*1"
-      },
-      {
-        "text": "ORDER LOC-COUNTRY SUBSTREAM",
-        "intent": "order_substr_india",
-        "query": " where `substream_name`= SUBSTREAM, `country_name` = 'India' ORDER BY `mhrd`*1"
-      },
-      {
-        "text": "ORDER LOC-STATE STREAM",
-        "intent": "order_str_state",
-        "query": " where `stream_name`= STREAM, `state_name` = LOC-STATE ORDER BY `mhrd`*1"
-      },
-      {
-        "text": "ORDER LOC-STATE SUBSTREAM",
-        "intent": "order_substr_state",
-        "query": " where `substream_name`= SUBSTREAM, `state_name` = LOC-STATE ORDER BY `mhrd`*1"
-      },
+    "entity_examples": [{
+            "text": "RANK LOC-COUNTRY",
+            "intent": "order_india",
+            "query": "where `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd`"
+        },
+        {
+            "text": "RANK LOC-CITY",
+            "intent": "order_city",
+            "query": "where `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd`"
+        },
+        {
+            "text": "RANK LOC-STATE",
+            "intent": "order_state",
+            "query": "where `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd`"
+        },
+        {
+            "text": "RANK COUNT",
+            "intent": "order_count",
+            "query": "where ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "RANK SUBSTREAM",
+            "intent": "order_substr",
+            "query": "where `substream_name` = 'SUBSTREAM' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd`"
+        },
+        {
+            "text": "RANK STREAM",
+            "intent": "order_str",
+            "query": "where `stream_name` = 'STREAM' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd`"
+        },
+        {
+            "text": "LOC-COUNTRY RANK",
+            "intent": "order_india",
+            "query": "where `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd`"
+        },
+        {
+            "text": "LOC-COUNTRY COUNT",
+            "intent": "count_india",
+            "query": "where `country_name` = 'India' LIMIT COUNT"
+        },
+        {
+            "text": "LOC-COUNTRY SUBSTREAM",
+            "intent": "substr_india",
+            "query": "where `country_name` = 'India' `AND substream_name`=SUBSTREAM"
+        },
+        {
+            "text": "LOC-COUNTRY STREAM",
+            "intent": "str_india",
+            "query": "where `country_name` = 'India' AND `stream_name = 'STREAM'"
+        },
+        {
+            "text": "LOC-CITY RANK",
+            "intent": "order_city",
+            "query": "where `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd`"
+        },
+        {
+            "text": "LOC-CITY COUNT",
+            "intent": "order_city",
+            "query": "where `city_name` = 'LOC-CITY' LIMIT COUNT"
+        },
+        {
+            "text": "LOC-CITY SUBSTREAM",
+            "intent": "substr_city",
+            "query": "where `city_name` = 'LOC-CITY' AND `substream_name' = 'SUBSTREAM'"
+        },
+        {
+            "text": "LOC-CITY STREAM",
+            "intent": "str_city",
+            "query": "where `city_name` = 'LOC-CITY' AND `stream_name` = 'STREAM'"
+        },
+        {
+            "text": "LOC-STATE RANK",
+            "intent": "order_state",
+            "query": "where `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd`"
+        },
+        {
+            "text": "LOC-STATE COUNT",
+            "intent": "count_state",
+            "query": "where `state_name` = 'LOC-STATE' LIMIT COUNT"
+        },
+        {
+            "text": "LOC-STATE SUBSTREAM",
+            "intent": "state_substr",
+            "query": "where `state_name = 'LOC-STATE' AND `substream_name` = 'SUBSTREAM'"
+        },
+        {
+            "text": "LOC-STATE STREAM",
+            "intent": "str_state",
+            "query": "where `state_name` = 'LOC-STATE' AND `stream_name` = 'STREAM'"
+        },
+        {
+            "text": "COUNT RANK",
+            "intent": "order_count",
+            "query": "where ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "COUNT LOC-COUNTRY",
+            "intent": "count_india",
+            "query": "where `country_name` = 'India' LIMIT COUNT"
+        },
+        {
+            "text": "COUNT LOC-CITY",
+            "intent": "count_city",
+            "query": "where `city_name` = 'LOC-CITY' LIMIT COUNT"
+        },
+        {
+            "text": "COUNT LOC-STATE",
+            "intent": "count_state",
+            "query": "where `state_name` = 'LOC-STATE' LIMIT COUNT"
+        },
+        {
+            "text": "COUNT SUBSTREAM",
+            "intent": "substr_count",
+            "query": "where `substream_name` = 'SUBSTREAM' LIMIT COUNT"
+        },
+        {
+            "text": "COUNT STREAM",
+            "intent": "str-count",
+            "query": "where `stream_name` = 'STREAM' LIMIT COUNT"
+        },
+        {
+            "text": "SUBSTREAM RANK",
+            "intent": "order_substr",
+            "query": "where `substream_name` = 'SUBSTREAM' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd`"
+        },
+        {
+            "text": "SUBSTREAM LOC-COUNTRY",
+            "intent": "substr_india",
+            "query": "where `country_name` = 'India' AND `substream_name` = 'SUBSTREAM'"
+        },
+        {
+            "text": "SUBSTREAM LOC-CITY",
+            "intent": "substr_city",
+            "query": "where `city_name` = 'LOC-CITY' AND `substream_city` = 'SUBSTREAM'"
+        },
+        {
+            "text": "SUBSTREAM LOC-STATE",
+            "intent": "substr_state",
+            "query": "where `state_name` = 'LOC-STATE' AND `substream_name` = 'SUBSTREAM'"
+        },
+        {
+            "text": "SUBSTREAM COUNT",
+            "intent": "count_substr",
+            "query": "where `substream_name` = 'SUBSTREAM' LIMIT COUNT"
+        },
+        {
+            "text": "STREAM RANK",
+            "intent": "order_str",
+            "query": "where `stream_name` = 'STREAM' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd`"
+        },
+        {
+            "text": "STREAM LOC-COUNTRY",
+            "intent": "str_india",
+            "query": "where `country_name` = 'India' AND `stream_name` = 'STREAM'"
+        },
+        {
+            "text": "STREAM LOC-CITY",
+            "intent": "str_city",
+            "query": "where `city_name` = 'LOC-CITY' AND `stream-name` = 'STREAM'"
+        },
+        {
+            "text": "STREAM LOC-STATE",
+            "intent": "str_state",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `state_name` = 'LOC-STATE'"
+        },
+        {
+            "text": "STREAM COUNT",
+            "intent": "str_count",
+            "query": "where `stream_name` = 'STREAM' LIMIT COUNT"
+        },
 
-      {
-        "text": "ORDER COUNT STREAM LOC-CITY",
-        "intent": "order_count_str_city",
-        "query": " where `stream_name`= STREAM, `city_name` = LOC-CITY ORDER BY `mhrd`*1 LIMIT COUNT"
-      },
-      {
-        "text": "ORDER COUNT STREAM LOC-COUNTRY",
-        "intent": "order_count_str_india",
-        "query": " where `stream_name`= STREAM, `country_name` = 'India' ORDER BY `mhrd`*1 LIMIT COUNT"
-      },
-      {
-        "text": "ORDER COUNT STREAM LOC-STATE",
-        "intent": "order_count_str_state",
-        "query": " where `stream_name`= STREAM, `state_name` = LOC-STATE ORDER BY `mhrd`*1 LIMIT COUNT"
-      },
-      {
-        "text": "ORDER COUNT SUBSTREAM LOC-CITY",
-        "intent": "order_count_substr_city",
-        "query": " where `substream_name`= SUBSTREAM, `city_name` = LOC-CITY ORDER BY `mhrd`*1 LIMIT COUNT"
-      },
-      {
-        "text": "ORDER COUNT SUBSTREAM LOC-COUNTRY",
-        "intent": "order_count_substr_country",
-        "query": " where `substream_name`= SUBSTREAM, `country_name` = 'India' ORDER BY `mhrd`*1 LIMIT COUNT"
-      },
-      {
-        "text": "ORDER COUNT SUBSTREAM LOC-STATE",
-        "intent": "order_count_substr_state",
-        "query": " where `substream_name`= SUBSTREAM, `state_name` = LOC-STATE ORDER BY `mhrd`*1 LIMIT COUNT"
-      },
-      {
-        "text": "ORDER COUNT LOC-CITY STREAM",
-        "intent": "order_count_str_city",
-        "query": " where `stream_name`= STREAM, `city_name` = LOC-CITY ORDER BY `mhrd`*1 LIMIT COUNT"
-      },
-      {
-        "text": "ORDER COUNT LOC-CITY SUBSTREAM",
-        "intent": "order_count_substr_city",
-        "query": " where `substream_name`= SUBSTREAM, `city_name` = LOC-CITY ORDER BY `mhrd`*1 LIMIT COUNT"
-      },
-      {
-        "text": "ORDER COUNT LOC-COUNTRY STREAM",
-        "intent": "order_count_str_india",
-        "query": " where `stream_name`= STREAM, `country_name` = 'India' ORDER BY `mhrd`*1 LIMIT COUNT"
-      },
-      {
-        "text": "ORDER COUNT LOC-COUNTRY SUBSTREAM",
-        "intent": "order_count_substr_india",
-        "query": " where `substream_name`= SUBSTREAM, `country_name` = 'India' ORDER BY `mhrd`*1 LIMIT COUNT"
-      },
-      {
-        "text": "ORDER COUNT LOC-STATE STREAM",
-        "intent": "order_count_str_state",
-        "query": " where `stream_name`= STREAM, `state_name` = LOC-STATE ORDER BY `mhrd`*1 LIMIT COUNT"
-      },
-      {
-        "text": "ORDER COUNT LOC-STATE SUBSTREAM",
-        "intent": "order_count_substr_state",
-        "query": " where `substream_name`= SUBSTREAM, `state_name` = LOC-STATE ORDER BY `mhrd`*1 LIMIT COUNT"
-      },
-      {
-        "text": "ORDER SUBSTREAM",
-        "intent": "order_substr_india",
-        "query": " where `substream_name`= SUBSTREAM ORDER BY `mhrd`*1"
-      },
+        {
+            "text": "SUBSTREAM LOC-STATE RANK",
+            "intent": "order_substr_state",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd`"
+        },
+        {
+            "text": "SUBSTREAM LOC-STATE COUNT",
+            "intent": "count_substr_state",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `state_name` = 'LOC-STATE' LIMIT COUNT"
+        },
+        {
+            "text": "SUBSTREAM LOC-COUNTRY RANK",
+            "intent": "order_substr_india",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd`"
+        },
+        {
+            "text": "SUBSTREAM LOC-COUNTRY COUNT",
+            "intent": "count_substr_india",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `country_name` = 'India' LIMIT COUNT"
+        },
+        {
+            "text": "SUBSTREAM LOC-CITY RANK",
+            "intent": "order_substr_city",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd`1"
+        },
+        {
+            "text": "SUBSTREAM LOC-CITY COUNT",
+            "intent": "count_substr_city",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `city_name` = 'LOC-CITY' LIMIT COUNT"
+        },
+        {
+            "text": "SUBSTREAM COUNT RANK",
+            "intent": "order_substr_count",
+            "query": "where `substream_name` = 'SUBSTREAM' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "SUBSTREAM COUNT LOC-STATE",
+            "intent": "count_substr_state",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `state_name` = 'LOC-STATE' LIMIT COUNT"
+        },
+        {
+            "text": "SUBSTREAM COUNT LOC-COUNTRY",
+            "intent": "count_substr_india",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd`"
+        },
+        {
+            "text": "SUBSTREAM COUNT LOC-CITY",
+            "intent": "count_substr_city",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `city_name` = 'LOC-CITY' LIMIT COUNT"
+        },
+        {
+            "text": "STREAM RANK LOC-STATE",
+            "intent": "order_str_state",
+            "query": "where `stream_name` = 'STREAM' AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd`"
+        },
+        {
+            "text": "STREAM RANK LOC-COUNTRY",
+            "intent": "order_str_india",
+            "query": "where `stream_name` = 'STREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd`"
+        },
+        {
+            "text": "STREAM RANK LOC-CITY",
+            "intent": "order_str_city",
+            "query": "where `stream_name` = 'STREAM' AND `city_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd`"
+        },
+        {
+            "text": "STREAM RANK COUNT",
+            "intent": "order_str_count",
+            "query": "where `stream_name` = 'STREAM' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "STREAM LOC-STATE RANK",
+            "intent": "order_str_state",
+            "query": "where `stream_name` = 'STREAM' AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd`"
+        },
+        {
+            "text": "STREAM LOC-STATE COUNT",
+            "intent": "count_str_state",
+            "query": "where `stream_name` = 'STREAM' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "STREAM LOC-COUNTRY RANK",
+            "intent": "order_str_india",
+            "query": "where `stream_name` = 'STREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd`"
+        },
+        {
+            "text": "STREAM LOC-COUNTRY COUNT",
+            "intent": "count_str_india",
+            "query": "where `stream_name` = 'STREAM' AND `country_name` = 'India' LIMIT COUNT"
+        },
+        {
+            "text": "STREAM LOC-CITY RANK",
+            "intent": "order_str_city",
+            "query": "where `stream_name` = 'STREAM' AND `city_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd`"
+        },
+        {
+            "text": "STREAM LOC-CITY COUNT",
+            "intent": "count_str_city",
+            "query": "where `stream_name` = 'STREAM' AND `city_name` = 'India' LIMIT COUNT"
+        },
+        {
+            "text": "STREAM COUNT RANK",
+            "intent": "order_str_count",
+            "query": "where `stream_name` = 'STREAM' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "STREAM COUNT LOC-STATE",
+            "intent": "count_str_state",
+            "query": "where `stream_name` = 'STREAM' AND `state_name` = 'LOC-STATE' LIMIT COUNT"
+        },
+        {
+            "text": "STREAM COUNT LOC-COUNTRY",
+            "intent": "count_str_india",
+            "query": "where `stream_name` = 'STREAM' AND `country_name` = 'India' LIMIT COUNT"
+        },
+        {
+            "text": "STREAM COUNT LOC-CITY",
+            "intent": "count_str_city",
+            "query": "where `stream_name` = 'STREAM' AND `city_name` = 'LOC-CITY' LIMIT COUNT"
+        },
+        {
+            "text": "RANK SUBSTREAM LOC-STATE",
+            "intent": "order_substr_state",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd`"
+        },
+        {
+            "text": "RANK SUBSTREAM LOC-COUNTRY",
+            "intent": "order_substr_india",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd`"
+        },
+        {
+            "text": "RANK SUBSTREAM LOC-CITY",
+            "intent": "order_substr_city",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd`"
 
-      {
-        "text": "ORDER STREAM",
-        "intent": "order_str_india",
-        "query": " where `stream_name`= STREAM ORDER BY `mhrd`*1"
-      },
+        },
+        {
+            "text": "RANK SUBSTREAM COUNT",
+            "intent": "order_substr_count",
+            "query": "where `substream_name` = 'SUBSTREAM' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "RANK STREAM LOC-STATE",
+            "intent": "order_str_state",
+            "query": "where `stream_name` = 'STREAM' AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd`"
+        },
+        {
+            "text": "RANK STREAM LOC-COUNTRY",
+            "intent": "order_str_india",
+            "query": "where `stream_name` = 'STREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd`"
+        },
+        {
+            "text": "RANK STREAM LOC-CITY",
+            "intent": "order_str_city",
+            "query": "where `stream_name` = 'STREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd`"
+        },
+        {
+            "text": "RANK STREAM COUNT",
+            "intent": "order_str_count",
+            "query": "where `stream_name` = 'STREAM' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "RANK LOC-STATE SUBSTREAM",
+            "intent": "order_substr_state",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd`"
+        },
+        {
+            "text": "RANK LOC-STATE STREAM",
+            "intent": "order_str_state",
+            "query": "where `stream_name` = 'STREAM' AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd`"
+        },
+        {
+            "text": "RANK LOC-STATE COUNT",
+            "intent": "order_count_state",
+            "query": "where `state_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "RANK LOC-COUNTRY SUBSTREAM",
+            "intent": "order_substr_india",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd`"
 
-      {
-        "text": "SUBSTREAM LOC-COUNTRY",
-        "intent": "substr_india",
-        "query": " where `substream_name`= SUBSTREAM and `country_name` = 'India'"
-      },
-      {
-        "text": "SUBSTREAM LOC-CITY",
-        "intent": "substr_city",
-        "query": " where `substream_name`= SUBSTREAM and `city_name` = LOC-CITY"
-      },
-      {
-        "text": "SUBSTREAM LOC-STATE",
-        "intent": "substr_state",
-        "query": " where `substream_name`= SUBSTREAM and `state_name` = LOC-STATE"
-      },
+        },
+        {
+            "text": "RANK LOC-COUNTRY STREAM",
+            "intent": "order_str_india",
+            "query": "where `stream_name` = 'STREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd`"
+        },
+        {
+            "text": "RANK LOC-COUNTRY COUNT",
+            "intent": "order_count_india",
+            "query": "where `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "RANK LOC-CITY SUBSTREAM",
+            "intent": "order_substr_city",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd`"
+        },
+        {
+            "text": "RANK LOC-CITY STREAM",
+            "intent": "order_str_city",
+            "query": "where `stream_name` = 'STREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd`"
+        },
+        {
+            "text": "RANK LOC-CITY COUNT",
+            "intent": "order_count_city",
+            "query": "where `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "RANK COUNT SUBSTREAM",
+            "intent": "order_substr_count",
+            "query": "where `substream_name` = 'SUBSTREAM' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "RANK COUNT STREAM",
+            "intent": "order_str_count",
+            "query": "where `stream_name` = 'STREAM' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "RANK COUNT LOC-STATE",
+            "intent": "order_count_state",
+            "query": "where `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "RANK COUNT LOC-COUNTRY",
+            "intent": "order_str_india",
+            "query": "where `stream_name` = 'STREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd`"
+        },
+        {
+            "text": "RANK COUNT LOC-CITY",
+            "intent": "order_count_city",
+            "query": "where `city_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "LOC-STATE SUBSTREAM RANK",
+            "intent": "order_substr_state",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd`"
+        },
+        {
+            "text": "LOC-STATE SUBSTREAM COUNT",
+            "intent": "order_str_india",
+            "query": "where `stream_name` = 'STREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd`"
+        },
+        {
+            "text": "LOC-STATE STREAM RANK",
+            "intent": "order_str_state",
+            "query": "where `stream_name` = 'STREAM' AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd`"
+        },
+        {
+            "text": "LOC-STATE STREAM COUNT",
+            "intent": "count_str_state",
+            "query": "where `stream_name` = 'STREAM' AND `state_name` = 'LOC-STATE' LIMIT COUNT"
+        },
+        {
+            "text": "LOC-STATE RANK SUBSTREAM",
+            "intent": "order_substr_state",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd`"
+        },
+        {
+            "text": "LOC-STATE RANK STREAM",
+            "intent": "order_str_state",
+            "query": "where `stream_name` = 'STREAM' AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd`"
+        },
+        {
+            "text": "LOC-STATE RANK COUNT",
+            "intent": "order_count_state",
+            "query": "where `state_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "LOC-STATE COUNT SUBSTREAM",
+            "intent": "count_substr_state",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `state_name` = 'LOC-STATE' LIMIT COUNT"
+        },
+        {
+            "text": "LOC-STATE COUNT STREAM",
+            "intent": "count_str_state",
+            "query": "where `stream_name` = 'STREAM' AND `state_name` = 'India' LIMIT COUNT"
+        },
+        {
+            "text": "LOC-STATE COUNT RANK",
+            "intent": "order_count_state",
+            "query": "where `state_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "LOC-COUNTRY SUBSTREAM RANK",
+            "intent": "order_substr_india",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd`"
+        },
+        {
+            "text": "LOC-COUNTRY SUBSTREAM COUNT",
+            "intent": "count_substr_india",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `country_name` = 'India' LIMIT COUNT"
+        },
+        {
+            "text": "LOC-COUNTRY STREAM RANK",
+            "intent": "order_str_india",
+            "query": "where `stream_name` = 'STREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd`"
+        },
+        {
+            "text": "LOC-COUNTRY STREAM COUNT",
+            "intent": "count_str_india",
+            "query": "where `stream_name` = 'STREAM' AND `country_name` = 'India' LIMIT COUNT"
+        },
+        {
+            "text": "LOC-COUNTRY RANK SUBSTREAM",
+            "intent": "order_substr_india",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd`"
+        },
+        {
+            "text": "LOC-COUNTRY RANK STREAM",
+            "intent": "order_str_india",
+            "query": "where `stream_name` = 'STREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd`"
+        },
+        {
+            "text": "LOC-COUNTRY RANK COUNT",
+            "intent": "order_count_india",
+            "query": "where `stream_name` = 'STREAM' AND `country_name` = 'India' LIMIT COUNT"
+        },
+        {
+            "text": "LOC-COUNTRY COUNT SUBSTREAM",
+            "intent": "count_substr_india",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `country_name` = 'India' LIMIT COUNT"
+        },
+        {
+            "text": "LOC-COUNTRY COUNT STREAM",
+            "intent": "count_str_india",
+            "query": "where `stream_name` = 'STREAM' AND `country_name` = 'India' LIMIT COUNT"
+        },
+        {
+            "text": "LOC-COUNTRY COUNT RANK",
+            "intent": "order_count_india",
+            "query": "where `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "LOC-CITY SUBSTREAM RANK",
+            "intent": "order_substr_city",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd`"
+        },
+        {
+            "text": "LOC-CITY SUBSTREAM COUNT",
+            "intent": "count_substr_city",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `city_name` = 'LOC-CITY' LIMIT COUNT"
+        },
+        {
+            "text": "LOC-CITY STREAM RANK",
+            "intent": "order_str_city",
+            "query": "where `stream_name` = 'STREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd`"
+        },
+        {
+            "text": "LOC-CITY STREAM COUNT",
+            "intent": "count_str_city",
+            "query": "where `stream_name` = 'STREAM' AND `city_name` = 'LOC-CITY' LIMIT COUNT"
+        },
+        {
+            "text": "LOC-CITY RANK SUBSTREAM",
+            "intent": "order_substr_city",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd`"
+        },
+        {
+            "text": "LOC-CITY RANK STREAM",
+            "intent": "order_str_city",
+            "query": "where `stream_name` = 'STREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd`"
+        },
+        {
+            "text": "LOC-CITY RANK COUNT",
+            "intent": "order_count_city",
+            "query": "where `city_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "LOC-CITY COUNT SUBSTREAM",
+            "intent": "count_substr_city",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `city_name` = 'LOC-CITY' LIMIT COUNT"
+        },
+        {
+            "text": "LOC-CITY COUNT STREAM",
+            "intent": "count_str_city",
+            "query": "where `stream_name` = 'STREAM' AND `city_name` = 'LOC-CITY' LIMIT COUNT"
+        },
+        {
+            "text": "LOC-CITY COUNT RANK",
+            "intent": "order_count_city",
+            "query": "where `city_name` = LIMIT COUNT RANK BY `mhrd`*1 LIMIT COUNT"
+        },
+        {
+            "text": "COUNT SUBSTREAM RANK",
+            "intent": "order_substr_count",
+            "query": "where `substream_name` = 'SUBSTREAM' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "COUNT SUBSTREAM LOC-STATE",
+            "intent": "count_substr_state",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `state_name` = 'LOC-STATE' LIMIT COUNT"
+        },
+        {
+            "text": "COUNT SUBSTREAM LOC-COUNTRY",
+            "intent": "count_substr_india",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `country_name` = 'India' LIMIT COUNT"
+        },
+        {
+            "text": "COUNT SUBSTREAM LOC-CITY",
+            "intent": "count_substr_city",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `city_name` = 'LOC-CITY' LIMIT COUNT"
+        },
+        {
+            "text": "COUNT STREAM RANK",
+            "intent": "order_str_count",
+            "query": "where `stream_name` = 'STREAM' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "COUNT STREAM LOC-STATE",
+            "intent": "count_str_state",
+            "query": "where `stream_name` = 'STREAM' AND `state_name` = 'LOC-STATE' LIMIT COUNT"
+        },
+        {
+            "text": "COUNT STREAM LOC-COUNTRY",
+            "intent": "count_str_india",
+            "query": "where `stream_name` = 'STREAM' AND `country_name` = 'India' LIMIT COUNT"
+        },
+        {
+            "text": "COUNT STREAM LOC-CITY",
+            "intent": "count_str_city",
+            "query": "where `stream_name` = 'STREAM' AND `city_name` = 'LOC-CITY' LIMIT COUNT"
+        },
+        {
+            "text": "COUNT RANK SUBSTREAM",
+            "intent": "order_substr_count",
+            "query": "where `substream_name` = 'SUBSTREAM' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "COUNT RANK STREAM",
+            "intent": "order_str_count",
+            "query": "where `stream_name` = 'STREAM' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "COUNT RANK LOC-STATE",
+            "intent": "order_count_state",
+            "query": "where `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "COUNT RANK LOC-COUNTRY",
+            "intent": "order_count_india",
+            "query": "where `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "COUNT RANK LOC-CITY",
+            "intent": "order_count_city",
+            "query": "where `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "COUNT LOC-STATE SUBSTREAM",
+            "intent": "count_substr_state",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `state_name` = 'LOC-STATE' LIMIT COUNT"
+        },
+        {
+            "text": "COUNT LOC-STATE STREAM",
+            "intent": "count_str_state",
+            "query": "where `stream_name` = 'STREAM' AND `state_name` = 'LOC-STATE' LIMIT COUNT"
+        },
+        {
+            "text": "COUNT LOC-STATE RANK",
+            "intent": "order_count_state",
+            "query": "where `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "COUNT LOC-COUNTRY SUBSTREAM",
+            "intent": "count_substr_india",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `country_name` = 'India' LIMIT COUNT"
+        },
+        {
+            "text": "COUNT LOC-COUNTRY STREAM",
+            "intent": "count_str_india",
+            "query": "where `stream_name` = 'STREAM' AND `country_name` = 'India' LIMIT COUNT"
+        },
+        {
+            "text": "COUNT LOC-COUNTRY RANK",
+            "intent": "order_count_india",
+            "query": "where `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "COUNT LOC-CITY SUBSTREAM",
+            "intent": "count_substr_city",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `city_name` = 'LOC-CITY' LIMIT COUNT"
+        },
+        {
+            "text": "COUNT LOC-CITY STREAM",
+            "intent": "count_str_city",
+            "query": "where `stream_name` = 'STREAM' AND `city_name` = 'LOC-CITY' LIMIT COUNT"
+        },
+        {
+            "text": "COUNT LOC-CITY RANK",
+            "intent": "order_count_city",
+            "query": "where `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
 
-      {
-        "text": "STREAM LOC-COUNTRY",
-        "intent": "str_india",
-        "query": " where `stream_name`= STREAM and `country_name` = 'India'"
-      },
-      {
-        "text": "STREAM LOC-CITY",
-        "intent": "str_city",
-        "query": " where `stream_name`= STREAM and `city_name` = LOC-CITY"
-      },
-      {
-        "text": "STREAM LOC-STATE",
-        "intent": "str_state",
-        "query": " where `stream_name`= STREAM and `state_name` = LOC-STATE"
-      },
-
-      {
-        "text": "LOC-STATE",
-        "intent": "state",
-        "query": " where `state_name` = LOC-STATE"
-      },
-      {
-        "text": "LOC-CITY",
-        "intent": "city",
-        "query": " where `city_name` = LOC-CITY"
-      },
-      {
-        "text": "LOC-COUNTRY",
-        "intent": "india",
-        "query": " where `country_name` = 'India'"
-      },
-
-      {
-        "text": "ORDER LOC-STATE",
-        "intent": "order_state",
-        "query": " where `state_name` = LOC-STATE ORDER BY `mhrd`*1"
-      },
-      {
-        "text": "ORDER LOC-CITY",
-        "intent": "order_city",
-        "query": " where `city_name` = LOC-CITY ORDER BY `mhrd`*1"
-      },
-      {
-        "text": "ORDER LOC-COUNTRY",
-        "intent": "order_india",
-        "query": " where `country_name` = 'India' ORDER BY `mhrd`*1"
-      }     
+        {
+            "text": "SUBSTREAM RANK LOC-STATE COUNT",
+            "intent": "substr_state_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "SUBSTREAM RANK LOC-COUNTRY COUNT",
+            "intent": "substr_india_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "SUBSTREAM RANK LOC-CITY COUNT",
+            "intent": "substr_city_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "SUBSTREAM RANK COUNT LOC-STATE",
+            "intent": "substr_state_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "SUBSTREAM RANK COUNT LOC-COUNTRY",
+            "intent": "substr_india_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "SUBSTREAM RANK COUNT LOC-CITY",
+            "intent": "substr_city_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "SUBSTREAM LOC-STATE RANK COUNT",
+            "intent": "substr_state_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "SUBSTREAM LOC-STATE COUNT RANK",
+            "intent": "substr_state_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "SUBSTREAM LOC-COUNTRY RANK COUNT",
+            "intent": "substr_india_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "SUBSTREAM LOC-COUNTRY COUNT RANK",
+            "intent": "substr_india_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "SUBSTREAM LOC-CITY RANK COUNT",
+            "intent": "substr_city_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "SUBSTREAM LOC-CITY COUNT RANK",
+            "intent": "substr_city_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "SUBSTREAM COUNT RANK LOC-STATE",
+            "intent": "substr_state_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "SUBSTREAM COUNT RANK LOC-COUNTRY",
+            "intent": "substr_india_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "SUBSTREAM COUNT RANK LOC-CITY",
+            "intent": "substr_city_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "SUBSTREAM COUNT LOC-STATE RANK",
+            "intent": "substr_state_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "SUBSTREAM COUNT LOC-COUNTRY RANK",
+            "intent": "substr_state_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "SUBSTREAM COUNT LOC-CITY RANK",
+            "intent": "substr_city_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "STREAM RANK LOC-STATE COUNT",
+            "intent": "str_state_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "STREAM RANK LOC-COUNTRY COUNT",
+            "intent": "str_india_order_count",
+            "query": "where `stream_name` = 'SUBSTREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "STREAM RANK LOC-CITY COUNT",
+            "intent": "str_city_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "STREAM RANK COUNT LOC-STATE",
+            "intent": "str_state_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "STREAM RANK COUNT LOC-COUNTRY",
+            "intent": "str_india_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "STREAM RANK COUNT LOC-CITY",
+            "intent": "str_city_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "STREAM LOC-STATE RANK COUNT",
+            "intent": "str_state_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "STREAM LOC-STATE COUNT RANK",
+            "intent": "str_state_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "STREAM LOC-COUNTRY RANK COUNT",
+            "intent": "str_india_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "STREAM LOC-COUNTRY COUNT RANK",
+            "intent": "str_india_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "STREAM LOC-CITY RANK COUNT",
+            "intent": "str_city_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "STREAM LOC-CITY COUNT RANK",
+            "intent": "str_city_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "STREAM COUNT RANK LOC-STATE",
+            "intent": "str_state_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "STREAM COUNT RANK LOC-COUNTRY",
+            "intent": "str_india_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "STREAM COUNT RANK LOC-CITY",
+            "intent": "str_city_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "STREAM COUNT LOC-STATE RANK",
+            "intent": "str_state_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "STREAM COUNT LOC-COUNTRY RANK",
+            "intent": "str_india_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "STREAM COUNT LOC-CITY RANK",
+            "intent": "str_city_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "RANK SUBSTREAM LOC-STATE COUNT",
+            "intent": "substr_state_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "RANK SUBSTREAM LOC-COUNTRY COUNT",
+            "intent": "substr_india_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "RANK SUBSTREAM LOC-CITY COUNT",
+            "intent": "substr_city_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "RANK SUBSTREAM COUNT LOC-STATE",
+            "intent": "substr_state_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "RANK SUBSTREAM COUNT LOC-COUNTRY",
+            "intent": "substr_india_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "RANK SUBSTREAM COUNT LOC-CITY",
+            "intent": "substr_city_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "RANK STREAM LOC-COUNTRY COUNT",
+            "intent": "str_india_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "RANK STREAM LOC-CITY COUNT",
+            "intent": "str_city_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "RANK STREAM COUNT LOC-STATE",
+            "intent": "str_state_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "RANK STREAM COUNT LOC-COUNTRY",
+            "intent": "str_india_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "RANK STREAM COUNT LOC-CITY",
+            "intent": "str_city_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "RANK LOC-STATE SUBSTREAM COUNT",
+            "intent": "substr_state_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "RANK LOC-STATE STREAM COUNT",
+            "intent": "str_state_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "RANK LOC-STATE COUNT SUBSTREAM",
+            "intent": "substr_state_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "RANK LOC-STATE COUNT STREAM",
+            "intent": "str_state_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "RANK LOC-COUNTRY SUBSTREAM COUNT",
+            "intent": "substr_india_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "RANK LOC-COUNTRY STREAM COUNT",
+            "intent": "str_india_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "RANK LOC-COUNTRY COUNT SUBSTREAM",
+            "intent": "substr_india_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "RANK LOC-COUNTRY COUNT STREAM",
+            "intent": "str_india_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "RANK LOC-CITY SUBSTREAM COUNT",
+            "intent": "substr_city_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "RANK LOC-CITY STREAM COUNT",
+            "intent": "str_city_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "RANK LOC-CITY COUNT SUBSTREAM",
+            "intent": "substr_city_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "RANK LOC-CITY COUNT STREAM",
+            "intent": "str_city_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "RANK COUNT SUBSTREAM LOC-STATE",
+            "intent": "substr_state_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "RANK COUNT SUBSTREAM LOC-COUNTRY",
+            "intent": "substr_india_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "RANK COUNT SUBSTREAM LOC-CITY",
+            "intent": "substr_city_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "RANK COUNT STREAM LOC-STATE",
+            "intent": "str_state_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "RANK COUNT STREAM LOC-COUNTRY",
+            "intent": "str_india_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "RANK COUNT STREAM LOC-CITY",
+            "intent": "str_city_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "RANK COUNT LOC-STATE SUBSTREAM",
+            "intent": "substr_state_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "RANK COUNT LOC-STATE STREAM",
+            "intent": "str_state_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "RANK COUNT LOC-COUNTRY SUBSTREAM",
+            "intent": "substr_india_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "RANK COUNT LOC-COUNTRY STREAM",
+            "intent": "str_india_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "RANK COUNT LOC-CITY SUBSTREAM",
+            "intent": "substr_city_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "RANK COUNT LOC-CITY STREAM",
+            "intent": "str_city_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "LOC-STATE SUBSTREAM RANK COUNT",
+            "intent": "substr_state_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "LOC-STATE SUBSTREAM COUNT RANK",
+            "intent": "str_city_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "LOC-STATE STREAM RANK COUNT",
+            "intent": "str_state_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "LOC-STATE STREAM COUNT RANK",
+            "intent": "str_state_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "LOC-STATE RANK SUBSTREAM COUNT",
+            "intent": "substr_state_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "LOC-STATE RANK STREAM COUNT",
+            "intent": "str_state_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "LOC-STATE RANK COUNT SUBSTREAM",
+            "intent": "substr_state_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "LOC-STATE RANK COUNT STREAM",
+            "intent": "str_state_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "LOC-STATE COUNT SUBSTREAM RANK",
+            "intent": "substr_state_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "LOC-STATE COUNT STREAM RANK",
+            "intent": "str_state_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "LOC-STATE COUNT RANK SUBSTREAM",
+            "intent": "substr_state_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "LOC-STATE COUNT RANK STREAM",
+            "intent": "str_state_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "LOC-COUNTRY SUBSTREAM RANK COUNT",
+            "intent": "substr_india_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "LOC-COUNTRY SUBSTREAM COUNT RANK",
+            "intent": "substr_india_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "LOC-COUNTRY STREAM RANK COUNT",
+            "intent": "str_india_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "LOC-COUNTRY STREAM COUNT RANK",
+            "intent": "str_india_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "LOC-COUNTRY RANK SUBSTREAM COUNT",
+            "intent": "substr_india_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "LOC-COUNTRY RANK STREAM COUNT",
+            "intent": "str_india_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "LOC-COUNTRY RANK COUNT SUBSTREAM",
+            "intent": "substr_india_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "LOC-COUNTRY RANK COUNT STREAM",
+            "intent": "str_india_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "LOC-COUNTRY COUNT SUBSTREAM RANK",
+            "intent": "substr_india_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "LOC-COUNTRY COUNT STREAM RANK",
+            "intent": "str_india_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "LOC-COUNTRY COUNT RANK SUBSTREAM",
+            "intent": "substr_india_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "LOC-COUNTRY COUNT RANK STREAM",
+            "intent": "str_india_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "LOC-CITY SUBSTREAM RANK COUNT",
+            "intent": "substr_city_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "LOC-CITY SUBSTREAM COUNT RANK",
+            "intent": "substr_city_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "LOC-CITY STREAM RANK COUNT",
+            "intent": "str_city_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "LOC-CITY STREAM COUNT RANK",
+            "intent": "str_city_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "LOC-CITY RANK SUBSTREAM COUNT",
+            "intent": "substr_city_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "LOC-CITY RANK STREAM COUNT",
+            "intent": "str_city_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "LOC-CITY RANK COUNT SUBSTREAM",
+            "intent": "substr_city_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "LOC-CITY RANK COUNT STREAM",
+            "intent": "str_city_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "LOC-CITY COUNT SUBSTREAM RANK",
+            "intent": "substr_city_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "LOC-CITY COUNT STREAM RANK",
+            "intent": "str_city_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "LOC-CITY COUNT RANK SUBSTREAM",
+            "intent": "substr_city_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "LOC-CITY COUNT RANK STREAM",
+            "intent": "str_city_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "COUNT SUBSTREAM RANK LOC-STATE",
+            "intent": "substr_state_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "COUNT SUBSTREAM RANK LOC-COUNTRY",
+            "intent": "substr_india_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "COUNT SUBSTREAM RANK LOC-CITY",
+            "intent": "substr_city_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "COUNT SUBSTREAM LOC-STATE RANK",
+            "intent": "substr_state_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "COUNT SUBSTREAM LOC-COUNTRY RANK",
+            "intent": "substr_india_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "COUNT SUBSTREAM LOC-CITY RANK",
+            "intent": "substr_city_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "COUNT STREAM RANK LOC-STATE",
+            "intent": "str_state_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "COUNT STREAM RANK LOC-COUNTRY",
+            "intent": "str_india_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "COUNT STREAM RANK LOC-CITY",
+            "intent": "str_state_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "COUNT STREAM LOC-STATE RANK",
+            "intent": "str_state_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "COUNT STREAM LOC-COUNTRY RANK",
+            "intent": "str_india_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "COUNT STREAM LOC-CITY RANK",
+            "intent": "str_city_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "COUNT RANK SUBSTREAM LOC-STATE",
+            "intent": "substr_state_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "COUNT RANK SUBSTREAM LOC-COUNTRY",
+            "intent": "substr_india_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "COUNT RANK SUBSTREAM LOC-CITY",
+            "intent": "substr_city_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "COUNT RANK STREAM LOC-STATE",
+            "intent": "str_state_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "COUNT RANK STREAM LOC-COUNTRY",
+            "intent": "str_india_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "COUNT RANK STREAM LOC-CITY",
+            "intent": "str_city_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "COUNT RANK LOC-STATE SUBSTREAM",
+            "intent": "substr_state_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "COUNT RANK LOC-STATE STREAM",
+            "intent": "str_state_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "COUNT RANK LOC-COUNTRY SUBSTREAM",
+            "intent": "substr_india_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "COUNT RANK LOC-COUNTRY STREAM",
+            "intent": "str_india_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "COUNT RANK LOC-CITY SUBSTREAM",
+            "intent": "substr_city_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "COUNT RANK LOC-CITY STREAM",
+            "intent": "str_city_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "COUNT LOC-STATE SUBSTREAM RANK",
+            "intent": "substr_state_order_count",
+            "query": "where `substream_name` =SUBSTREAM AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "COUNT LOC-STATE STREAM RANK",
+            "intent": "str_state_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "COUNT LOC-STATE RANK SUBSTREAM",
+            "intent": "substr_state_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "COUNT LOC-STATE RANK STREAM",
+            "intent": "str_state_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `state_name` = 'LOC-STATE' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "COUNT LOC-COUNTRY SUBSTREAM RANK",
+            "intent": "substr_india_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "COUNT LOC-COUNTRY STREAM RANK",
+            "intent": "str_india_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "COUNT LOC-COUNTRY RANK SUBSTREAM",
+            "intent": "substr_india_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "COUNT LOC-COUNTRY RANK STREAM",
+            "intent": "str_india_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `country_name` = 'India' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "COUNT LOC-CITY SUBSTREAM RANK",
+            "intent": "substr_city_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "COUNT LOC-CITY STREAM RANK",
+            "intent": "str_city_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "COUNT LOC-CITY RANK SUBSTREAM",
+            "intent": "substr_city_order_count",
+            "query": "where `substream_name` = 'SUBSTREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        },
+        {
+            "text": "COUNT LOC-CITY RANK STREAM",
+            "intent": "str_city_order_count",
+            "query": "where `stream_name` = 'STREAM' AND `city_name` = 'LOC-CITY' ORDER BY CASE WHEN `mhrd` IS NULL THEN 1 ELSE 0 END, `mhrd` LIMIT COUNT"
+        }
     ]
 }
